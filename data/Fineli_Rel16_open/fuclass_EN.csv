@@ -1,0 +1,122 @@
+THSCODE;DESCRIPT;LANG
+FRUDITOT;Fruit and berry dishes;EN
+FRUFRESH;Fruits;EN
+FRUBSAL;Fruit and berry salads;EN
+BERFRESH;Berries;EN
+FRUBSOUP;Fruit and berry soups;EN
+FRUBPAST;Berry and fruit pies;EN
+FRUBJUIC;Juices;EN
+JAM;Jams and marmalades;EN
+VEGDITOT;Vegetable dishes;EN
+VEGFRESH;Vegetables;EN
+VEGPOT;Cooked vegetables;EN
+VEGDISH;Vegetable dishes;EN
+VEGCASS;Vegetable casseroles;EN
+VEGSOUP;Vegetable soups;EN
+MUSHRDI;Mushroom dishes;EN
+VEGCANN;Canned vegetables;EN
+VEGJUICE;Vegetable juices;EN
+SALADTOT;Prepared salads;EN
+SALADVEG;Vegetable salads;EN
+SALADMIX;Mixed salads;EN
+POTATOT;Potatoes;EN
+POTACOOK;Cooked potatoes;EN
+POTADISH;Potato dishes;EN
+POTAFAT;Fried or creamy potatoes;EN
+CEBAKTOT;Cereals and cereal products;EN
+BRMIX;Bread, mixed flour;EN
+BRWHITE;Wheat bread;EN
+BRRYE;Rye bread;EN
+BUN;Buns;EN
+BAKSWEET;Sweet bakery;EN
+BISCUIT;Biscuits;EN
+BAKSALT;Savoury bakery;EN
+SANDWICH;Sandwiches and burgers;EN
+RICEADD;Rice;EN
+PASTAADD;Pasta;EN
+PORR;Porridge;EN
+CERBRKF;Breakfast cereals;EN
+CERPR;Pies and other cereal products;EN
+PIZZA;Pizza;EN
+MILKDTOT;Milk dishes;EN
+MILKFF;Milks skimmed;EN
+MILKLF;Milks <2% fat;EN
+MILKHF;Milks >2% fat;EN
+SMILK;Soured milks;EN
+YOGHURT;Yoghurt;EN
+MILKCURL;Cultured milks;EN
+CHEESHAR;Hard cheeses;EN
+CHEESOFT;Processed and fresh cheeses;EN
+VEGCHEES;Modified cheeses;EN
+ICECREAM;Ice cream;EN
+MILKPUDD;Milk desserts;EN
+MILKSAUC;Milk sauces;EN
+FATTOT;Fat and fat products;EN
+BRFBUTT;Butter and butter spread >60%;EN
+BRFMARG;Margarine and fat spread >55%;EN
+BRFLOWF;Margarine, butter spread and fat spread <55%;EN
+DRESSING;Salad dressings;EN
+FATPROD;Other fat products;EN
+FATSAUCE;Fat sauces;EN
+EGGDISH;Egg dishes;EN
+EGGS;Egg;EN
+EGGMIX;Egg dishes;EN
+FISHDTOT;Fish dishes;EN
+FISH;Fish;EN
+FISHCASS;Fish casseroles;EN
+FISHSOUP;Fish soups;EN
+FISHDOTH;Other fish dishes;EN
+FISHPROD;Fish products;EN
+MEATDTOT;Meat dishes;EN
+MSTEAK;Steaks and chops;EN
+MINCMED;Minced meat dishes;EN
+MEATPOT;Meat hot-pot;EN
+MEATCASS;Meat casseroles;EN
+MEATSOUP;Meat soups;EN
+POULTDI;Poultry dishes;EN
+SAUSAGE;Cold cuts and sausages;EN
+SAUSDISH;Sausage dishes;EN
+OFFALDI;Offal dishes;EN
+BEVTOT;Beverages;EN
+COFFEE;Coffee;EN
+TEA;Tea;EN
+DRWATER;Drinking water;EN
+DRJUICE;Juice drink;EN
+DRINKSO;Soft drink with sugar;EN
+DRINKCO;Soft drink with caffeine;EN
+DRINKART;Drinks with artificial sweeteners;EN
+DRSPORT;Sport drink;EN
+ALCTOT;Alcoholic beverages;EN
+BEER;Beers;EN
+WINE;Wines;EN
+SPIRIT;Spirits;EN
+ALCOTH;Other alcoholic beverages;EN
+SUGARTOT;Sugar and confectionery;EN
+SUGADD;Sugar and syrups;EN
+SWEET;Confectionery;EN
+CHOCOL;Chocolate;EN
+MISCTOT;Miscellaneous;EN
+SPICES;Spices;EN
+SNACK;Snacks;EN
+SPISAUCE;Condiments;EN
+INGRMISC;Miscellaneous ingredients;EN
+BABYFTOT;Babyfood;EN
+BABMEATD;Baby meat dish;EN
+BABFISHD;Baby fish dish;EN
+BABMILPO;Baby porridge with milk;EN
+BABWATPO;Baby porridge with water;EN
+BABFRUB;Baby fruit and berry product;EN
+BABVEGE;Baby vegetable product;EN
+BABMIFRU;Baby fruit with milk product;EN
+BABOTHER;Baby food, not specified;EN
+MMILK;Infant formulas and human milk;EN
+INFMILK;Infant formulas and human milk;EN
+CASMILK;Casein formulas;EN
+PREMILK;Premature formulas;EN
+SOYMILK;Soy milk formulas;EN
+WHEYMILK;Whey formulas;EN
+AMINMILK;Amino acid formulas;EN
+SPECTOT;Products for special nutritional use;EN
+SPECSUPP;Dietary supplement;EN
+MEALREP;Meal replacements;EN
+SPECFOOD;Products for nutritional support;EN

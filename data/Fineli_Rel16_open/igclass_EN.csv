@@ -1,0 +1,108 @@
+THSCODE;DESCRIPT;LANG
+FRUITTOT;Fruits;EN
+APPLE;Malaceous fruit;EN
+CITRUS;Citrus fruit;EN
+FRUITOTH;Other fruits;EN
+BERRY;Berries;EN
+FRUITCAN;Canned fruits;EN
+JUICE;Juices;EN
+FBDRINK;Juice drink;EN
+VEGTOT;Vegetables;EN
+VEGLEAF;Leaf vegetables;EN
+VEGFRU;Fruit vegetables;EN
+CABBAGE;Cabbages;EN
+VEGONI;Onion-family vegetables;EN
+ROOT;Root vegetables and tubers;EN
+MUSHRO;Edible fungi;EN
+VEGCANN;Canned vegetables;EN
+LEGUTOT;Pulses and nuts;EN
+PEABEAN;Pulses vegetables;EN
+NUTSEED;Nuts and seeds;EN
+SOYAPROD;Soya products;EN
+POTATOT;Potatoes;EN
+POTATO;Potato;EN
+POTAPROD;Potato products;EN
+CERTOT;Cereals;EN
+WHEAT;Wheat;EN
+RYE;Rye;EN
+OATBAR;Oats and barley;EN
+PASTA;Pasta and macaroni;EN
+RICE;Rice;EN
+CEROTH;Other grains;EN
+BRHARD;Crispbreads;EN
+BISCUIT;Biscuits;EN
+STARCH;Starches;EN
+MILKTOT;Milk;EN
+MILK;Milks;EN
+SMILK;Fermented milk products;EN
+CHEESE;Cheese;EN
+CREAM;Cream;EN
+ICECREAM;Ice cream;EN
+MILKOTH;Other milk products;EN
+FATTOT;Fat;EN
+BUTTMIX;Butter and butter spread;EN
+OIL;Oils;EN
+FATVEG;Margarine and fat spread >55%;EN
+FATLVEG;Margarine and fat spread <55%;EN
+FATHARD;Fats for cooking and industrial use;EN
+FATOTH;Other fat products;EN
+FATANIM;Animal fat;EN
+EGGTOT;Egg;EN
+EGG;Chicken eggs;EN
+EGGOTH;Other eggs;EN
+FISHTOT;Fish;EN
+FISH;Fish;EN
+FISHPROD;Fish products;EN
+SHELLFIS;Crustaceans and molluscs;EN
+MEATTOT;Meat;EN
+BEEF;Beef;EN
+PORK;Pork;EN
+LAMM;Lamb/mutton;EN
+POULTRY;Birds;EN
+SAUSAGE;Sausages;EN
+MEATPROD;Meat products;EN
+GAME;Game meat;EN
+OFFAL;Offal;EN
+BEVTOT;Beverages;EN
+COFFEE;Coffee;EN
+TEA;Tea;EN
+WATER;Water;EN
+SDRINK;Soft drinks;EN
+ALCTOT;Alcoholic beverages;EN
+BEER;Beers;EN
+WINE;Wines;EN
+SPIRIT;Spirits;EN
+ALCOTH;Other alcoholic beverages;EN
+SUGARTOT;Sugar and confectionery;EN
+SUGARSYR;Sugar and syrups;EN
+SWEET;Non-chocolate confectionery;EN
+CHOCOLAT;Chocolate;EN
+SUGAROTH;Other sugar products;EN
+FLAVTOT;Spices;EN
+HERB;Dried herbs;EN
+FLAVSEED;Dried spices;EN
+FLAVSAUC;Condiments;EN
+INGRTOT;Other ingredients;EN
+SALT;Salt;EN
+SWEAGE;Sweeteners;EN
+INGRMIS;Miscellaneous ingredients;EN
+INDTOT;Manufactured food;EN
+SNACK;Snacks;EN
+INDMEAL;Manufactured food;EN
+DIETTOT;Products for special nutritional use;EN
+BABYFOOD;Baby foods;EN
+MMILK;Infant formulas and human milk;EN
+VITSUPPL;Vitamin supplement;EN
+VITMISUP;Vitamin-mineral supplement;EN
+MINSUPPL;Mineral supplement;EN
+FATSUPPL;Fat supplement (incl. lecithin);EN
+FIBSUPPL;Fiber supplement;EN
+ENZYMES;Enzyme supplement;EN
+HERBSUP;Herbal supplement;EN
+HOMEOS;Homeopathic supplement;EN
+PROBPREB;Probiot and bacteria supplement;EN
+YEAST;Yeast supplement;EN
+ANTROPOS;Anthroposophic supplement;EN
+SPECFOOD;Products for nutritional support;EN
+NONINGR;Non-ingredient;EN
+DISH;Dish;EN

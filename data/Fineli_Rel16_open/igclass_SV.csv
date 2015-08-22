@@ -1,0 +1,108 @@
+THSCODE;DESCRIPT;LANG
+FRUITTOT;Frukt;SV
+APPLE;Äppelfrukt;SV
+CITRUS;Citrusfrukter;SV
+FRUITOTH;Övrig frukt;SV
+BERRY;Bär;SV
+FRUITCAN;Fruktkonserver;SV
+JUICE;Juicer;SV
+FBDRINK;Saftdrycker;SV
+VEGTOT;Grönsaker;SV
+VEGLEAF;Bladgrönsaker;SV
+VEGFRU;Grönsaksfrukt;SV
+CABBAGE;Kål;SV
+VEGONI;Lökgrönsaker;SV
+ROOT;Rot- och knölväxter;SV
+MUSHRO;Svamp;SV
+VEGCANN;Grönsakskonserver;SV
+LEGUTOT;Baljväxter och nötter;SV
+PEABEAN;Baljväxter;SV
+NUTSEED;Nötter, frön;SV
+SOYAPROD;Sojaprodukter;SV
+POTATOT;Potatis;SV
+POTATO;Potatis;SV
+POTAPROD;Potatisprodukter;SV
+CERTOT;Spannmål;SV
+WHEAT;Vete;SV
+RYE;Råg;SV
+OATBAR;Havre, korn;SV
+PASTA;Pasta, makaroner;SV
+RICE;Ris;SV
+CEROTH;Övrigt spannmål;SV
+BRHARD;Torrt bröd;SV
+BISCUIT;Kex;SV
+STARCH;Stärkelse;SV
+MILKTOT;Mjölk;SV
+MILK;Mjölk;SV
+SMILK;Syrade mjölkprodukter;SV
+CHEESE;Ost;SV
+CREAM;Grädde/creme;SV
+ICECREAM;Glass;SV
+MILKOTH;Övrig mjölk;SV
+FATTOT;Näringsfetter;SV
+BUTTMIX;Smör, mjölkfettblandningar;SV
+OIL;Olja;SV
+FATVEG;Margarin och matfett >55 %;SV
+FATLVEG;Margarin och matfett <55 %;SV
+FATHARD;Matlagnings- och industrifett;SV
+FATOTH;Övriga fetter, fettprodukter;SV
+FATANIM;Animaliskt fett;SV
+EGGTOT;Ägg;SV
+EGG;Ägg, hönsägg;SV
+EGGOTH;Ägg av andra fåglar;SV
+FISHTOT;Fisk;SV
+FISH;Fisk;SV
+FISHPROD;Fiskprodukter;SV
+SHELLFIS;Skaldjur;SV
+MEATTOT;Kött;SV
+BEEF;Nöt;SV
+PORK;Gris;SV
+LAMM;Lamm;SV
+POULTRY;Fåglar;SV
+SAUSAGE;Korv;SV
+MEATPROD;Köttprodukter;SV
+GAME;Vilt;SV
+OFFAL;Organ;SV
+BEVTOT;Drycker;SV
+COFFEE;Kaffe;SV
+TEA;Te;SV
+WATER;Vatten;SV
+SDRINK;Läskedrycker;SV
+ALCTOT;Alkoholdrycker;SV
+BEER;Öl;SV
+WINE;Vin;SV
+SPIRIT;Starksprit;SV
+ALCOTH;Övriga alkoholdrycker;SV
+SUGARTOT;Socker och sötsaker;SV
+SUGARSYR;Socker, sirap;SV
+SWEET;Sötsaker;SV
+CHOCOLAT;Choklad;SV
+SUGAROTH;Diverse godis;SV
+FLAVTOT;Kryddor;SV
+HERB;Torkade örter;SV
+FLAVSEED;Torkade kryddor;SV
+FLAVSAUC;Kryddsåser;SV
+INGRTOT;Tillverkningsämnen;SV
+SALT;Salt;SV
+SWEAGE;Sötningsmedel;SV
+INGRMIS;Hjälpämnen vid tillverkning;SV
+INDTOT;Industriella maträtter;SV
+SNACK;Snacks;SV
+INDMEAL;Industriell mat;SV
+DIETTOT;Näringspreparat;SV
+BABYFOOD;Barnmat;SV
+MMILK;Modersmjölksersättningar och modersmjölk;SV
+VITSUPPL;Vitaminpreparat;SV
+VITMISUP;Vitamin- och mineralpreparat;SV
+MINSUPPL;Mineralpreparat;SV
+FATSUPPL;Fettpreparat (inkl. lecitin);SV
+FIBSUPPL;Fiberpreparat;SV
+ENZYMES;Enzym preparat;SV
+HERBSUP;Ört preparat;SV
+HOMEOS;Homeopatisk preparat;SV
+PROBPREB;Probiot och bakterie preparat;SV
+YEAST;Jäst preparat;SV
+ANTROPOS;Antroposofisk preparat;SV
+SPECFOOD;Kliniska näringspreparat;SV
+NONINGR;Icke råvara;SV
+DISH;Maträtt;SV

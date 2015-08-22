@@ -1,0 +1,52 @@
+THSCODE;DESCRIPT;LANG
+NUTRIENT;Nutrients;EN
+MACROCMP;Macro-components;EN
+ENERGY;Energy;EN
+PROTEIN;Protein;EN
+TOTALFAT;Fat, total;EN
+TOTALCAR;Carbohydrates, total;EN
+ALCOHOL;Alcohol;EN
+WATER;Water;EN
+ASH;Ash;EN
+DRYMATR;Dry matter;EN
+CARBOCMP;Carbohydrate Components;EN
+SUGAR;Sugars;EN
+STARCH;Starch;EN
+FIBRE;Fibre;EN
+POLYOL;Polyols;EN
+POLYSACC;Polysaccharides;EN
+OLIGSACC;Oligosaccharides;EN
+FAT;Fat;EN
+FATACID;Fatty acids;EN
+STEROL;Sterols;EN
+PHOLIPID;Phospholipids;EN
+TRIGLYSE;Triglycerides;EN
+MINERAL;Minerals;EN
+MACROELM;Macroelements;EN
+TRACEELM;Trace elements;EN
+NITROCMP;Nitrogen Components;EN
+NITROGEN;Nitrogen;EN
+AMACID;Amino acids;EN
+VITAM;Vitamins;EN
+FSVITAM;Fat soluble vitamins;EN
+WSVITAM;Water soluble vitamins;EN
+ORGACID;Organic acids;EN
+MISC;Miscellaneous;EN
+NATINHCN;Natural/inherent constituents;EN
+FLAVON;Flavonoids;EN
+NITRATE;Nitrate;EN
+OXAACID;Oxalic acid;EN
+PHYACID;Phytic acid;EN
+PHYESTRO;Phytoestrogens;EN
+TANNIN;Tannins;EN
+INOSITOL;Inositol;EN
+PURINE;Purines;EN
+BIOTOXIN;Biotoxins;EN
+ADDITIVE;Additives;EN
+CONT;Contaminants;EN
+ORGCONT;Organic contaminants;EN
+PCB;PCBs;EN
+DIOXIN;Dioxins;EN
+INOCONT;Inorganic contaminants;EN
+HVYMETAL;Heavy metals;EN
+PESTICID;Pesticides;EN

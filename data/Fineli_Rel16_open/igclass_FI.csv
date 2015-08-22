@@ -1,0 +1,108 @@
+THSCODE;DESCRIPT;LANG
+FRUITTOT;Hedelmät;FI
+APPLE;Omenahedelmät;FI
+CITRUS;Sitrushedelmät;FI
+FRUITOTH;Muut hedelmät;FI
+BERRY;Marjat;FI
+FRUITCAN;Hedelmäsäilykkeet;FI
+JUICE;Täysmehut;FI
+FBDRINK;Mehujuomat;FI
+VEGTOT;Kasvikset;FI
+VEGLEAF;Lehtivihannekset;FI
+VEGFRU;Vihanneshedelmät;FI
+CABBAGE;Kaalit;FI
+VEGONI;Sipulikasvikset;FI
+ROOT;Juuri- ja mukulakasvit;FI
+MUSHRO;Sienet;FI
+VEGCANN;Kasvissäilykkeet;FI
+LEGUTOT;Palkokasvit ja pähkinät;FI
+PEABEAN;Palkokasvit;FI
+NUTSEED;Pähkinät, siemenet;FI
+SOYAPROD;Soijavalmisteet;FI
+POTATOT;Perunat;FI
+POTATO;Peruna;FI
+POTAPROD;Perunavalmisteet;FI
+CERTOT;Viljat;FI
+WHEAT;Vehnä;FI
+RYE;Ruis;FI
+OATBAR;Kaura, ohra;FI
+PASTA;Pasta, makaroni;FI
+RICE;Riisi;FI
+CEROTH;Muu vilja;FI
+BRHARD;Kuiva leipä;FI
+BISCUIT;Keksit;FI
+STARCH;Tärkkelykset;FI
+MILKTOT;Maito;FI
+MILK;Maidot;FI
+SMILK;Hapanmaitotuotteet;FI
+CHEESE;Juusto;FI
+CREAM;Kerma/ creme;FI
+ICECREAM;Jäätelö;FI
+MILKOTH;Muu maito;FI
+FATTOT;Ravintorasvat;FI
+BUTTMIX;Voi, maitorasvaseokset;FI
+OIL;Öljy;FI
+FATVEG;Margariini ja rasvalevitteet >55%;FI
+FATLVEG;Margariini ja  rasvalevite <55%;FI
+FATHARD;Ruoanvalmistus- ja teollisuusrasva;FI
+FATOTH;Muu rasva, rasvavalmisteet;FI
+FATANIM;Eläinrasva;FI
+EGGTOT;Muna;FI
+EGG;Kananmunat;FI
+EGGOTH;Muiden lintujen munat;FI
+FISHTOT;Kala;FI
+FISH;Kalat;FI
+FISHPROD;Kalavalmisteet;FI
+SHELLFIS;Äyriäiset ja nilviäiset;FI
+MEATTOT;Lihat;FI
+BEEF;Naudanliha;FI
+PORK;Sianliha;FI
+LAMM;Lammas;FI
+POULTRY;Kanalinnut;FI
+SAUSAGE;Makkarat;FI
+MEATPROD;Lihavalmisteet;FI
+GAME;Riista;FI
+OFFAL;Elimet;FI
+BEVTOT;Juomat;FI
+COFFEE;Kahvi;FI
+TEA;Tee;FI
+WATER;Vesi;FI
+SDRINK;Virvoitusjuomat;FI
+ALCTOT;Alkoholijuomat;FI
+BEER;Oluet;FI
+WINE;Viinit;FI
+SPIRIT;Väkevät viinat;FI
+ALCOTH;Muut alkoholijuomat;FI
+SUGARTOT;Sokerit ja makeiset;FI
+SUGARSYR;Sokerit, siirapit;FI
+SWEET;Makeiset;FI
+CHOCOLAT;Suklaa;FI
+SUGAROTH;Sekalaiset makeat;FI
+FLAVTOT;Mausteet;FI
+HERB;Kuivatut yrtit;FI
+FLAVSEED;Kuivatut mausteet;FI
+FLAVSAUC;Maustekastikkeet;FI
+INGRTOT;Valmistusaineet;FI
+SALT;Suolat;FI
+SWEAGE;Makeutusaineet;FI
+INGRMIS;Valmistuksen apuaineet;FI
+INDTOT;Teolliset ruoat;FI
+SNACK;Naposteltavat;FI
+INDMEAL;Teollinen ruoka;FI
+DIETTOT;Ravintovalmisteet;FI
+BABYFOOD;Lastenruoat;FI
+MMILK;Äidinmaitokorvikkeet ja äidinmaito;FI
+VITSUPPL;Vitamiinivalmiste;FI
+VITMISUP;Vitamiini-kivennäisainevalmiste;FI
+MINSUPPL;Kivennäisainevalmiste;FI
+FATSUPPL;Rasvavalmiste (sis. lesitiinivalmisteet);FI
+FIBSUPPL;Kuituvalmiste;FI
+ENZYMES;Entsyymivalmiste;FI
+HERBSUP;Yrttivalmiste (sis. mehiläisvalmiste);FI
+HOMEOS;Homeopaattinen valmiste;FI
+PROBPREB;Probiootti- ja bakteerivalmiste;FI
+YEAST;Hiivavalmiste;FI
+ANTROPOS;Antroposofiset valmisteet;FI
+SPECFOOD;Kliiniset ravintovalmisteet;FI
+NONINGR;Ei raaka-aine;FI
+DISH;Ruokalaji;FI
