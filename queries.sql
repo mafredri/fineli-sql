@@ -2,56 +2,38 @@
  * Select details for banana with descriptions in Finnish
  */
 SELECT
-    food.foodid AS "id",
-    food.foodname AS "name",
-    food.edport AS "edible portion",
-
-    foodtype.desc AS "food type",
-    process.desc AS "processing",
-    igclass.desc AS "ingredient class",
-    igclass2.desc AS "ingredient class (alt)",
-    fuclass.desc AS "food unit class",
-    fuclass2.desc AS "food unit class (alt)"
-FROM food
-JOIN foodtype ON food.foodtype = foodtype.id
-    AND foodtype.lang = 'fi'
-JOIN process ON food.process = process.id
-    AND process.lang = 'fi'
-JOIN igclass ON food.igclass = igclass.id
-    AND igclass.lang = 'fi'
-JOIN igclass igclass2 ON food.igclassp = igclass2.id
-    AND igclass2.lang = 'fi'
-JOIN fuclass ON food.fuclass = fuclass.id
-    AND fuclass.lang = 'fi'
-JOIN fuclass fuclass2 ON food.fuclassp = fuclass2.id
-    AND fuclass2.lang = 'fi'
-WHERE foodid = 11049;
+	f.id, f.name, f.edible_portion,
+	ft.description AS food_type,
+	pm.description AS processing_method,
+	ig.description AS ingredient_category,
+	fu.description AS food_category,
+	ig2.description AS ingredient_category2,
+	fu2.description AS food_category2
+FROM food f
+JOIN food_types ft ON ft.id = f.type_id
+JOIN processing_methods pm ON pm.id = f.processing_method_id
+JOIN ingredient_class ig ON ig.id = f.ingredient_class_id
+JOIN food_use_class fu ON fu.id = f.food_use_class_id
+JOIN ingredient_class ig2 ON ig2.id = f.ingredient_superclass_id
+JOIN food_use_class fu2 ON fu2.id = f.food_use_superclass_id
+WHERE f.id = 11049;
 
 /**
- * Select ingredients for banana with descriptions in Finnish
+ * Select ingredients for banana with descriptions
  */
 SELECT
-    /* Convert joules to calories, all values in mg except enerc */
-    CASE
-        WHEN cv.eufdname = 'enerc' THEN cv.bestloc * 0.239005736
-        ELSE cv.bestloc
-    END AS "amount",
-    cv.eufdname AS "type",
-    CASE
-        WHEN c.compunit = 'kj' THEN 'cal'
-        ELSE c.compunit
-    END AS "unit",
-    c.cmpclass AS "class",
-    c.cmpclassp AS "class (alt)",
-    eufdname.desc AS "type desc",
-    acqtype.desc AS "acquisition desc",
-    methtype.desc AS "methodology desc"
+	cv.food_id, cv.value,
+	c.description AS component,
+	u.description AS unit,
+	cc.description AS component_category,
+	cc2.description AS component_category2,
+	s.description AS source,
+	m.description AS method
 FROM component_value cv
-JOIN component c ON cv.eufdname = c.eufdname
-JOIN eufdname ON cv.eufdname = eufdname.id
-    AND eufdname.lang = 'fi'
-JOIN acqtype ON cv.acqtype = acqtype.id
-    AND acqtype.lang = 'fi'
-JOIN methtype ON cv.methtype = methtype.id
-    AND methtype.lang = 'fi'
-WHERE foodid = 11049;
+JOIN components c ON c.id = cv.component_id
+JOIN units u ON u.id = c.unit_id
+JOIN component_class cc ON cc.id = c.component_class_id
+JOIN component_class cc2 ON cc2.id = c.component_superclass_id
+JOIN sources s ON s.id = cv.source_id
+JOIN methods m ON m.id = cv.method_id
+WHERE cv.food_id = 11049;

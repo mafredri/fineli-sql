@@ -1,5 +1,7 @@
 #!/usr/bin/env zsh
 
+emulate -L zsh
+
 BUILD=build
 FINELI_DB=Fineli_Rel16_open
 DATABASE=$BUILD/fineli.db
