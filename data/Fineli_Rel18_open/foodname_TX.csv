@@ -1,0 +1,378 @@
+FOODID;FOODNAME;LANG
+100;Secale cereale;TX
+103;Secale cereale;TX
+110;Triticum spp.;TX
+111;Triticum spp.;TX
+112;Triticum spp.;TX
+113;Triticum spp.;TX
+114;Triticum spp.;TX
+115;Triticum spp.;TX
+116;Triticum spp.;TX
+124;Triticum spp.;TX
+142;Triticum spp.;TX
+150;Hordeum vulgare;TX
+151;Hordeum vulgare;TX
+152;Hordeum vulgare;TX
+153;Avena sativa;TX
+156;Oryza sativa;TX
+158;Oryza sativa;TX
+160;Panicum miliaceum;TX
+161;Fagopyrum esculentum;TX
+162;Solanum tuberosum;TX
+167;Zea mays;TX
+170;Avena sativa;TX
+175;Triticum spp.;TX
+176;Secale cereale;TX
+182;Oryza sativa;TX
+183;Oryza sativa;TX
+202;Solanum tuberosum;TX
+204;Solanum tuberosum;TX
+205;Solanum tuberosum;TX
+207;Solanum tuberosum;TX
+300;Daucus carota;TX
+302;Daucus carota;TX
+303;Brassica napus var. napobrassica;TX
+304;Brassica rapa;TX
+305;Beta vulgaris;TX
+307;Beta vulgaris;TX
+308;Raphanus sativus var. sativus;TX
+309;Pastinaca sativa;TX
+310;Helianthus tuberosus;TX
+311;Apium graveolens var. rapaceum;TX
+312;Scorzonera hispanica;TX
+320;Brassica oleracea var. capitata f. alba;TX
+321;Brassica oleracea var. capitata "f. rubra";TX
+322;Brassica oleracea var. botrytis;TX
+324;Brassica oleracea var. italica;TX
+326;Brassica oleracea var. sabellica;TX
+327;Brassica oleracea var. gemmifera;TX
+329;Brassica oleracea var. gongylodes;TX
+330;Lactuca sativa var. crispa;TX
+331;Lactuca sativa var. capitata;TX
+333;Petroselinum crispum;TX
+334;Urtica dioica;TX
+335;Allium cepa;TX
+336;Allium cepa;TX
+337;Allium porrum;TX
+338;Rheum;TX
+339;Apium graveolens;TX
+340;Asparagus officinalis l.;TX
+342;Boletus edulis, russula paludosa;TX
+343;Lactarius (trivialis/rufus/torminusus);TX
+345;Agaricus bisporus;TX
+346;Cucumis sativus;TX
+347;Cucumis sativus;TX
+348;Cucumis sativus;TX
+350;Cucurbita pepo;TX
+351;Cucurbita pepo;TX
+352;Lycopersicon esculentum;TX
+355;Capsicum annuum;TX
+359;Brassica pekinensis;TX
+360;Beta vulgaris var. vulgaris;TX
+362;Solanum melongena;TX
+363;Zea mays;TX
+364;Lepidium sativum;TX
+367;Cantharellus cibarius;TX
+368;Gyromitra esculenta;TX
+369;Anethum graveolens;TX
+370;Pisum sativum;TX
+371;Pisum sativum;TX
+372;Phaseolus vulgaris;TX
+373;Phaseolus vulgaris;TX
+375;Corylus avellana;TX
+376;Juglans regia;TX
+377;Castanea sativa;TX
+378;Arachis hypogaea;TX
+379;Prunus amygdalus;TX
+380;Glysine max;TX
+381;Glysine max;TX
+382;Cocos nucifera;TX
+383;Arachis hypogaea;TX
+384;Medicago sativa, vigna mungo;TX
+385;Sesamum indicum;TX
+386;Capsicum annuum;TX
+387;Capsicum annuum;TX
+388;Capsicum annuum;TX
+389;Cucurbita pepo;TX
+390;Lycopersicon esculentum;TX
+391;Glysine max;TX
+392;Allium schoenoprasum;TX
+393;Allium sativum;TX
+394;Cucumis sativus;TX
+395;Phaseolus vulgaris;TX
+398;Lycopersicon esculentum;TX
+399;Lens culinaris;TX
+401;Malus;TX
+408;Prunus armeniaca;TX
+409;Prunus armeniaca;TX
+411;Prunus persica;TX
+412;Prunus persica;TX
+417;Ananas comosus;TX
+423;Vitis vinifera l.;TX
+428;Vitis vinifera;TX
+431;Olea europaea sativa;TX
+433;Malus;TX
+434;Citrus sinensis;TX
+435;Citrus paradisi;TX
+437;Citrus limon;TX
+438;Ananas comosus;TX
+440;Vaccinium vitis-idaea;TX
+441;Vaccinium oxycoccos, v. macrocarpon;TX
+442;Vaccinium myrtillus;TX
+444;Ribes nigrum;TX
+445;Ribes rubrum ribes*pallidum;TX
+446;Ribes uva-crispa;TX
+447;Fragaria ananassa;TX
+448;Rubus idaeus;TX
+449;Rubus chamaemorus;TX
+452;Ribes nigrum;TX
+455;Hippophae rhamnoides;TX
+457;Sorbus aucuparia;TX
+459;Vaccinium vitis-idaea;TX
+462;Ribes nigrum;TX
+471;Ananas comosus;TX
+472;Malus;TX
+477;Cucumis melo var. cantalupensis/reticulata;TX
+536;Olea europaea sativa;TX
+800;Clupea harengus membras;TX
+801;Clupea harengus membras;TX
+802;Clupea harengus membras;TX
+803;Clupea harengus harengus;TX
+804;Gadus morhua;TX
+805;Stizostedion lucioperca;TX
+806;Sebastes marinus;TX
+807;Hippoglossus hippoglossus;TX
+809;Coregonus albula;TX
+810;Coregonus albula;TX
+811;Coregonus albula;TX
+812;Perca fluviatilis;TX
+813;Esox lucius;TX
+814;Abramis brama;TX
+815;Coregonus lavaretus;TX
+816;Coregonus lavaretus;TX
+817;Salmo salar;TX
+818;Salmo salar;TX
+819;Lota lota;TX
+820;Platichthys flesus;TX
+821;Anguilla anguilla;TX
+822;Oncorhynchus mykiss;TX
+823;Salmo trutta;TX
+825;Lampetra fluviatilis;TX
+826;Pollachius virens;TX
+828;Thunnus alalunga;TX
+829;Engraulis encraciolus;TX
+830;Salmo salar;TX
+831;Sardina pilchardus;TX
+832;Acipenser sturio;TX
+834;Mytilus edulis;TX
+835;Pandalus;TX
+836;Astacus;TX
+837;Clupea harengus harengus;TX
+838;Clupea harengus membras;TX
+844;Abramis brama;TX
+845;Rutilus rutilus;TX
+846;Sebastes marinus;TX
+848;Oncorhynchus mykiss;TX
+859;Clupea harengus harengus;TX
+860;Clupea harengus membras;TX
+862;Thunnus thynnus;TX
+863;Ostrea edulis;TX
+864;Helix spp.;TX
+865;Octopus spp.;TX
+866;Homarus vulgaris;TX
+870;Oncorhynchus mykiss;TX
+871;Salmo salar;TX
+3334;Agaricus bisporus;TX
+3368;Gyromitra esculenta;TX
+3799;Cucurbita pepo;TX
+3800;Cucurbita pepo;TX
+3801;Solanum melongena;TX
+4421;Vaccinium vitis-idaea;TX
+8098;Platichthys flesus;TX
+11007;Rosa rugosa;TX
+11012;Fragaria ananassa;TX
+11013;Citrus sinensis;TX
+11014;Elaeis guineensis;TX
+11030;Secale cereale;TX
+11045;Citrus sinensis;TX
+11046;Citrus reticulata;TX
+11047;Citrus paradisi;TX
+11048;Citrus limon;TX
+11049;Musa sapientum;TX
+11050;Actinidia chinensis;TX
+11051;Prunus persica, prunus persica var. nectarina;TX
+11052;Prunus avium l., prunus cerasus l.;TX
+11053;Prunus domestica;TX
+11054;Prunus armeniaca;TX
+11055;Citrullus lanatus;TX
+11056;Ananas comosus;TX
+11057;Persea americana;TX
+11059;Thunnus alalunga;TX
+11060;Malus domestica;TX
+11061;Malus;TX
+11062;Pyrus communis;TX
+11063;Prunus domestica;TX
+11064;Agaricus bisporus;TX
+11065;Rosa rugosa;TX
+11067;Thunnus alalunga;TX
+11071;Mangifera indica, carica papaya;TX
+11074;Medicago sativa;TX
+11086;Anacardium occidentale;TX
+11089;Cicer arietinum;TX
+11090;Phaseolus vulgaris;TX
+11134;Ocimum basilicum;TX
+11135;Phyllostachys spp.;TX
+11177;Piper nigrum;TX
+11178;Piper nigrum;TX
+11182;Capsicum annuum;TX
+11184;Cinnamomum verum, c. aromaticum;TX
+11185;Syzygium aromaticum;TX
+11186;Zingiber officinale;TX
+11187;Elettaria cardamomum;TX
+11191;Origanum vulgare;TX
+11194;Thymus vulgaris;TX
+11203;Cucumis melo;TX
+11212;Helianthus annuus;TX
+11503;Vitis vinifera;TX
+11505;Musa sapientum;TX
+11511;Solanum tuberosum;TX
+11521;Oryza sativa;TX
+11557;Citrus limon;TX
+11558;Citrus sinensis;TX
+11587;Rosa;TX
+11589;Armoracia;TX
+11680;Solanum tuberosum;TX
+11689;Asparagus officinalis l.;TX
+11701;Elaeis guineensis;TX
+11734;Lentinula edodes;TX
+11735;Pleurotus ostreatus;TX
+28905;Triticum durum desf.;TX
+28908;Hordeum vulgare;TX
+28910;Oryza sativa;TX
+28911;Oryza sativa;TX
+28913;Solanum tuberosum;TX
+28914;Solanum tuberosum;TX
+28915;Cucumis melo l. var. retuculata/cantalupensis;TX
+28916;Malus;TX
+28917;Pyrus communis;TX
+28918;Prunus domestica;TX
+28919;Prunus domestica;TX
+28920;Prunus avium, prunus cerasus;TX
+28921;Prunus armeniaca;TX
+28922;Prunus persica, prunus persica var. nectarina;TX
+28923;Ananas comosus;TX
+28924;Citrus sinensis;TX
+28925;Citrus limon;TX
+28926;Citrus paradisi;TX
+28931;Citrullus vulgaris/lanatus;TX
+28932;Vitis vinifera l.;TX
+28933;Persea americana;TX
+28934;Musa sapientum;TX
+28935;Citrus reticulata;TX
+28936;Ficus carica;TX
+28937;Phoenix dactylifera;TX
+28938;Olea europaea sativa;TX
+28939;Actinidia chinensis;TX
+28941;Malus domestica;TX
+28942;Malus;TX
+28944;Cucumis melo;TX
+28962;Zea mays;TX
+29150;Vaccinium vitis-idaea;TX
+29155;Theobroma cacao;TX
+29207;Clupea harengus membras;TX
+29217;Lactarius rufus;TX
+29410;Boletus edulis;TX
+29411;Boletus edulis;TX
+29510;Pastinaca sativa;TX
+29511;Apium graveolens var. rapaceum;TX
+29782;Triticum spp.;TX
+29822;Zea mays;TX
+29823;Zea mays;TX
+30190;Avena sativa;TX
+30214;Eleocharis dulcis;TX
+30223;Lpomoea batatas;TX
+30348;Oryza sativa;TX
+30602;Solanum tuberosum;TX
+30603;Solanum tuberosum;TX
+30914;Foeniculum vulgare var. azoricum;TX
+30968;Pinus spp.;TX
+30991;Linum usitatissimus;TX
+31175;Chenopodium quinoa willd;TX
+31211;Cucurbita pepo;TX
+31212;Pistacia vera;TX
+31213;Vigna radiata;TX
+31214;Phaseolus vulgaris l.;TX
+31216;Vigna angularis;TX
+31217;Vigna angularis;TX
+31218;Cicer arietinum;TX
+31219;Lens culinaris;TX
+31225;Lens culinaris;TX
+31226;Triticum spelta;TX
+31233;Vicia faba;TX
+31495;Linum usitatissimum;TX
+31555;Punica granatum;TX
+32202;Pandalus;TX
+32455;Citrus paradisi;TX
+33060;Carica papaya;TX
+33065;Mangifera indica;TX
+33067;Mangifera indica, carica papaya;TX
+33095;Carya illinoinensis;TX
+33130;Anacardium occidentale;TX
+33131;Pistacia vera;TX
+33170;Pangasius hypophthalmus;TX
+33171;Macruronus novaezelandiae;TX
+33211;Oreochromis niloticus;TX
+33251;Oreochromis niloticus;TX
+33311;Macruronus novaezelandiae;TX
+33382;Salmo salar;TX
+33408;Coregonus lavaretus;TX
+33409;Oncorhynchus mykiss;TX
+33414;Oncorhynchus mykiss;TX
+33419;Oncorhynchus mykiss;TX
+33420;Oncorhynchus mykiss;TX
+33433;Ocimum basilicum;TX
+33456;Spinacia oleracea;TX
+33482;Agaricus bisporus;TX
+33494;Capsicum annuum;TX
+33499;Glysine max;TX
+33501;Glycine max;TX
+33559;Fragaria ananassa;TX
+33757;Citrus sinensis;TX
+33893;Glysine max;TX
+33928;Malus;TX
+34136;Porphyra spp.;TX
+34137;Undaria spp.;TX
+34159;Eruca sativa;TX
+34228;Spinacia oleracea;TX
+34229;Pisum sativum;TX
+34230;Diplotaxis muralis;TX
+34231;Lactica sativa;TX
+34232;Cichorium intybus var. foliosum;TX
+34233;Lactuca sativa var. longifolia;TX
+34234;Allium cepa;TX
+34235;Raphanus sativus var. longipinnatus;TX
+34236;Pisum sativum;TX
+34237;Valerianelle locusta;TX
+34238;Coriandrum sativum;TX
+34239;Lactarius trivialis;TX
+34240;Canthraellus tubaeformis;TX
+34241;Lactarius torminosus;TX
+34242;Triticum aestivum;TX
+34243;Vicia faba;TX
+34244;Pisum sativum var. macrocarpon;TX
+34245;Sesamum indicum;TX
+34246;Secale cereale;TX
+34247;Secale cereale;TX
+34248; hardeum vulgare;TX
+34249;Triticum aestivum;TX
+34252;Coregonus lavaretus;TX
+34253;Clupea harengus harengus;TX
+34254;Laminaria spp.;TX
+34255;Salmo salar;TX
+34256;Oncorhynchus mykiss;TX
+34361;Mangifera indica;TX
+34694;Carica papaya;TX
+34743;Vicia faba;TX
+34848;Sprattus sprattus;TX
+34971;Avena sativa;TX
+34972;Olea europaea sativa;TX

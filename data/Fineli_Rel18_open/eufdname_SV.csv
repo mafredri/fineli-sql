@@ -1,0 +1,367 @@
+THSCODE;DESCRIPT;LANG
+ENERC;energi, beräknad;SV
+XENERC;energi, beräknad utan fiber;SV
+CHOAVL;kolhydrater, digererbara;SV
+CHOCDF;kolhydrater, differensmetod;SV
+CHOAVLM;kolhydrater, monosackaridekvivalenter;SV
+FAT;fett, totalt;SV
+PROT;protein, totalt;SV
+ALC;alkohol;SV
+ASH;aska (mineralämnen);SV
+WATER;vatten (fuktighet);SV
+FIBC;fiber, totalt;SV
+OA;organiska syror, totalt;SV
+SUGOH;sockeralkoholer;SV
+STARCH;stärkelse, totalt;SV
+STARES;stärkelse, resistent;SV
+SUGAR;sockerarter, totalt;SV
+FRUS;fruktos;SV
+GALS;galaktos;SV
+GLUS;glukos;SV
+LACS;laktos;SV
+MALS;maltos;SV
+SUCS;sackaros;SV
+OLSAC;oligosackarider;SV
+FIBT;fiber, totalt;SV
+PSACNCS;polysackarider, icke-cellulosa, lösliga;SV
+FIBINS;fiber, olöslig;SV
+CELLU;cellulosa;SV
+LIGN;lignin;SV
+PSACNCI;polysackarider, icke-cellulosa, olösliga;SV
+AGAR;agar;SV
+GLUCNB;beta-glukan;SV
+GUMS;gummi;SV
+PECT;pektin;SV
+ACEAC;ättiksyra;SV
+BENZAC;p-hydroxibensoesyra;SV
+CINNAC;kanelsyra;SV
+CITAC;citronsyra;SV
+FERAC;ferulasyra;SV
+GALLAC;gallinsyra;SV
+LACAC;mjölksyra;SV
+MALAC;äppelsyra;SV
+MISPHEAC;andra fenolsyror;SV
+PARCOUM;parakumarsyra;SV
+PHEAC;fenolsyror, totalt;SV
+PROCATAC;protokatekusyra;SV
+SINAPAC;sinapinsyra;SV
+SYRAC;syringinsyra;SV
+VANAC;vanillinsyra;SV
+SORTL;sorbitol;SV
+XYLTL;xylitol;SV
+BIOT;biotin;SV
+FOL;folat, total;SV
+FOLCH3H4;5-CH3-H4-folat;SV
+FOLFRE;folat, fri;SV
+FOLH4;H4-folat;SV
+FOLHCOH4;5-HCO-H4-folat;SV
+FOL10HCO;10-HCO-folsyra;SV
+FOLATE;folat (mikrobiologisk);SV
+NIAEQ;niacinekvivalenter;SV
+NIA;niacin (nikotinsyra+nikotinamid);SV
+PANTAC;pantotensyra (vitamin B5);SV
+VITPYRID;pyridoxin vitamerer (hydroklorid);SV
+PYRID;pyridoxin vitamerer;SV
+PYRXL;pyridoxal;SV
+PYRXM;pyridoxamin;SV
+PYRXN;pyridoxin;SV
+RIBF;riboflavin;SV
+THIA;tiamin (vitamin B1);SV
+VITB12;vitamin B12 (kobalamin);SV
+VITC;vitamin C (askorbinsyra);SV
+VITA;vitamin A RAE;SV
+XVITA;vitamin A, retinolekvivalenter;SV
+RETOL;retinol;SV
+RETOL13;13-cis-retinol;SV
+RETOLDH;dehydroretinol;SV
+RETTRANS;all-trans-retinol;SV
+RET11CIS;cis-11-retinol;SV
+RET911;dicis-911-retinol;SV
+RET9CIS;cis-9-retinol;SV
+CARTBEQ;beta-karoten ekvivalenter;SV
+CAROTENS;karotenoider, totalt;SV
+CARTA;alfa-karoten;SV
+CARTB;beta-karoten;SV
+CARTG;gamma-karoten;SV
+CRYPX;kryptoxantin;SV
+CANTHAX;cantaxantin;SV
+CAPSA;kapsantin;SV
+LUTEZEAX;lutein+zeaxantin;SV
+LYCO;lykopen;SV
+BETACAR;all-trans-beta-karoten;SV
+ZEAX;zeaxantin;SV
+LUTE;lutein;SV
+VITD;vitamin D;SV
+CAL25OH;25-hydroxikolekalciferol;SV
+VITE;vitamin E, alfatokoferol;SV
+XVITE;vitamin E, alfatokoferolekvivalenter;SV
+TOCPHA;alfa-tokoferol;SV
+TOCPHB;beta-tokoferol;SV
+TOCPHD;delta-tokoferol;SV
+TOCPHG;gamma-tokoferol;SV
+TOCTRA;alfa-tokotrienol;SV
+TOCTRB;beta-tokotrienol;SV
+TOCTRG;gamma-tokotrienol;SV
+TOCTRD;delta-tokotrienol;SV
+VITK;vitamin K, totalt;SV
+MENAQ;menakinon;SV
+PHYLQ;fyllokinon;SV
+MENADN;menadion;SV
+AL;aluminium;SV
+AS;arsen;SV
+B;bor;SV
+BRD;bromid;SV
+CA;kalcium;SV
+CD;kadmium;SV
+CLD;klorid;SV
+CO;kobolt;SV
+CR;krom;SV
+CU;koppar;SV
+FD;fluorid (fluor);SV
+FE;järn;SV
+HG;kvicksilver;SV
+ID;jodid (jod);SV
+K;kalium;SV
+MG;magnesium;SV
+MN;mangan;SV
+MO;molybden;SV
+NA;natrium;SV
+NACL;salt;SV
+NI;nickel;SV
+NT;kväve, totalt;SV
+P;fosfor;SV
+PB;bly;SV
+RB;rubidium;SV
+S;svavel;SV
+SE;selen;SV
+SI;kisel;SV
+SR;strontium;SV
+ZN;zink;SV
+FAFRE;fettsyror, totalt;SV
+FACIDCTG;fettsyror, totalt, beräknade som TAG ekvivalenter;SV
+FAPU;fettsyror, fleromättade;SV
+FAMCIS;fettsyror, enkelomättade cis;SV
+FASAT;fettsyror, mättade;SV
+FATRN;fettsyror, trans;SV
+FAUN;fettysyror, oidentifierade;SV
+FAPUN3;fettsyror, n-3 fleromättade;SV
+FAPUN3FI;fettsyror, n-3 fisk fleromättade;SV
+FAPUN3VE;fettsyror, n-3 växt fleromättade;SV
+FAPUN6;fettsyror, n-6 fleromättade;SV
+FAS4T11;fettsyror 4:0-11:0;SV
+FAS12T17;fettsyror 12:0-17:0;SV
+FAS18;fettsyra isomerer 18:0;SV
+FAS19T26;fettsyror 19:0-26:0;SV
+F4D0;fettsyra 4:0 (smörsyra/butansyra);SV
+F6D0;fettsyra 6:0 (kapronsyra);SV
+F8D0;fettsyra 8:0 (kaprylsyra);SV
+F10D0;fettsyra  10:0 (kaprinsyra);SV
+F12D0;fettsyra 12:0 (laurinsyra);SV
+F13D0;fettsyra 13:0;SV
+F14D0T;fettsyra isomerer 14:0;SV
+F14D0;fettsyra 14:0 (myristinsyra);SV
+F14D0AI;fettsyra 14:0 anteiso;SV
+F14D0I;fettsyra 14:0 iso;SV
+F15D0T;fettsyra isomerer 15:0;SV
+F15D0;fettsyra 15:0;SV
+F15D0AI;fettsyra 15:0 anteiso;SV
+F15D0I;fettsyra 15:0 iso;SV
+F16D0T;fettsyra isomerer 16:0;SV
+F16D0;fettsyra 16:0 (palmitinsyra);SV
+F16D0AI;fettsyra 16:0 anteiso;SV
+F16D0I;fettsyra 16:0 iso;SV
+F17D0T;fettsyra isomerer 17:0;SV
+F17D0;fettsyra 17:0;SV
+F17D0AI;fettsyra 17:0 anteiso;SV
+F17D0I;fettsyra 17:0 iso;SV
+F18D0;fettsyra 18:0 (stearinsyra);SV
+F18D0AI;fettsyra 18:0 anteiso;SV
+F18D0I;fettsyra 18:0 iso;SV
+F19D0;fettsyra 19:0;SV
+F20D0T;fettsyra isomerer 20:0;SV
+F20D0;fettsyra 20:0 (arakinsyra);SV
+F20D0I;fettsyra 20:0 iso;SV
+F22D0;fettsyra 22:0 (behensyra);SV
+F24D0;fettsyra 24:0 (lignocerinsyra);SV
+F26D0;fettsyra 26:0;SV
+F10D1;fettsyra  10:1;SV
+F12D1;fettsyra 12:1;SV
+F14D1;fettsyra 14:1;SV
+F15D1;fettsyra 15:1;SV
+F16D1T;fettsyra isomerer 16:1;SV
+F16D1I;fettsyra 16:1 iso;SV
+F16D1N5;fettsyra 16:1 n-5;SV
+F16D1N7;fettsyra 16:1 n-7;SV
+F16D1N9;fettsyra 16:1 n-9;SV
+F17D1;fettsyra 17:1;SV
+F17D1CIS;fettsyra 17:1 cis;SV
+F18D1T;fettsyra isomerer 18:1;SV
+F18D1CIS;fettsyra 18:1 cis;SV
+F18D1N5;fettsyra 18:1 n-5;SV
+F18D1N7;fettsyra 18:1 n-7;SV
+F18D1N9;fettsyra 18:1 n-9;SV
+F18D1I;fettsyra 18:1 iso;SV
+F20D1T;fettsyra isomerer 20:1;SV
+F20D1;fettsyra 20:1;SV
+F20D1CIS;fettsyra 20:1 cis;SV
+F20D1N9;fettsyra 20:1 n-9;SV
+F20D1N11;fettsyra 20:1 n-11;SV
+F22D1T;fettsyra isomerer 22:1;SV
+F22D1;fettsyra 22:1;SV
+F22D1CIS;fettsyra 22:1 cis;SV
+F22D1N7;fettsyra 22:1 n-7;SV
+F22D1N9;fettsyra 22:1 n-9;SV
+F22D1N11;fettsyra 22:1 n-11;SV
+F24D1;fettsyra 24:1;SV
+F24D1N9;fettsyra 24:1 n-9;SV
+F16D2;fettsyra 16:2;SV
+F16D3;fettsyra 16:3;SV
+F16D4;fettsyra 16:4;SV
+F18D2CON;fettsyra 18:2 konjugerad;SV
+F18D2ISO;fettsyra 18:2 iso;SV
+F18D2CIS;fettsyra isomerer 18:2 cis;SV
+F18D2CN6;fettsyra 18:2 cis,cis n-6 (linolsyra);SV
+F18D3N3;fettsyra 18:3 n-3 (alfa-linolensyra);SV
+F18D3N6;fettsyra 18:3 n-6 (GLA, gamma-linolensyra);SV
+F18D4N3;fettsyra 18:4 n-3;SV
+F20D2CIS;fettsyra 20:2 cis;SV
+F20D2N6;fettsyra 20:2 n-6;SV
+F20D3N3;fettsyra 20:3 n-3;SV
+F20D3N6;fettsyra 20:3 n-6;SV
+F20D4N3;fettsyra 20:4 n-3;SV
+F20D4N6;fettsyra 20:4 n-6 (arakidonsyra);SV
+F20D5N3;fettsyra 20:5 n-3 (EPA);SV
+F20D5N6;fettsyra 20:5 n-6;SV
+F21D5N3;fettsyra 21:5 n-3;SV
+F22D2N6;fettsyra 22:2 n-6;SV
+F22D4N3;fettsyra 22:4 n-3;SV
+F22D4N6;fettsyra 22:4 n-6;SV
+F22D5N3;fettsyra 22:5 n-3 (DPA);SV
+F22D5N6;fettsyra 22:5 n-6;SV
+F22D6N3;fettsyra 22:6 n-3 (DHA);SV
+F24DXN3;fettsyra 24:X n-3;SV
+F16D1TRS;fettsyra 16:1 trans;SV
+F18D1TN;fettsyra 18:1 trans;SV
+F18D2TN;fettsyra 18:2 trans;SV
+F18D2TRI;fettsyra isomerer 18:2 tri;SV
+F18D3TN;fettsyra 18:3 trans;SV
+F20D1TN;fettsyra 20:1 trans;SV
+F20D2TN;fettsyra 20:2 trans;SV
+F22D1TN;fettsyra trans 22:1;SV
+NITRA;nitrat;SV
+NITRI;nitrit;SV
+TAUR;taurin;SV
+ALA;alanin;SV
+ARG;arginin;SV
+ASNASP;asparagin+asparaginsyra;SV
+GLNGLU;glutamin+glutaminsyra;SV
+GLY;glycin;SV
+HIS;histidin;SV
+ILE;isoleucin;SV
+LEU;leucin;SV
+LYS;lysin;SV
+MET;metionin;SV
+METX;metionin (EKT hydrolys);SV
+PHE;fenylalanin;SV
+PRO;prolin;SV
+SER;serin;SV
+TRP;tryptofan;SV
+TYR;tyrosin;SV
+VAL;valin;SV
+BETATN;betaine;SV
+F9D0;fettsyra 9:0;SV
+EDICTYOL;eriodiktyol;SV
+EPIKATEK;epikatekin;SV
+HESPER;hesperitin;SV
+ISORHAM;isoramnetin;SV
+KAEMPH;kemferol;SV
+KATEK;katekin;SV
+LUTEOL;luteolin;SV
+MYRIC;myricetin;SV
+NARINGE;naringenin;SV
+QUERCE;kversetin;SV
+CHOLNT;kolin, totalt;SV
+BIOCHA;biochanin A;SV
+FORMO;formononetin;SV
+GENIST;genistein;SV
+LIGNANS;lignaner;SV
+SECORES;sekoisolariciresinol;SV
+CHOLE;kolesterol (GC);SV
+CHORL;kolesterol (enzymatisk);SV
+STERT;steroler, totalt;SV
+AVEDT;avenasterol, totalt;SV
+BRASTR;brassicasterol;SV
+CAMT;campesterol;SV
+SITSTR;sitosterol;SV
+STEROTH;steroler, andra;SV
+STGSTR;stigmasterol;SV
+STANTOT;stanoler, totalt;SV
+ALKRESOR;alkylresorcinoler;SV
+ANTHOCYT;antocyanidiner, totalt;SV
+AVANTHRA;avenanantramider;SV
+CYANID;syanidin;SV
+DELPHIN;delfinidin;SV
+ELGTANN;ellagitanniner;SV
+MALVID;malvidin;SV
+PA4TO6;proantosyanidin 4-6-merer;SV
+PA7TO10;proantosyanidin 7-10-merer;SV
+PABOUND;proantocyanidiner bundna;SV
+PADIME;proantosyanidin dimerer;SV
+PAMONO;proantosyanidin monomerer;SV
+PAPOLYM;proantosyanopolymerer;SV
+PATRI;proantosyanidin trimerer;SV
+PELARGON;pelargonidin;SV
+PEONID;peonidin;SV
+PETUN;petunidin;SV
+PROANTCT;proantocyanidiner total;SV
+ASN;asparagin;SV
+CADAVT;cadaverin;SV
+CAFFN;koffein;SV
+CYSTE;cystein;SV
+ERGCAL;ergokalciferol (vitamin D2);SV
+F13D0I;fettsyra 13:0 iso;SV
+F16D1;fettsyra 16:1 (palmitoljesyra);SV
+F16DUN;fettsyra 16:oidentifierad;SV
+F18D1;fettsyra 18:1 (oktadekensyra);SV
+F18D1CN9;fettsyra 18:1 n-9 cis (oljesyra);SV
+F18D1TN9;fettsyra 18:1 trans n-9 (elaidinsyra);SV
+F18D2;fettsyra 18:2;SV
+F18D3;fettsyra 18:3;SV
+F18D4;fettsyra 18:4;SV
+F20D2;fettsyra 20:2;SV
+F20D3;fettsyra 20:3 (eikosatriensyra);SV
+F20D4;fettsyra 20:4;SV
+F20D5;fettsyra 20:5 (eikosapentaensyra);SV
+F21D5;fettsyra 21:5;SV
+F22D1CN1;fettsyra 22:1cis n-11;SV
+F22D1CN9;fettsyra 22:1 cis n-9 (erukasyra);SV
+F22D1TN9;fettsyra trans 22:1 n-9;SV
+F22D2;fettsyra 22:2;SV
+F22D4;fettsyra 22:4;SV
+F22D5;fettsyra 22:5 (dokosapentaensyra);SV
+F22D6;fettsyra 22:6 (dokosahexaensyra);SV
+F22DUN;fettsyra 22:oidentifierad;SV
+F23D0;fettsyra 23:0;SV
+GLN;glutamin;SV
+HISTN;histamin;SV
+MANTL;mannitol;SV
+PHETN;fenyletylamin;SV
+PSACNC;polysackarider, icke-cellulosa;SV
+PUTRSC;putrescin;SV
+RAFS;raffinos;SV
+SEROTN;serotonin;SV
+SPERDN;spermidin;SV
+SPERN;spermin;SV
+TOCPHT;tokoferoler, totalt;SV
+TRES;trehalos;SV
+TRYPN;tryptamin;SV
+TYRA;tyramin;SV
+VITB6;vitamin B6, totalt;SV
+VITK1;vitamin K1 (fyllokinon);SV
+VITK2;vitamin K2 (menakinon);SV
+F11D0;fettsyra 11:0;SV
+thscode;ruotsi;SV
+F19D1;fettsyra 19:1;SV
+F21D0;fettsyra 21:0;SV
+F22D3N3;fettsyra 22:3 n-3;SV
+FAMSTXR;fettsyror, enkelomättade, trans, rest;SV

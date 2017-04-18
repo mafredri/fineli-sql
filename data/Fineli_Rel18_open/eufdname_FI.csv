@@ -1,0 +1,367 @@
+THSCODE;DESCRIPT;LANG
+ENERC;energia, laskennallinen;FI
+XENERC;energia, laskennallinen ilman kuitua;FI
+CHOAVL;hiilihydraatti imeytyvä;FI
+CHOCDF;hiilihydraatti erotuksena;FI
+CHOAVLM;hiilihydraatti monosakkaridiekvivalentteina;FI
+FAT;rasva;FI
+PROT;proteiini;FI
+ALC;alkoholi;FI
+ASH;tuhka (kivennäisaineet);FI
+WATER;vesi (kosteus);FI
+FIBC;kuitu, kokonais-;FI
+OA;orgaaniset hapot;FI
+SUGOH;sokerialkoholi;FI
+STARCH;tärkkelys;FI
+STARES;tärkkelys resistentti;FI
+SUGAR;sokerit;FI
+FRUS;fruktoosi;FI
+GALS;galaktoosi;FI
+GLUS;glukoosi;FI
+LACS;laktoosi;FI
+MALS;maltoosi;FI
+SUCS;sakkaroosi;FI
+OLSAC;oligosakkaridit imeytyvät;FI
+FIBT;kuitu yhteissumma;FI
+PSACNCS;polysakkaridi, vesiliukoinen ei-selluloosa;FI
+FIBINS;kuitu veteen liukenematon;FI
+CELLU;selluloosa;FI
+LIGN;ligniini;FI
+PSACNCI;polysakkaridi, liukenematon ei-selluloosa;FI
+AGAR;agar;FI
+GLUCNB;beetaglukaani;FI
+GUMS;kumit;FI
+PECT;pektiini;FI
+ACEAC;etikkahappo;FI
+BENZAC;p-hydroksibentsoehappo;FI
+CINNAC;kanelihappo;FI
+CITAC;sitruunahappo;FI
+FERAC;ferulahappo;FI
+GALLAC;gallihappo;FI
+LACAC;maitohappo;FI
+MALAC;omenahappo;FI
+MISPHEAC;muut fenolihapot;FI
+PARCOUM;parakumariinihappo;FI
+PHEAC;fenolihapot, yhteensä;FI
+PROCATAC;protokatekuhappo;FI
+SINAPAC;sinapiinihappo;FI
+SYRAC;syringiinihappo;FI
+VANAC;vanilliinihappo;FI
+SORTL;sorbitoli;FI
+XYLTL;ksylitoli;FI
+BIOT;biotiini;FI
+FOL;folaatti, kokonais-;FI
+FOLCH3H4;5-metyylitetrahydrofolaatti eli 5-CH3-H4-folaatti;FI
+FOLFRE;folaatti vapaa;FI
+FOLH4;tetrahydrofolaatti eli H4-folaatti;FI
+FOLHCOH4;5-formyylitetrahydrofolaatti eli 5-HCO-H4-folaatti;FI
+FOL10HCO;10-formyylifoolihappo eli 10-HCO-foolihappo;FI
+FOLATE;folaatti (mikrobiologinen menetelmä);FI
+NIAEQ;niasiiniekvivalentti NE;FI
+NIA;niasiini (nikotiinihappo + nikotiiniamidi);FI
+PANTAC;pantoteenihappo (B5);FI
+VITPYRID;pyridoksiini vitameerit (vetykloridi) (B6);FI
+PYRID;pyridoksiini vitameerit (B6);FI
+PYRXL;pyridoksaali;FI
+PYRXM;pyridoksamiini;FI
+PYRXN;pyridoksiini;FI
+RIBF;riboflaviini (B2);FI
+THIA;tiamiini (B1);FI
+VITB12;B12-vitamiini (kobalamiini);FI
+VITC;C-vitamiini;FI
+VITA;A-vitamiini RAE;FI
+XVITA;A-vitamiini RE;FI
+RETOL;retinoli;FI
+RETOL13;13-cis retinoli;FI
+RETOLDH;dehydroretinoli;FI
+RETTRANS;all-trans-retinoli;FI
+RET11CIS;cis-11-retinoli;FI
+RET911;dicis-911-retinoli;FI
+RET9CIS;cis-9-retinoli;FI
+CARTBEQ;beetakaroteeniekvivalentti;FI
+CAROTENS;karotenoidit;FI
+CARTA;alfakaroteeni;FI
+CARTB;beetakaroteeni;FI
+CARTG;gammakaroteeni;FI
+CRYPX;kryptoksantiini;FI
+CANTHAX;kantaksantiini;FI
+CAPSA;kapsantiini;FI
+LUTEZEAX;luteiini ja zeaksantiini;FI
+LYCO;lykopeeni;FI
+BETACAR;all-trans-beetakaroteeni;FI
+ZEAX;zeaksantiini;FI
+LUTE;luteiini;FI
+VITD;D-vitamiini;FI
+CAL25OH;25-hydroksikalsiferoli;FI
+VITE;E-vitamiini alfatokoferoli;FI
+XVITE;E-vitamiini alfatokoferoliekvivalentti;FI
+TOCPHA;alfatokoferoli;FI
+TOCPHB;beetatokoferoli;FI
+TOCPHD;deltatokoferoli;FI
+TOCPHG;gammatokoferoli;FI
+TOCTRA;alfatokotrienoli;FI
+TOCTRB;beetatokotrienoli;FI
+TOCTRG;gammatokotrienoli;FI
+TOCTRD;deltatokotrienoli;FI
+VITK;K-vitamiini;FI
+MENAQ;menakinoni;FI
+PHYLQ;fyllokinoni;FI
+MENADN;menadioni;FI
+AL;alumiini;FI
+AS;arseeni;FI
+B;boori;FI
+BRD;bromidi;FI
+CA;kalsium;FI
+CD;kadmium;FI
+CLD;kloridi;FI
+CO;koboltti;FI
+CR;kromi;FI
+CU;kupari;FI
+FD;fluoridi;FI
+FE;rauta;FI
+HG;elohopea;FI
+ID;jodidi (jodi);FI
+K;kalium;FI
+MG;magnesium;FI
+MN;mangaani;FI
+MO;molybdeeni;FI
+NA;natrium;FI
+NACL;suola;FI
+NI;nikkeli;FI
+NT;typpi, yhteensä;FI
+P;fosfori;FI
+PB;lyijy;FI
+RB;rubidium;FI
+S;rikki;FI
+SE;seleeni;FI
+SI;pii;FI
+SR;strontium;FI
+ZN;sinkki;FI
+FAFRE;rasvahapot yhteensä;FI
+FACIDCTG;rasvahapot yhteensä, laskettu TAG ekvivalenteiksi;FI
+FAPU;rasvahapot monityydyttymättömät;FI
+FAMCIS;rasvahapot yksittäistyydyttymättömät cis;FI
+FASAT;rasvahapot tyydyttyneet;FI
+FATRN;rasvahapot trans;FI
+FAUN;rasvahapot tuntemattomat;FI
+FAPUN3;rasvahapot n-3 monityydyttymättömät;FI
+FAPUN3FI;rasvahapot n-3 kala;FI
+FAPUN3VE;rasvahapot n-3 kasvi;FI
+FAPUN6;rasvahapot n-6 monityydyttymättömät;FI
+FAS4T11;rasvahapot 4:0 - 11:0;FI
+FAS12T17;rasvahapot 12:0 - 17:0;FI
+FAS18;rasvahappoisomeerit 18:0;FI
+FAS19T26;rasvahapot 19:0 - 26:0;FI
+F4D0;rasvahappo 4:0 (voihappo);FI
+F6D0;rasvahappo 6:0 (kaproiinihappo);FI
+F8D0;rasvahappo 8:0 (kapryylihappo);FI
+F10D0;rasvahappo 10:0 (kapriinihappo);FI
+F12D0;rasvahappo 12:0 (lauriinihappo);FI
+F13D0;rasvahappo 13:0;FI
+F14D0T;rasvahappoisomeerit 14:0;FI
+F14D0;rasvahappo 14:0 (myristiinihappo);FI
+F14D0AI;rasvahappo 14:0 anteiso;FI
+F14D0I;rasvahappo 14:0 iso;FI
+F15D0T;rasvahappoisomeerit 15:0;FI
+F15D0;rasvahappo 15:0;FI
+F15D0AI;rasvahappo 15:0 anteiso;FI
+F15D0I;rasvahapo 15:0 iso;FI
+F16D0T;rasvahappoisomeerit 16:0;FI
+F16D0;rasvahappo 16:0 (palmitiinihappo);FI
+F16D0AI;rasvahappo 16:0 anteiso;FI
+F16D0I;rasvahappo 16:0 iso;FI
+F17D0T;rasvahappoisomeerit 17:0;FI
+F17D0;rasvahappo 17:0;FI
+F17D0AI;rasvahappo 17:0 anteiso;FI
+F17D0I;rasvahappo 17:0 iso;FI
+F18D0;rasvahappo 18:0 (steariinihappo);FI
+F18D0AI;rasvahappo 18:0 anteiso;FI
+F18D0I;rasvahappo 18:0 iso;FI
+F19D0;rasvahappo 19:0;FI
+F20D0T;rasvahappoisomeerit 20:0;FI
+F20D0;rasvahappo 20:0;FI
+F20D0I;rasvahappo 20:0 iso;FI
+F22D0;rasvahappo 22:0;FI
+F24D0;rasvahappo 24:0;FI
+F26D0;rasvahappo 26:0;FI
+F10D1;rasvahappo 10:1;FI
+F12D1;rasvahappo 12:1;FI
+F14D1;rasvahappo 14:1;FI
+F15D1;rasvahappo 15:1;FI
+F16D1T;rasvahappoisomeerit 16:1;FI
+F16D1I;rasvahappo 16:1 iso;FI
+F16D1N5;rasvahappo 16:1 n-5;FI
+F16D1N7;rasvahappo 16:1 n-7;FI
+F16D1N9;rasvahappo 16:1 n-9;FI
+F17D1;rasvahappo 17:1;FI
+F17D1CIS;rasvahappo 17:1 cis;FI
+F18D1T;rasvahappoisomeerit 18:1;FI
+F18D1CIS;rasvahappo 18:1 cis;FI
+F18D1N5;rasvahappo 18:1 n-5;FI
+F18D1N7;rasvahappo 18:1 n-7;FI
+F18D1N9;rasvahappo 18:1 n-9;FI
+F18D1I;rasvahappo 18:1 iso;FI
+F20D1T;rasvahappoisomeerit 20:1;FI
+F20D1;rasvahappo 20:1;FI
+F20D1CIS;rasvahappo 20:1 cis;FI
+F20D1N9;rasvahappo 20:1 n-9;FI
+F20D1N11;rasvahappo 20:1 n-11;FI
+F22D1T;rasvahappoisomeerit 22:1;FI
+F22D1;rasvahappo 22:1;FI
+F22D1CIS;rasvahappo 22:1 cis;FI
+F22D1N7;rasvahappo 22:1 n-7;FI
+F22D1N9;rasvahappo 22:1 n-9;FI
+F22D1N11;rasvahappo 22:1 n-11;FI
+F24D1;rasvahappo 24:1;FI
+F24D1N9;rasvahappo 24:1 n-9;FI
+F16D2;rasvahappo 16:2;FI
+F16D3;rasvahappo 16:3;FI
+F16D4;rasvahappo 16:4;FI
+F18D2CON;rasvahappo 18:2 konjugoitu;FI
+F18D2ISO;rasvahappo 18:2 iso;FI
+F18D2CIS;rasvahapoisomeerit 18:2 cis;FI
+F18D2CN6;rasvahappo 18:2 cis,cis n-6 (linolihappo);FI
+F18D3N3;rasvahappo 18:3 n-3 (alfalinoleenihappo);FI
+F18D3N6;rasvahappo 18:3 n-6 (GLA, gammalinoleenihappo);FI
+F18D4N3;rasvahappo 18:4 n-3;FI
+F20D2CIS;rasvahappo 20:2 cis;FI
+F20D2N6;rasvahappo 20:2 n-6;FI
+F20D3N3;rasvahappo 20:3 n-3;FI
+F20D3N6;rasvahappo 20:3 n-6;FI
+F20D4N3;rasvahappo 20:4 n-3;FI
+F20D4N6;rasvahappo 20:4 n-6 (arakidonihappo);FI
+F20D5N3;rasvahappo 20:5 n-3 (EPA);FI
+F20D5N6;rasvahappo 20:5 n-6;FI
+F21D5N3;rasvahappo 21:5 n-3;FI
+F22D2N6;rasvahappo 22:2 n-6;FI
+F22D4N3;rasvahappo 22:4 n-3;FI
+F22D4N6;rasvahappo 22:4 n-6;FI
+F22D5N3;rasvahappo 22:5 n-3 (DPA);FI
+F22D5N6;rasvahapppo 22:5 n-6;FI
+F22D6N3;rasvahappo 22:6 n-3 (DHA);FI
+F24DXN3;rasvahappo 24:X n-3;FI
+F16D1TRS;rasvahappo 16:1 trans;FI
+F18D1TN;rasvahappo 18:1 trans;FI
+F18D2TN;rasvahappo 18:2 trans;FI
+F18D2TRI;rasvahappoisomeerit 18:2 tri;FI
+F18D3TN;rasvahappo 18:3 trans;FI
+F20D1TN;rasvahappo 20:1 trans;FI
+F20D2TN;rasvahappo 20:2 trans;FI
+F22D1TN;rasvahappo 22:1 trans;FI
+NITRA;nitraatti;FI
+NITRI;nitriitti;FI
+TAUR;tauriini;FI
+ALA;alaniini;FI
+ARG;arginiini;FI
+ASNASP;asparagiini + asparagiinihappo;FI
+GLNGLU;glutamiini + glutamiinihappo;FI
+GLY;glysiini;FI
+HIS;histidiini;FI
+ILE;isoleusiini;FI
+LEU;leusiini;FI
+LYS;lysiini;FI
+MET;metioniini;FI
+METX;metioniini (EKT hydrolyysi);FI
+PHE;fenyylialaniini;FI
+PRO;proliini;FI
+SER;seriini;FI
+TRP;tryptofaani;FI
+TYR;tyrosiini;FI
+VAL;valiini;FI
+BETATN;betaiini;FI
+F11D0;rasvahappo 11:0;FI
+F9D0;rasvahappo 9:0;FI
+EDICTYOL;eriodiktioli;FI
+EPIKATEK;epikatekiini;FI
+HESPER;hesperetiini;FI
+ISORHAM;isorhamnetin;FI
+KAEMPH;kamferoli;FI
+KATEK;katekiini;FI
+LUTEOL;luteoliini;FI
+MYRIC;myrisetiini;FI
+NARINGE;naringeniini;FI
+QUERCE;kversetiini;FI
+CHOLNT;koliini, yhteensä;FI
+BIOCHA;biokaniini A;FI
+FORMO;formononetiini;FI
+GENIST;genisteiini;FI
+LIGNANS;lignaanit;FI
+SECORES;sekoisolarisiresinoli;FI
+CHOLE;kolesteroli (GC);FI
+CHORL;kolesteroli (entsymaattinen menetelmä);FI
+STERT;sterolit;FI
+AVEDT;avenasteroli, yhteensä;FI
+BRASTR;brassikasteroli;FI
+CAMT;kampesteroli;FI
+SITSTR;sitosteroli;FI
+STEROTH;sterolit, muut;FI
+STGSTR;stigmasteroli;FI
+STANTOT;stanolit yhteensä;FI
+ALKRESOR;alkyyliresorsinolit;FI
+ANTHOCYT;antosyanidiinit, yhteensä;FI
+AVANTHRA;avenantramidit;FI
+CYANID;syanidiini;FI
+DELPHIN;delfinidiini;FI
+ELGTANN;ellagitanniinit;FI
+MALVID;malvidiini;FI
+PA4TO6;proantosyanidiini 4-6-meerit;FI
+PA7TO10;proantosyanidiini 7-10-meerit;FI
+PABOUND;proantosyanidit sitoutuneet;FI
+PADIME;proantosyandiinidimeerit;FI
+PAMONO;proantosyanidiinimonomeerit;FI
+PAPOLYM;proantosyanopolymeerit;FI
+PATRI;proantosyanidiniinitrimeerit;FI
+PELARGON;pelargonidiini;FI
+PEONID;peonidiini;FI
+PETUN;petunidiini;FI
+PROANTCT;proantosyanidit yhteensä;FI
+ASN;asparagiini;FI
+CADAVT;kadaveriini;FI
+CAFFN;kofeiini;FI
+CYSTE;kysteiini;FI
+ERGCAL;ergokalsiferoli (D2-vitamiini);FI
+F13D0I;rasvahappo 13:0 iso;FI
+F16D1;rasvahappo 16:1 (palmitoleiinihappo);FI
+F16DUN;rasvahappo 16;FI
+F18D1;rasvahappo 18:1;FI
+F18D1CN9;rasvahappo 18:1 n-9 cis (öljyhappo);FI
+F18D1TN9;rasvahappo 18:1 trans n-9;FI
+F18D2;rasvahappo 18:2;FI
+F18D3;rasvahappo 18:3;FI
+F18D4;rasvahappo 18.4;FI
+F20D2;rasvahappo 20:2;FI
+F20D3;rasvahappo 20:3;FI
+F20D4;rasvahappo 20:4;FI
+F20D5;rasvahappo 20:5 (eikosapentaeenihappo);FI
+F21D5;rasvahappo 21:5;FI
+F22D1CN1;rasvahappo 22:1 cis n-11;FI
+F22D1CN9;rasvahappo 22:1 cis n-9;FI
+F22D1TN9;rasvahappo 22:1 trans n-9;FI
+F22D2;rasvahappo 22:2;FI
+F22D4;rasvahappo 22:4;FI
+F22D5;rasvahappo 22:5 (dokosapentaeenihappo);FI
+F22D6;rasvahappo 22:6 (dokosaheksaeenihappo);FI
+F22DUN;rasvahappo 22;FI
+F23D0;rasvahapppo 23:0;FI
+GLN;glutamiini;FI
+HISTN;histamiini;FI
+MANTL;mannitoli;FI
+PHETN;fenyylietyyliamiini;FI
+PSACNC;polysakkaridi, ei-selluloosa;FI
+PUTRSC;putreskiini;FI
+RAFS;raffinoosi;FI
+SEROTN;serotoniini;FI
+SPERDN;spermidiini;FI
+SPERN;spermiini;FI
+TOCPHT;tokoferolit yhteensä;FI
+TRES;trehaloosi;FI
+TRYPN;tryptamiini;FI
+TYRA;tyramiini;FI
+VITB6;B6-vitamiini;FI
+VITK1;K1-vitamiini (fyllokinoni);FI
+VITK2;K2-vitamiini (menakinoni);FI
+thscode;suomi;FI
+F19D1;rasvahappo 19:1;FI
+F21D0;rasvahappo 21:0;FI
+F22D3N3;rasvahappo 22:3 n-3;FI
+FAMSTXR;rasvahapot trans yksittäistyydyttymättömät muut;FI

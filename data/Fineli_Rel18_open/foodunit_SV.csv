@@ -1,0 +1,15 @@
+THSCODE;DESCRIPT;LANG
+KG;kilogram;SV
+DL;deciliter;SV
+L;liter;SV
+RKL;matsked;SV
+TL;tesked;SV
+KPL_S;litet stycke;SV
+KPL_M;medelstort stycke;SV
+KPL_L;stort stycke;SV
+KPL_VALM;Producent (stycke);SV
+PORTS;liten portion;SV
+PORTM;medelstor portion;SV
+PORTL;stor portion;SV
+PORTTBL;Portion i livsmedels tabell;SV
+PORT1000KJ;Portion som motsvarar 1000kJ energi;SV

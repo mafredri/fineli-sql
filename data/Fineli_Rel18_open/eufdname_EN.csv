@@ -1,0 +1,367 @@
+THSCODE;DESCRIPT;LANG
+ENERC;energy,calculated;EN
+XENERC;energia, calculated without fibre;EN
+CHOAVL;carbohydrate, available;EN
+CHOCDF;carbohydrate, difference;EN
+CHOAVLM;carbohydrate, monosaccharide equivalents;EN
+FAT;fat, total;EN
+PROT;protein, total;EN
+ALC;alcohol;EN
+ASH;ash (minerals);EN
+WATER;water (moisture);EN
+FIBC;fibre, total;EN
+OA;organic acids, total;EN
+SUGOH;sugar alcohols;EN
+STARCH;starch, total;EN
+STARES;starch, resistant;EN
+SUGAR;sugars, total;EN
+FRUS;fructose;EN
+GALS;galactose;EN
+GLUS;glucose;EN
+LACS;lactose;EN
+MALS;maltose;EN
+SUCS;sucrose;EN
+OLSAC;oligosaccharides, available;EN
+FIBT;fibre, total dietary;EN
+PSACNCS;polysaccharides, non-cellulosic, water-soluble;EN
+FIBINS;fibre, water-insoluble;EN
+CELLU;cellulose;EN
+LIGN;lignin;EN
+PSACNCI;polysaccharides, non-cellulosic, water-insoluble;EN
+AGAR;agar;EN
+GLUCNB;beta-glucan;EN
+GUMS;gums;EN
+PECT;pectin;EN
+ACEAC;acetic acid;EN
+BENZAC;p-hydroxybenzoic acid;EN
+CINNAC;cinnamic acid;EN
+CITAC;citric acid;EN
+FERAC;ferulic acid;EN
+GALLAC;gallic acid;EN
+LACAC;lactic acid;EN
+MALAC;malic acid;EN
+MISPHEAC;other phenolic acids;EN
+PARCOUM;paracoumaric acid;EN
+PHEAC;phenolic acids, total;EN
+PROCATAC;protocatechuic acid;EN
+SINAPAC;sinapic acid;EN
+SYRAC;syringic acid;EN
+VANAC;vanillic acid;EN
+SORTL;sorbitol;EN
+XYLTL;xylitol;EN
+BIOT;biotin (vitamin H);EN
+FOL;folate, total;EN
+FOLCH3H4;5-CH3-H4-folate;EN
+FOLFRE;folate, free;EN
+FOLH4;H4-folate;EN
+FOLHCOH4;5-HCO-H4-folate;EN
+FOL10HCO;10-HCO-folic acid;EN
+FOLATE;folate (microbiological assay);EN
+NIAEQ;niacin equivalents, total;EN
+NIA;niacin, preformed (nicotinic acid + nicotinamide);EN
+PANTAC;pantothenic acid (vitamin B5);EN
+VITPYRID;vitamers pyridoxine (hydrochloride);EN
+PYRID;pyridoxine vitamers;EN
+PYRXL;pyridoxal;EN
+PYRXM;pyridoxamin;EN
+PYRXN;pyridoxin;EN
+RIBF;riboflavine;EN
+THIA;thiamin (vitamin B1);EN
+VITB12;vitamin B-12 (cobalamin);EN
+VITC;vitamin C (ascorbic acid);EN
+VITA;vitamin A  retinol activity equivalents;EN
+XVITA;vitamin A  retinol equivalents;EN
+RETOL;retinol;EN
+RETOL13;13-cis retinol;EN
+RETOLDH;dehyroretinol;EN
+RETTRANS;all-trans-retinol;EN
+RET11CIS;cis-11-retinol;EN
+RET911;dicis-911-retinol;EN
+RET9CIS;cis-9-retinol;EN
+CARTBEQ;beta-carotene equivalents (provitamin A carotenoids);EN
+CAROTENS;carotenoids, total;EN
+CARTA;alpha-carotene;EN
+CARTB;beta-carotene;EN
+CARTG;gamma-carotene;EN
+CRYPX;cryptoxanthin;EN
+CANTHAX;canthaxanthine;EN
+CAPSA;capsanthine;EN
+LUTEZEAX;lutein plus zeaxanthine;EN
+LYCO;lycopene;EN
+BETACAR;all-trans beta-carotene;EN
+ZEAX;zeaxanthine;EN
+LUTE;lutein;EN
+VITD;vitamin D;EN
+CAL25OH;25-hydroxycholecalciferol;EN
+VITE;vitamin E  alphatocopherol;EN
+XVITE;vitamin E  alpha-tocopherol equivalents;EN
+TOCPHA;alpha-tocopherol;EN
+TOCPHB;beta-tocopherol;EN
+TOCPHD;delta-tocopherol;EN
+TOCPHG;gamma-tocopherol;EN
+TOCTRA;alpha-tocotrienol;EN
+TOCTRB;beta-tocotrienol;EN
+TOCTRG;gamma-tocotrienol;EN
+TOCTRD;delta-tocotrienol;EN
+VITK;vitamin K, total;EN
+MENAQ;menaquinone;EN
+PHYLQ;phylloquinone;EN
+MENADN;menadione;EN
+AL;aluminium;EN
+AS;arsenic;EN
+B;boron;EN
+BRD;bromide;EN
+CA;calcium;EN
+CD;cadmium;EN
+CLD;chloride (chlorine);EN
+CO;cobalt;EN
+CR;chromium;EN
+CU;copper;EN
+FD;fluoride (fluorine);EN
+FE;iron, total;EN
+HG;mercury;EN
+ID;iodide (iodine);EN
+K;potassium;EN
+MG;magnesium;EN
+MN;manganese;EN
+MO;molybdenum;EN
+NA;sodium;EN
+NACL;salt;EN
+NI;nickel;EN
+NT;nitrogen, total;EN
+P;phosphorus;EN
+PB;lead;EN
+RB;rubidium;EN
+S;sulphur;EN
+SE;selenium, total;EN
+SI;silicon;EN
+SR;strontium;EN
+ZN;zinc;EN
+FAFRE;fatty acids, total;EN
+FACIDCTG;fatty acids, total, calculated as TAG equivalents;EN
+FAPU;fatty acids, total polyunsaturated;EN
+FAMCIS;fatty acids, total monounsaturated cis;EN
+FASAT;fatty acids, total saturated;EN
+FATRN;fatty acids, total trans;EN
+FAUN;fatty acid unidentified;EN
+FAPUN3;fatty acids, total n-3 polyunsaturated;EN
+FAPUN3FI;fatty acids, total polyunsaturated n-3 fish;EN
+FAPUN3VE;fatty acids, total polyunsaturated n-3 vegetable;EN
+FAPUN6;fatty acids, total n-6 polyunsaturated;EN
+FAS4T11;fatty acids 4:0-11:0;EN
+FAS12T17;fatty acids 12:0-17:0;EN
+FAS18;fatty acid isomers 18:0;EN
+FAS19T26;fatty acids 19:0-26:0;EN
+F4D0;fatty acid 4:0 (butyric acid);EN
+F6D0;fatty acid 6:0 (caproic acid);EN
+F8D0;fatty acid 8:0 (caprylic acid);EN
+F10D0;fatty acid 10:0 (capric acid);EN
+F12D0;fatty acid 12:0 (lauric acid);EN
+F13D0;fatty acid 13:0 (tridecanoic acid);EN
+F14D0T;fatty acid isomers 14:0;EN
+F14D0;fatty acid 14:0 (myristic acid);EN
+F14D0AI;fatty acid 14:0 anteiso;EN
+F14D0I;fatty acid 14:0 iso;EN
+F15D0T;fatty acid isomers 15:0;EN
+F15D0;fatty acid 15:0 (pentadecylic acid);EN
+F15D0AI;fatty acid 15:0 anteiso;EN
+F15D0I;fatty acid 15:0 iso;EN
+F16D0T;fatty acid isomers 16:0;EN
+F16D0;fatty acid 16:0 (palmitic acid);EN
+F16D0AI;fatty acid 16:0 anteiso;EN
+F16D0I;fatty acid 16:0 iso;EN
+F17D0T;fatty acid isomers 17:0;EN
+F17D0;fatty acid 17:0 (margaric acid);EN
+F17D0AI;fatty acid 17:0 anteiso;EN
+F17D0I;fatty acid 17:0 iso;EN
+F18D0;fatty acid 18:0 (stearic acid);EN
+F18D0AI;fatty acid 18:0 anteiso;EN
+F18D0I;fatty acid 18:0 iso;EN
+F19D0;fatty acid 19:0;EN
+F20D0T;fatty acid isomers 20:0;EN
+F20D0;fatty acid 20:0 (arachidic acid);EN
+F20D0I;fatty acid 20:0 iso;EN
+F22D0;fatty acid 22:0 (behenic acid);EN
+F24D0;fatty acid 24:0 (lignoceric acid);EN
+F26D0;fatty acid 26:0;EN
+F10D1;fatty acid 10:1 (caproleic acid);EN
+F12D1;fatty acid 12:1 (lauroleic acid);EN
+F14D1;fatty acid 14:1 (myristoleic acid);EN
+F15D1;fatty acid 15:1 (pentadecenoic acid);EN
+F16D1T;fatty acid isomers 16:1;EN
+F16D1I;fatty acid 16:1 iso;EN
+F16D1N5;fatty acid 16:1 n-5;EN
+F16D1N7;fatty acid 16:1 n-7;EN
+F16D1N9;fatty acid 16:1 n-9;EN
+F17D1;fatty acid 17:1 (heptadecenoic acid);EN
+F17D1CIS;fatty acid 17:1 cis;EN
+F18D1T;fatty acid isomers 18:1;EN
+F18D1CIS;fatty acid 18:1 cis;EN
+F18D1N5;fatty acid 18:1 n-5;EN
+F18D1N7;fatty acid 18:1 n-7;EN
+F18D1N9;fatty acid 18:1 n-9;EN
+F18D1I;fatty acid 18:1 iso;EN
+F20D1T;fatty acid isomers 20:1;EN
+F20D1;fatty acid 20:1 (eicosenoic acid);EN
+F20D1CIS;fatty acid 20:1 cis;EN
+F20D1N9;fatty acid 20:1 n-9;EN
+F20D1N11;fatty acid 20:1 n-11;EN
+F22D1T;fatty acid isomers 22:1;EN
+F22D1;fatty acid 22:1 (docosenoic acid);EN
+F22D1CIS;fatty acid 22:1 cis;EN
+F22D1N7;fatty acid 22:1 n-7;EN
+F22D1N9;fatty acid, 22:1 n-9;EN
+F22D1N11;fatty acid, 22:1 n-11;EN
+F24D1;fatty acid 24:1 (selacholeic acid);EN
+F24D1N9;fatty acid 24:1 n-9;EN
+F16D2;fatty acid 16:2;EN
+F16D3;fatty acid 16:3;EN
+F16D4;fatty acid 16:4;EN
+F18D2CON;fatty acid 18:2 conjugated;EN
+F18D2ISO;fatty acid 18:2 iso;EN
+F18D2CIS;fatty acid isomers 18:2 cis;EN
+F18D2CN6;fatty acid 18:2 cis,cis n-6 (linoleic acid);EN
+F18D3N3;fatty acid 18:3 n-3 (alpha-linolenic acid);EN
+F18D3N6;fatty acid 18:3 n-6 (GLA, gamma-linolenic acid);EN
+F18D4N3;fatty acid 18:4 n-3 (parinaric acid);EN
+F20D2CIS;fatty acid 20:2 cis;EN
+F20D2N6;fatty acid 20:2 n-6;EN
+F20D3N3;fatty acid 20:3 n-3;EN
+F20D3N6;fatty acid 20:3 n-6;EN
+F20D4N3;fatty acid 20:4 n-3;EN
+F20D4N6;fatty acid 20:4 n-6 (arachidonic acid);EN
+F20D5N3;fatty acid 20:5 n-3 (EPA);EN
+F20D5N6;fatty acid 20:5 n-6;EN
+F21D5N3;fatty acid 21:5 n-3 (heneicosapentaenoic acid);EN
+F22D2N6;fatty acid 22:2 n-6;EN
+F22D4N3;fatty acid 22:4 n-3;EN
+F22D4N6;fatty acid 22:4 n-6;EN
+F22D5N3;fatty acid 22:5 n-3 (clupanodonic acid);EN
+F22D5N6;fatty acid 22:5 n-6;EN
+F22D6N3;fatty acid 22:6 n-3 (DHA);EN
+F24DXN3;fatty acid 24:X n-3;EN
+F16D1TRS;fatty acid 16:1 trans;EN
+F18D1TN;fatty acid 18:1 trans;EN
+F18D2TN;fatty acid, 18:2 trans;EN
+F18D2TRI;fatty acid isomers 18:2 tri;EN
+F18D3TN;fatty acid 18:3 trans;EN
+F20D1TN;fatty acid 20:1 trans;EN
+F20D2TN;fatty acid 20:2 trans;EN
+F22D1TN;fatty acid trans 22:1;EN
+NITRA;nitrates;EN
+NITRI;nitrites;EN
+TAUR;taurine;EN
+ALA;alanine;EN
+ARG;arginine;EN
+ASNASP;asparagine and aspartic acid;EN
+GLNGLU;glutamine+glutamic acid;EN
+GLY;glycine;EN
+HIS;histidine;EN
+ILE;isoleucine;EN
+LEU;leucine;EN
+LYS;lysine;EN
+MET;methionine;EN
+METX;methionine (EKT hydrolysis);EN
+PHE;phenylalanine;EN
+PRO;proline;EN
+SER;serine;EN
+TRP;tryptophan;EN
+TYR;tyrosine;EN
+F11D0;fatty acid 11:0;EN
+VAL;valine;EN
+BETATN;betain;EN
+F9D0;fatty acid 9:0;EN
+EDICTYOL;eriodictyol;EN
+EPIKATEK;epicatechin;EN
+HESPER;hesperitin;EN
+ISORHAM;isoramnetiini;EN
+KAEMPH;kaempherol;EN
+KATEK;catechin;EN
+LUTEOL;luteolin;EN
+MYRIC;myricetin;EN
+NARINGE;naringenin;EN
+QUERCE;quercetin;EN
+CHOLNT;choline, total;EN
+BIOCHA;biochanin A;EN
+FORMO;formononetin;EN
+GENIST;genistein;EN
+LIGNANS;lignans;EN
+SECORES;secoisolarisiresinol;EN
+CHOLE;cholesterol (GC);EN
+CHORL;cholesterol (enzymatic);EN
+STERT;sterols, total;EN
+AVEDT;avenasterol, total;EN
+BRASTR;brassicasterol;EN
+CAMT;campesterol, total;EN
+SITSTR;sitosterol;EN
+STEROTH;sterols, other;EN
+STGSTR;stigmasterol, unspecified;EN
+STANTOT;stanols, total;EN
+ALKRESOR;alkylresorcinols;EN
+ANTHOCYT;anthocyanidins, total;EN
+AVANTHRA;avenathramides;EN
+CYANID;cyanidin;EN
+DELPHIN;delphinidin;EN
+ELGTANN;ellagitannins;EN
+MALVID;malvidin;EN
+PA4TO6;proanthocyanidin 4-6mers;EN
+PA7TO10;proanthocyanidin 7-10mers;EN
+PABOUND;proanthocyanids bound;EN
+PADIME;proanthocyanidin dimers;EN
+PAMONO;proanthocyanidin monomers;EN
+PAPOLYM;proanthocyanopolymers;EN
+PATRI;proanthocyanidin trimers;EN
+PELARGON;pelargonidin;EN
+PEONID;peonidin;EN
+PETUN;petunidin;EN
+PROANTCT;proanthocyanidins total;EN
+ASN;asparagine;EN
+CADAVT;cadaverine;EN
+CAFFN;caffeine;EN
+CYSTE;cysteine;EN
+ERGCAL;ergocalciferol (vitamin D2);EN
+F13D0I;fatty acid 13:0 iso (isotridecanoic acid);EN
+F16D1;fatty acid 16:1 (palmitoleic acid);EN
+F16DUN;fatty acid 16:unidentified;EN
+F18D1;fatty acid 18:1 (octadecenoic acid);EN
+F18D1CN9;fatty acid 18:1 n-9 cis (oleic acid);EN
+F18D1TN9;fatty acid 18:1 trans n-9 (elaidic acid);EN
+F18D2;fatty acid 18:2;EN
+F18D3;fatty acid 18:3;EN
+F18D4;fatty acid 18:4 (stearidonic acid);EN
+F20D2;fatty acid 20:2 (eicosadienoic acid);EN
+F20D3;fatty acid 20:3 (eicosatrienoic acid);EN
+F20D4;fatty acid 20:4 (eicosatetraenoic acid);EN
+F20D5;fatty acid 20:5 (eicopentaenoic acid);EN
+F21D5;fatty acid 21:5 (heneicosapentaenoic acid);EN
+F22D1CN1;fatty acid 22:1cis n-11 (cetoleic acid);EN
+F22D1CN9;fatty acid cis 22:1 n-9 (erucic acid);EN
+F22D1TN9;fatty acid trans 22:1 n-9 (brassidic acid);EN
+F22D2;fatty acid 22:2 (docosadienoic acid);EN
+F22D4;fatty acid 22:4 (docosatetraenoic acid);EN
+F22D5;fatty acid 22:5 (docosapentaenoic acid);EN
+F22D6;fatty acid 22:6 (docosahexaenoic acid);EN
+F22DUN;fatty acid 22:unidentified;EN
+F23D0;fatty acid 23:0 (tricosanoic acid);EN
+GLN;glutamine;EN
+HISTN;histamine;EN
+MANTL;mannitol;EN
+PHETN;phenylethylamine;EN
+PSACNC;polysaccharides, non-cellulosic;EN
+PUTRSC;putrescine;EN
+RAFS;raffinose;EN
+SEROTN;serotonin;EN
+SPERDN;spermidine;EN
+SPERN;spermine;EN
+TOCPHT;tocopherols, total;EN
+TRES;trehalose;EN
+TRYPN;tryptamine;EN
+TYRA;tyramine;EN
+VITB6;vitamin B-6, total;EN
+VITK1;vitamin K-1 (phyllokinone);EN
+VITK2;vitamin K-2 (menakinone);EN
+thscode;englanti;EN
+F19D1;fatty acid 19:1;EN
+F21D0;fatty acid 21:0;EN
+F22D3N3;fatty acid 22:3 n-3;EN
+FAMSTXR;fatty acids, monounsaturated, trans, remainder;EN

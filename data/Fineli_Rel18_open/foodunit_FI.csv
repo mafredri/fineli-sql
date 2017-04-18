@@ -1,0 +1,16 @@
+THSCODE;DESCRIPT;LANG
+KG;kilogramma;FI
+DL;desilitra;FI
+L;litra;FI
+RKL;ruokalusikka;FI
+TL;teelusikka;FI
+KPL_S;pieni (kpl);FI
+KPL_M;keskikokoinen (kpl);FI
+KPL_L;iso (kpl);FI
+KPL_VALM;Valmistaja (kpl);FI
+PORTS;pieni annos;FI
+PORTM;keskikokoinen annos;FI
+PORTL;iso annos;FI
+PORTTBL;Elintarviketaulukossa käytetty annos;FI
+SPLPORT;kappaletta annosta;FI
+PORT1000KJ;Annoksen koko, joka vastaa 1000kJ;FI

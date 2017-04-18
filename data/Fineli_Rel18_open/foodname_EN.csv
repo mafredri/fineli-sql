@@ -1,0 +1,4059 @@
+FOODID;FOODNAME;LANG
+1;Sugar;EN
+2;Fructose;EN
+3;Syrup;EN
+4;Honey;EN
+5;Sweet, candy;EN
+6;Chocolate, average;EN
+7;Chocolate confection filled with marmalade;EN
+8;Liquorice, licorice;EN
+9;Jelly candy, fruit jelly;EN
+10;Marzipan, almond paste;EN
+11;Toffee;EN
+12;Salty liqourice pastille;EN
+14;Chocolate bar, average;EN
+20;Cocoa powder, unsweetened;EN
+21;Cocoa powder with sugar;EN
+24;Sorbitol;EN
+25;Gelatin;EN
+26;Baking yeast, fresh;EN
+27;Flour, cornstarch, cornflour;EN
+28;Mustard;EN
+29;Meat bouillon;EN
+30;Salt, iodised;EN
+31;Soy sauce;EN
+32;Chocolate, plain, dark chocolate;EN
+33;Chocolate, milk chocolate;EN
+34;Halva made with sesame seeds and sugar;EN
+35;Sweet, candy, sugar-free;EN
+36;Salt, low sodium;EN
+37;Chocolate, artificially sweetened;EN
+38;Meat bouillon powder/cube;EN
+39;Sweetener, aspartam, powder;EN
+40;Cereal bar with fibre;EN
+43;Rye malt;EN
+44;Chocolate bar with filling, average;EN
+62;Pastille sweetened with xylitol;EN
+63;Chocolate bar, low-fat;EN
+65;Chewing gum, xylitol sweetened;EN
+66;Chewing gum;EN
+68;Barley starch;EN
+69;Fruit pastille with gum arabic;EN
+70;Sweetener, saccharin;EN
+73;Raisin or dried fruit coated with yoghurt;EN
+74;Baking powder;EN
+75;Fish stock broth;EN
+79;Salt, rock salt, without iodine;EN
+100;Flour, rye, wholegrain rye flour;EN
+103;Rye flakes;EN
+110;Flour, wheat flour, semi-coarse;EN
+111;Flour, whole wheat flour, graham flour;EN
+112;Semolina;EN
+113;Semolina, whole wheat;EN
+114;Wheat flakes;EN
+115;Wheat germ;EN
+116;Wheat bran;EN
+117;Macaroni, pasta;EN
+119;Macaroni, whole wheat;EN
+120;Noodle, wheat;EN
+121;Pasta, spaghetti, macaroni;EN
+123;Macaroni, dark, boiled without salt;EN
+124;Flour, dark wheat flour;EN
+125;Flour mixture, for bread rolls, wheat flour, wheat groats, rye;EN
+126;Flour, breadcrumbs;EN
+133;Wafer, ice cream cone;EN
+142;Flour, wheat flour, semi-coarse, bakery industry, fresh;EN
+150;Flour, barley flour;EN
+151;Barley, pearl;EN
+152;Barley, rolled, barley flakes;EN
+153;Oats, rolled, oat flakes;EN
+154;Flour mixture, talkkuna powder, roasted barley, rye, oat, pea;EN
+156;Rice, white;EN
+158;Rice, wholegrain;EN
+160;Flour, millet, whole or crushed grains;EN
+161;Flour, buckwheat, whole or crushed grains;EN
+162;Flour, potato starch, potato flour;EN
+163;Breakfast cereal, corn flakes;EN
+167;Maize, kernel, dried, unpopped;EN
+168;Malt for beer;EN
+170;Oat bran;EN
+172;Spaghetti spinach, contains egg;EN
+173;Oat macaroni, contains wheat and oats;EN
+175;Wheat grain, crushed;EN
+176;Rye grain, crushed;EN
+177;Rice, natural rice, mixed rice and wild rice, boiled without salt;EN
+182;Flour, rice flour, rice flake;EN
+183;Flour, rice flour, whole grain;EN
+184;Tortilla chips, taco shell;EN
+185;Flour mixture, gluten-free, contains wheat starch;EN
+186;Pasta, spaghetti, spinach, boiled without salt;EN
+187;Macaroni, boiled, oil;EN
+188;Pasta, spaghetti, boiled, oil, without salt;EN
+189;Flour mixture, rye, wheat;EN
+190;Oat macaroni, boiled, no added salt;EN
+191;Oat macaroni, boiled, added oil;EN
+202;Potato, dried;EN
+203;Potato crisps, potato chips, potato snack;EN
+204;Potato, new;EN
+205;Potato, peeled;EN
+206;Mashed potato powder;EN
+207;French fries, frozen;EN
+209;Potatoflake;EN
+300;Carrot;EN
+302;Carrot, dried;EN
+303;Swede, rutabaga;EN
+304;Turnip;EN
+305;Beetroot, red beet;EN
+307;Beetroot, pickled;EN
+308;Radish;EN
+309;Parsnip;EN
+310;Jerusalem artichoke;EN
+311;Celeriac, turnip-rooted celery, knob celery, celery root;EN
+312;Black salsify;EN
+313;Frozen vegetable mix, root vegetables, carrot-swede-celeriac-leek;EN
+320;White cabbage;EN
+321;Red cabbage;EN
+322;Cauliflower;EN
+324;Broccoli;EN
+326;Kale;EN
+327;Brussels sprout;EN
+329;Kohlrabi;EN
+330;Lettuce;EN
+331;Iceberg lettuce;EN
+333;Parsley;EN
+334;Nettle;EN
+335;Onion;EN
+336;Onion, dried;EN
+337;Leek;EN
+338;Rhubarb;EN
+339;Celery;EN
+340;Asparagus, canned;EN
+342;Mushroom, boletus, russula;EN
+343;Mushroom, milk caps, salted;EN
+344;Mushroom in vinegar;EN
+345;Champignon, fresh;EN
+346;Cucumber;EN
+347;Cucumber, pickled cucumber, without added sugar;EN
+348;Pickled cucumber, sweet, flavoured;EN
+350;Pumpkin;EN
+351;Salad, pickled pumpkin;EN
+352;Tomato;EN
+353;Tomato ketchup;EN
+354;Tomato puree;EN
+355;Sweet pepper, average;EN
+356;Mixed vegetables, carrot, cauliflower, pea, bean;EN
+358;Vegetable juice;EN
+359;Chinese cabbage;EN
+360;Swiss chard;EN
+362;Aubergine;EN
+363;Sweet corn kernels;EN
+364;Garden cress;EN
+367;Chanterelle;EN
+368;False morel;EN
+369;Dill, fresh;EN
+370;Pea, green;EN
+371;Pea, green, dried;EN
+372;Bean, green bean, string bean;EN
+373;Bean, brown bean, white bean, average;EN
+375;Nut, hazelnut;EN
+376;Nut, walnut;EN
+377;Chestnut;EN
+378;Nut, peanut;EN
+379;Almond;EN
+380;Flour, soya flour, full fat;EN
+381;Flour, soya flour, low-fat;EN
+382;Coconut flake;EN
+383;Nut, peanut, salt;EN
+384;Beansprouts and alfalfa sprouts, average;EN
+385;Sesame seed, with hull;EN
+386;Sweet pepper, red;EN
+387;Sweet pepper, green;EN
+388;Sweet pepper, yellow;EN
+389;Zucchini, summer squash;EN
+390;Tomato juice, unsweetened;EN
+391;Soya beans, dried;EN
+392;Chives;EN
+393;Garlic;EN
+394;Salad, sweet pickle relish;EN
+395;Bean, white bean, boiled;EN
+396;Frozen vegetable mix, pea-sweet corn-sweet pepper;EN
+398;Tomatoes, crushed, canned;EN
+399;Lentils, green/brown, dried;EN
+401;Apple, dried;EN
+408;Apricot, canned, in syrup;EN
+409;Apricot, dried;EN
+411;Peach, canned, in syrup;EN
+412;Peach, dried;EN
+417;Pineapple, canned, in syrup;EN
+423;Grape, average, green or red, seedless;EN
+427;Mixed fruit, dried;EN
+428;Raisin;EN
+431;Olive, average, with stone, in oil, green/black;EN
+432;Fruit cocktail, in syrup;EN
+433;Apple juice, unsweetened, vitamin c;EN
+434;Orange juice, unsweetened, vitamin c;EN
+435;Grapefruit juice, unsweetened, vitamin c;EN
+436;Fruit juice, unsweetened, vitamin c, average;EN
+437;Lemon juice, unsweetened, diluted;EN
+438;Pineapple juice, unsweetened, vitamin c;EN
+440;Lingonberry, cowberry;EN
+441;Cranberry;EN
+442;Blueberry, bilberry;EN
+444;Blackcurrant;EN
+445;Redcurrant;EN
+446;Gooseberry;EN
+447;Strawberry;EN
+448;Raspberry;EN
+449;Cloudberry;EN
+450;Mixed berry jam;EN
+451;Berry juice, sweetened, undiluted, home-made;EN
+452;Blackcurrant juice, sweetened, undiluted, home-made;EN
+453;Berry juice, unsweetened, undiluted, home-made;EN
+454;Berry, average;EN
+455;Sea buckthorn berry;EN
+456;Berry marmalade;EN
+457;Rowan berry;EN
+458;Juice drink, blackcurrant-lingonberry, contains sugar;EN
+459;Juice drink, lingonberry, undiluted, contains sugar;EN
+461;Berry juice, sweetened, diluted, home-made;EN
+462;Blackcurrant juice, sweetened, diluted, home-made;EN
+463;Berry juice, unsweetened, diluted, home-made;EN
+469;Fruit juice, five fruits, unsweetened, vitamin c;EN
+471;Pineapple, canned, in own juice;EN
+472;Applesauce, unsweetened;EN
+473;Fruit nectar, berry nectar, sweetened, 50% fruit;EN
+474;Berry juice, unsweetened;EN
+476;Jam, sweetened with fructose;EN
+477;Muskmelon/cantaloupe melon, without skin;EN
+478;Berry nectar drink, sweetened, contains 50% berries;EN
+500;Butter;EN
+501;Blended spread 80%;EN
+528;Catering fat for deep frying 100%;EN
+529;Margarine, pastry, 80% fat, industrial;EN
+530;Catering margarine for baking, 80% fat;EN
+531;Catering oil, 70% rapeseed oil, 30% palm oil;EN
+535;Rapeseed oil;EN
+536;Olive oil;EN
+537;Peanut oil;EN
+540;Sunflower oil;EN
+541;Cooking oil, average, 87% rapeseed, 8% sunflower,and 5% olive oil;EN
+542;Soybean oil;EN
+543;Corn oil, maize oil;EN
+550;Lard, frying fat;EN
+552;Coconut butter;EN
+553;Tallow, beef fat;EN
+562;Mayonnaise, 60% fat;EN
+563;Salad dressing, french dressing;EN
+565;Blended spread 40%, kevyt levi, low-sodium, low-lactose;EN
+568;Margarine 60%, rainbow/pirkka/eldorado/k-menu;EN
+570;Blended spread 40%, kevyt levi, low-lactose;EN
+572;Margarine 40%, lätta;EN
+576;Butter, unsalted;EN
+578;Mayonnaise, 27-33% fat;EN
+579;Salad dressing, <17% fat, low-fat;EN
+585;Butter, high-sodium;EN
+586;Blended spread 80%, high-sodium;EN
+593;Margarine for baking 80%, pirkka/rainbow;EN
+597;Blended spread 75%, average of industrial products;EN
+598;Butter oil 100%, milkfat;EN
+599;Vegetable fat spread 32%, benecol light;EN
+600;Milk, raw milk, 4.4 % fat, without added vitamin d;EN
+602;Beestings, colostrum;EN
+604;Milk, goat milk;EN
+606;Milk, 0% fat, i ug added vitamin d;EN
+611;Sour milk, 0.8% fat, 0.5 ug vitamin d;EN
+612;Sour milk, 1 ug vitamin d;EN
+613;Sour milk, butter milk, 0.3% fat, 1 ug vitamin d;EN
+615;Sour cream, 10-12% fat;EN
+616;Sour milk, acidophilus, 2.5% fat, 1 ug vitamin d, probiotics;EN
+617;Curd milk, plain, 3.5% fat;EN
+618;Curd milk, plain, 2% fat;EN
+619;Yoghurt, plain, 2.5% fat, low-lactose;EN
+622;Quark, <0.5% fat;EN
+627;Milk, 1% fat, 1 ug added vitamin d;EN
+628;Creme fraiche, 28% fat;EN
+629;Whipping cream, 38% fat, low-lactose, ultra-heat-treated;EN
+630;Sour cream, 40% fat;EN
+631;Whipping cream, 38% fat;EN
+632;Cooking cream, 19% fat;EN
+633;Cream, low-fat, 1o% fat, low-lactose;EN
+635;Cottage cheese, fat-free, low-lactose;EN
+636;Curd milk, flavoured with jam, 1% fat, low-lactose;EN
+637;Yoghurt, plain, fat-free, low-lactose, 0.5 ug vitamin d;EN
+639;Yoghurt, flavoured, fat-free;EN
+640;Cheese, white mould cheese, camembert/brie, 26-30% fat;EN
+641;Cheese, turunmaa/oltermanni, 30% fat;EN
+642;Cheese, emmental, 27-30% fat, red-label;EN
+643;Cheese, hard cheese, edam type, 24-27% fat;EN
+644;Cheese, semi-hard cheese, edam/kadett, 9-11% fat;EN
+645;Cheese, hard cheese, goat cheese, 20-25% fat;EN
+647;Processed cheese, 20-24% fat;EN
+648;Processed cheese, 27-35% fat;EN
+649;Cottage cheese, 2-5% fat;EN
+650;Cheese, home-made fresh cheese, 9-14% fat;EN
+653;Cheese, blue cheese, aura/danazole, average, 27-30% fat;EN
+654;Cheese, gouda/salaneuvos, average, 28-30% fat;EN
+655;Cheese, semi-hard cheese, lappi/småland/billinge/rustholli, 25-35% fat;EN
+657;Cheese, finnish oven cheese, 17-23% fat;EN
+658;Cream cheese, 36-44% fat, kasakka/musta-pekka;EN
+659;Processed cheese, 9-12% fat, low-fat;EN
+661;Soft ice cream with wafer;EN
+663;Ice cream, cream based;EN
+664;Ice cream bar, cream based, chocolate-coated;EN
+665;Ice cream cornet, cream based;EN
+666;Ice cream, milk based;EN
+667;Ice cream, artificially sweetened, 6.5% fat;EN
+668;Ice cream, cream based, >12% fat;EN
+669;Ice cream, fat-free;EN
+672;Milk powder, fat-free milk;EN
+675;Milk, 1.5% fat, low-lactose, 1 ug added vitamin d;EN
+680;Curd milk, plain, 1% fat;EN
+682;Cream cheese, 30% fat, flavoured, creme bonjour/cantadou;EN
+684;Milk, 1.5% fat, 1 ug added vitamin d;EN
+685;Yoghurt, flavoured, fat-free, partially artifially sweetened;EN
+686;Yoghurt, flavoured, 7% fat;EN
+687;Yoghurt, fat 6-8%, for food preparation;EN
+689;Milk, 3.5% fat, 1 ug added vitamin d;EN
+690;Cheese, feta type salad cheese in brine, 18% fat;EN
+691;Cheese, emmental, 27-30% fat, blue-label;EN
+698;Cheese, cheddar type, 34% fat;EN
+699;Cooking cream, vegetable fat, 15% fat;EN
+701;Pork, medium fat;EN
+703;Pork chop, thick layer of fat;EN
+704;Ham, fatty;EN
+705;Pork shoulder;EN
+706;Pork ribs;EN
+707;Bacon;EN
+708;Fatback;EN
+709;Pork knuckle, ham hock;EN
+711;Pork beef mince;EN
+712;Lean steak mince, 7% fat;EN
+713;Pork, average;EN
+714;Beef, average;EN
+716;Beef, medium fat, 13% fat;EN
+718;Beef round;EN
+719;Beef chuck, beef shoulder;EN
+720;Beef knuckle;EN
+721;Beef brisket;EN
+722;Beef sirloin;EN
+723;Beef flank;EN
+726;Veal roast, raw;EN
+730;Lamb, low-fat;EN
+731;Lamb;EN
+732;Lamb roast;EN
+734;Reindeer;EN
+735;Elk;EN
+736;Hare;EN
+737;Rabbit;EN
+741;Beef, canned;EN
+743;Pork and beef, canned;EN
+747;Beef jelly;EN
+748;Pork roast, lean;EN
+750;Chicken;EN
+751;Chicken with skin;EN
+752;Turkey with skin;EN
+753;Game bird;EN
+754;Chicken strips;EN
+775;Ham, smoked, 6% fat;EN
+776;Beef, cured, 2.8% fat;EN
+779;Ham, cooked ham, 3% fat;EN
+786;Liver, beef;EN
+787;Liver, pork;EN
+788;Liver, chicken;EN
+789;Liver, reindeer;EN
+790;Liver, average;EN
+791;Kidney;EN
+792;Heart, beef;EN
+793;Tongue, beef;EN
+794;Blood;EN
+797;Reindeer, cold smoked;EN
+799;Ham, cooked ham, low-fat, 3% fat;EN
+800;Baltic herring;EN
+801;Baltic herring, salted;EN
+802;Baltic herring, smoked;EN
+803;Herring, salted;EN
+804;Cod;EN
+805;Zander, pike-perch;EN
+806;Redfish, smoked;EN
+807;Halibut, smoked;EN
+809;Vendace, lake;EN
+810;Vendace, salted lake fish;EN
+811;Vendace, smoked lake fish;EN
+812;Perch;EN
+813;Pike;EN
+814;Bream;EN
+815;Powan, whitefish, pollan, lavaret;EN
+816;Powan, smoked;EN
+817;Salmon, whole;EN
+818;Salmon, salt-cured;EN
+819;Burbot;EN
+820;Flounder;EN
+821;Eel;EN
+822;Rainbow trout, whole, average;EN
+823;Trout;EN
+824;Fish, average, baltic herring/vendace/perch/pike;EN
+825;Lamprey, smoked;EN
+826;Saithe, frozen;EN
+828;Tuna, in oil, canned;EN
+829;Anchovy;EN
+830;Salmon in oil, canned;EN
+831;Sardine, average, in oil and tomato sauce;EN
+832;Caviar, dark roe of sturgeon;EN
+833;Roe paste;EN
+834;Mussel in water, canned;EN
+835;Shrimp;EN
+836;Crayfish;EN
+837;Herring, pickled/salted, average;EN
+838;Baltic herring, pickled/salted, average;EN
+844;Bream, smoked;EN
+845;Roach;EN
+846;Redfish, rosefish, frozen;EN
+848;Rainbow trout sea, fillet;EN
+851;Egg yolk, 34% of egg mass;EN
+852;Egg white, 66% of egg mass;EN
+855;Egg, quail, raw;EN
+856;Fish, low-fat, average, smoked;EN
+857;Fish, fatty, smoked;EN
+858;Egg without shell;EN
+859;Herring in garlic or mustard sauce;EN
+860;Baltic herring in dill or mustard sauce;EN
+862;Tuna;EN
+863;Oyster, european;EN
+864;Snail;EN
+865;Squid;EN
+866;Lobster;EN
+870;Rainbow trout fillet, salt-cured;EN
+871;Salmon fillet;EN
+900;Coffee, average;EN
+901;Tea;EN
+902;Beer, lager, medium strength, 4.5% volume;EN
+903;Beer, lager, strong, 5-5.5% volume;EN
+904;Wine, average, 8-15% volume;EN
+905;Wine, fortified, sweet, bitters, sherry, vermouth, madeira, fruit wine;EN
+906;Spirit, vodka, gin;EN
+907;Spirit, brandy/rum/whisky 40% volume;EN
+908;Liqueur, 20-30% volume;EN
+909;Gin and grapefruit drink, 5.5% volume;EN
+910;Soft drink, lemonade;EN
+911;Cider, sweet, <3% volume;EN
+912;Mead, finnish sima;EN
+913;Beer, lager, very mild <2.8% volume;EN
+914;Beer home-made, alcohol-free;EN
+915;Mineral water;EN
+917;Lemon tea drink powder, sweetened instant tea;EN
+920;Soft drink, light, sugar-free;EN
+921;Mineral water, low sodium;EN
+922;Water, tap water;EN
+923;Tea, herbal tea;EN
+924;Red wine;EN
+925;White wine, dry;EN
+926;White wine, sweet;EN
+928;Soft drink, cola, average;EN
+929;Vinegar, wine vinegar;EN
+930;Filtered coffee drink;EN
+931;Boiled coffee drink;EN
+932;Cappuccino, unsweetened, whole milk;EN
+933;Vinegar;EN
+934;Vinegar with honey and apple;EN
+936;Wine, light, 4-5% volume;EN
+937;Tea, green tea;EN
+938;Soft drink, partially artificially sweetened;EN
+939;Cider, sweet, 4.7% volume;EN
+940;Beer, strong ale, 7.5-8% volume;EN
+941;Soft drink, cola, light, partially artificially sweetened;EN
+942;Cream liqueur, 15-17% volume;EN
+943;Orange campari, cocktail;EN
+944;Irish coffee, 8% volume;EN
+945;Wine, mulled;EN
+946;Glucose syrup, partly refined, starchy;EN
+947;Bloody mary;EN
+948;Rum cola;EN
+949;Screwdriver;EN
+950;Gin tonic;EN
+951;Tom collins, gin cocktail;EN
+952;Dry martini;EN
+953;Eggnog;EN
+1000;Rye gruel, rye flour, water, salt;EN
+1001;Rye gruel, rye flour, juice, salt;EN
+1002;Rye porridge, rye flour, water, salt;EN
+1003;Rye porridge, rye flour, milk, salt;EN
+1005;Rye potato porridge, water, salt;EN
+1006;Rye berry porridge, water, lingonberry, sugar, salt;EN
+1007;Rye lingonberry porridge, salt, without sugar;EN
+1009;Ryebread, water, wholegrain rye flour;EN
+1011;Multigrain bread, sweet-and-sour bread, sour milk, wheat and rye flour;EN
+1013;Karelian pasty, rice filling;EN
+1014;Karelian pasty, potato filling, rye crust;EN
+1015;Berry pie, crushed berries, rye crust;EN
+1017;Boiled karelian pasty, rice filling in rye crust;EN
+1022;Bread porridge, lingonberries, rye bread, semolina;EN
+1023;Mämmi, sweetened malt porridge, finnish easter pudding;EN
+1025;Rye gruel, rye flakes, milk, salt;EN
+1026;Rye porridge, rye flakes, water, salt;EN
+1027;Rye porridge, rye flakes, milk, salt;EN
+1028;Mixed flake gruel, milk, salt;EN
+1030;Mixed flake porridge, milk, salt;EN
+1031;Wheat tortilla, burrito, wrap, vegetable filling;EN
+1032;Kruska porridge, crushed grains and raisins, water, salt;EN
+1033;Wheat tortilla, burrito, wrap, pork beef mince filling;EN
+1035;Wheat tortilla, burrito, wrap, chicken filling;EN
+1036;Rye bread, 51% rye;EN
+1056;White bread, pita bread;EN
+1100;Wheat gruel, milk, wheat flour, sugar, salt;EN
+1101;Egg gruel with milk;EN
+1104;Wheat porridge, low-fat milk, wheat flour, sugar, salt;EN
+1107;White bread, french bread, low-fat milk, wheat flour;EN
+1108;White bread, wheat roll, low-fat milk;EN
+1111;Multigrain bread, flatbread, low-fat milk, wheat and rye flour;EN
+1132;Danish pastry, low-fat milk, 20% fat;EN
+1139;Doughnut, low-fat milk, home-made;EN
+1150;Bagel, sweet, low-fat milk;EN
+1160;Dough, unsweetened;EN
+1161;Berry pie, basic sweet dough, low-fat milk;EN
+1162;Berry pie, basic sweet dough, fat-free milk;EN
+1163;Berry pie, basic sweet dough, whole milk;EN
+1164;Jam pie, basic sweet dough, low-fat milk;EN
+1165;Jam pie, basic sweet dough, fat-free milk;EN
+1170;Apple pie, basic sweet dough, low-fat milk;EN
+1173;Quark pie, basic sweet dough, low-fat milk;EN
+1179;Berry pie, shortbread crust;EN
+1180;Berry pie with sour milk, shortbread crust;EN
+1181;Jam pie, shortbread crust;EN
+1182;Rhubarb pie, shortbread crust;EN
+1183;Apple pie, shortbread crust;EN
+1184;Quark pie, shortbread crust;EN
+1185;Apple pie with quark filling, shortbread crust;EN
+1193;Swiss roll dough, unsweetened;EN
+1202;Tosca cake;EN
+1204;Sponge cake, berry and cream filling;EN
+1206;Sponge cake, caramel cake with whipped cream;EN
+1207;Sponge cake with custard;EN
+1208;Sponge cake, fruit and cream filling, gelatin topping;EN
+1218;Carrot pie, butter dough;EN
+1220;Mushroom pie, butter dough;EN
+1221;Vegetarian pie, shortcrust pastry;EN
+1223;Thin pancake, low-fat milk;EN
+1228;Blin with low-fat milk, barley flour;EN
+1231;Oven-baked pancake, low-fat milk;EN
+1239;White sauce, low-fat milk, thickened with flour and fat;EN
+1242;White sauce, low-fat milk, thickened with flour;EN
+1243;Sauce veloute, meat bouillon, thickened with flour;EN
+1244;Brown gravy, thickened with fat and flour;EN
+1245;Thin brown sauce with cream;EN
+1246;Hollandaise sauce;EN
+1247;Egg sauce, low-fat milk, thickened with flour and fat;EN
+1253;Pudding, prune pudding;EN
+1258;French toast with low-fat milk;EN
+1262;Cookie crumbs, whipped cream and jam dessert, pappilan hätävara;EN
+1265;Graham gruel, milk, salt;EN
+1266;Graham porridge, water, salt;EN
+1268;Graham berry porridge, water, lingonberry, sugar, salt;EN
+1269;Multigrain bread, graham bread, low-fat milk, graham flour;EN
+1270;Multigrain bread, graham roll, low-fat milk, graham flour, wheat flour;EN
+1276;Semolina gruel, milk, salt;EN
+1277;Semolina porridge, milk, salt;EN
+1278;Semolina lingonberry porridge, whipped;EN
+1279;Semolina lingonberry porridge, whipped, salt, without sugar;EN
+1280;Semolina apricot porridge, whipped, without salt;EN
+1281;Semolina chocolate porridge, milk, without salt;EN
+1283;Semolina gruel, whole grain semolina, milk;EN
+1284;Semolina porridge, whole grain semolina, water;EN
+1285;Semolina porridge, whole grain semolina, milk;EN
+1286;Wheat gruel, milk, wheat flakes, salt;EN
+1287;Wheat gruel, water, wheat flakes, salt;EN
+1288;Wheat porridge, milk, wheat flakes, salt;EN
+1289;Macaroni gruel, milk, salt;EN
+1290;Macaroni porridge, milk, salt;EN
+1291;Macaroni casserole, low-fat milk, without meat;EN
+1294;Macaroni, fried;EN
+1295;White bread, dark wheat flour, water;EN
+1297;Multigrain bread, buttermilk bread, sour milk, wheat and dark wheat flour;EN
+1298;Multigrain bread, carrot roll, low-fat milk, dark wheat flour, flour mix;EN
+1301;Multigrain bread, bread roll, low-fat milk, flour mix;EN
+1305;Berry pie, shortbread crust/basic sweet dough, average;EN
+1307;Bun, cinnamon bun, high-fat, low-fat milk;EN
+1309;White bread, wheat bread, french bread, industrial;EN
+1320;Multigrain bread, buckwheat bread, water, buckwheat flour, naturally gluten-free;EN
+1326;Swiss roll, gluten-free;EN
+1330;Rye bread, water, rye and dark wheat flour;EN
+1331;Rye bread, wholegrain rye, dark wheat flour, industrial;EN
+1336;Multigrain bread, graham bread, water, dark wheat flour, graham flour;EN
+1337;Multigrain bread, graham bread, low-fat milk, dark wheat flour, graham flour;EN
+1338;Rye bread, wholegrain rye, potato, ruispalat;EN
+1340;Multigrain bread, seed bread, water, wheat flour, crushed wheat grains, seeds;EN
+1341;Multigrain bread, crushed grains, water, wheat and rye flour, oat flakes;EN
+1342;Rye bread, wholegrain rye, low-sodium;EN
+1343;Berry and rhubarb pie, soft;EN
+1344;Berry pie, sweetened with fructose, soft;EN
+1347;Christmas star pastry;EN
+1348;Muesli with dried fruit;EN
+1370;Rice, boiled without salt;EN
+1372;Macaroni, boiled, salt;EN
+1373;Pasta, spaghetti, boiled, salt;EN
+1374;Macaroni, dark, boiled, salt;EN
+1375;Rice and rye mix, boiled, salt;EN
+1376;Rice, long-grain, boiled, salt;EN
+1377;Rice, wholegrain, boiled without salt;EN
+1378;Rice, natural rice, mixed rice and wild rice, boiled, salt;EN
+1379;Rice, boiled, salt;EN
+1389;Rye, wheat and potato dough;EN
+1416;Rye bread, sweet and sour rye malt bread;EN
+1445;Sandwich, baguette, tomato, sweet pepper, cheese, lettuce, onion;EN
+1448;Tomato salsa;EN
+1450;Red wine sauce;EN
+1461;Cheese pasty;EN
+1500;Barley gruel, barley flour, milk, salt;EN
+1501;Barley porridge, pearl barley, water, salt;EN
+1502;Multigrain bread, barley bread, low-fat milk, dark wheat and barley flour, oat;EN
+1503;Multigrain bread, flatbread, potato and barley, water, barley flour, home-made;EN
+1504;Barley gruel, pearl barley, milk, salt;EN
+1505;Barley porridge, pearl barley, milk, salt;EN
+1506;Barley porridge, pearl barley, lingonberry, sugar, salt;EN
+1507;Multigrain bread, faltbread, pearl barley, sour milk;EN
+1509;Barley porridge, pearl barley, water, salt;EN
+1510;Barley porridge, barley flakes, milk, salt;EN
+1511;Oat gruel, oat flakes, water, salt;EN
+1512;Oat gruel, oat flakes, milk, salt;EN
+1513;Oat porridge, oat flakes, water, salt;EN
+1514;Oat porridge, oat flakes, low-fat milk, salt;EN
+1516;Prune kissel, prune soup, with oat flakes;EN
+1518;Prune porridge, oat flakes, prunes, water, sugar, salt;EN
+1520;Multigrain bread, oat bread, low-fat milk, wheat flour, oat flakes;EN
+1521;Multigrain bread, oat roll, low-fat milk, dark wheat flour, oat flakes;EN
+1524;Oat biscuit, lacy oatmeal cookies, contains wheat;EN
+1526;Talkkuna porridge, talkkuna powder, water, salt;EN
+1527;Talkkuna powder with sour milk;EN
+1530;Rhubarb rice porridge, water, sugar;EN
+1531;Apple rice porridge, water, sugar;EN
+1532;Apricot rice porridge, water, sugar;EN
+1537;Rice and cream dessert;EN
+1538;Prune rice dessert;EN
+1541;Millet porridge, water, salt;EN
+1542;Millet porridge, milk, salt;EN
+1543;Buckwheat gruel, milk, salt;EN
+1544;Buckwheat porridge, water, salt;EN
+1545;Buckwheat porridge, milk, salt;EN
+1546;Potato gruel, potato pearls, milk, salt;EN
+1547;Potato porridge, potato pearls, milk, salt;EN
+1548;Maize gruel, milk, salt;EN
+1549;Pudding, maize pudding, low-fat milk;EN
+1552;Popcorn, cooking oil;EN
+1554;Cheese puffs;EN
+1556;Multigrain bread, bread roll, water, flour mix;EN
+1559;Rice porridge, whole grain rice, milk, salt;EN
+1560;Rice, long-grain, boiled, meat bouillon;EN
+1561;Oat porridge, oat flakes, water, without salt;EN
+1562;Wheat porridge, water, wheat flakes, without salt;EN
+1563;Rye porridge, rye flakes, water, without salt;EN
+1564;Mixed flake porridge, water, without salt;EN
+1565;Rice porridge, rice flakes, milk, without salt;EN
+1566;Rice porridge, water, without salt;EN
+1567;Semolina porridge, milk, without salt;EN
+1568;Rice porridge, milk, salt;EN
+1569;Rice gruel, rice, milk, salt;EN
+1571;Rice gruel, rice flakes, milk, salt;EN
+1572;Rice gruel, rice flakes, water, salt;EN
+1575;Millet, boiled with salt;EN
+1576;Buckwheat, boiled, salt;EN
+1577;Wheat grain, boiled, salt;EN
+1578;Millet, boiled without salt;EN
+1579;Buckwheat, boiled without  salt;EN
+1580;Wheat grain, boiled without salt;EN
+1582;Multigrain bread, flatbread, barley and potato, wheat flour, milk;EN
+1860;Ravioli with spinach filling, boiled;EN
+2002;Potato, fried;EN
+2005;Potatoes in low-fat milk;EN
+2009;Puréed potato leek soup;EN
+2010;Salad, potato salad, onion, without mayonnaise;EN
+2011;Mashed potato casserole, milk, eggs, without meat;EN
+2012;Potato and onion casserole, low-fat milk;EN
+2021;Sliced baked potatoes with cream;EN
+2022;Scalloped garlic potatoes;EN
+2023;Mashed potatoes, mashed potato powder, water;EN
+2024;Potato wedges, oven-baked;EN
+2025;French fries, oven-baked;EN
+2028;Mashed potatoes and spinach;EN
+2029;Mashed potatoes, low-fat milk;EN
+2030;Potato cutlet;EN
+2031;Potato with cheese, fried;EN
+2033;Potato, peeled, boiled with salt;EN
+3000;Carrot, fried;EN
+3001;Mashed carrot;EN
+3002;Carrot stew;EN
+3003;Puréed carrot soup;EN
+3004;Puréed carrot soup, milk;EN
+3005;Carrot casserole, low-fat milk;EN
+3006;Thin carrot pancake, carrot crepes, low-fat milk;EN
+3009;Swede, simmered;EN
+3010;Swede, mashed;EN
+3014;Swede pasty with rye crust;EN
+3015;Stew with potato, rutabaga and rye dough;EN
+3016;Beetroot patty, fried;EN
+3017;Rosolli salad, mixed beetroot salad, no dressing, no herring;EN
+3021;Beetroot soup;EN
+3022;Parsnip stew;EN
+3023;Creamy jerusalem artichoke soup;EN
+3024;Celeriac, mashed;EN
+3025;Black salsify stew;EN
+3026;Vegetable stew with potato, carrot, swede and cauliflower;EN
+3027;Crepes filled with vegetables, low-fat milk;EN
+3030;Asparagus with melted butter;EN
+3034;Aubergine, fried;EN
+3040;Sweet corn, boiled;EN
+3200;Cabbage, fried;EN
+3201;Cabbage soup, sautéed cabbage;EN
+3202;Cabbage soup with potatoes;EN
+3204;Sour cabbage/sauerkraut;EN
+3206;Red cabbage stew;EN
+3207;Creamy cauliflower soup, puréed;EN
+3208;Cauliflower stew;EN
+3209;Cauliflower gratin, low-fat milk;EN
+3212;Broccoli stew;EN
+3213;Creamy brussels sprout soup;EN
+3214;Kohlrabi stew;EN
+3215;Spinach soup;EN
+3216;Spinach stew, low-fat milk;EN
+3219;Thin spinach pancake, spinach crepes, low-fat milk;EN
+3222;Spinach and rice casserole, low-fat milk;EN
+3224;Nettle stew, low-fat milk;EN
+3230;Onion, fried;EN
+3231;Onion cooked in vegetable bouillon and syrup;EN
+3232;Leek cooked in vegetable bouillon and syrup;EN
+3233;Onion soup, gratinated with cheese;EN
+3234;Onion stew, low-fat milk;EN
+3237;Pickled onion;EN
+3238;Rhubarb kissel, rhubarb soup;EN
+3239;Asparagus soup, canned asparagus;EN
+3240;Mushroom, fried;EN
+3241;Creamy mushroom soup;EN
+3242;Mushroom stew, low-fat milk, cream;EN
+3245;Mushroom gravy, thickened;EN
+3246;Chopped mushroom and onion;EN
+3247;Salad, mushroom salad with cream;EN
+3249;Mushroom and potato casserole, milk, eggs;EN
+3250;Mushroom barley casserole;EN
+3253;Oven-baked mushroom pancake;EN
+3254;Mushroom root vegetable stew, potato;EN
+3255;Thin mushroom pancake, low-fat milk;EN
+3259;Champignon soup;EN
+3260;Champignon stew, low-fat milk;EN
+3264;Pumpkin stew;EN
+3265;Tomato soup;EN
+3266;Tomato filled with mushrooms, breadcrumbs;EN
+3267;Vegetable soup, milk-based, summersoup;EN
+3268;Puréed vegetable soup, milk-based;EN
+3269;Vegetable stew, low-fat milk;EN
+3272;Root vegetables, mashed, low-fat milk;EN
+3275;Vegetable egg casserole;EN
+3276;Vegetable and potato casserole, low-fat milk;EN
+3279;Risotto, vegetable risotto;EN
+3280;Vegetable patty, fried;EN
+3282;Salad, carrot and orange, grated;EN
+3283;Salad, carrot and pineapple, grated;EN
+3284;Salad, carrot and apple, grated;EN
+3285;Salad, carrot and lingonberry, grated;EN
+3286;Salad, carrot and cottage cheese, grated;EN
+3287;Salad, carrot and pumpkin, grated;EN
+3288;Salad, carrot and swede, grated;EN
+3289;Salad, swede and raisin, grated;EN
+3290;Salad, swede and pineapple, grated;EN
+3291;Salad, swede, orange and raisin, grated;EN
+3292;Salad, beetroot and apple;EN
+3293;Salad, beetroot, mushrooms and apple;EN
+3295;Salad, cabbage and lingonberry;EN
+3296;Salad, cabbage and beetroot;EN
+3297;Salad, cabbage and pumpkin;EN
+3298;Salad, cabbage and pineapple;EN
+3299;Salad, cabbage, cucumber and leek;EN
+3300;Salad, cabbage, carrot and orange;EN
+3301;Salad, cabbage, apple and pickled cucumber;EN
+3302;Salad, cabbage, pea, sweet corn and sweet pepper;EN
+3303;Salad, red cabbage and pineapple;EN
+3305;Salad, red cabbage and lingonberries;EN
+3306;Salad, red cabbage and apple;EN
+3307;Salad, lettuce, cucumber and tomato;EN
+3308;Salad, tomato and onion;EN
+3309;Salad, tomato, bean and onion;EN
+3310;Salad, chinese cabbage and pineapple;EN
+3311;Salad, chinese cabbage and onion;EN
+3312;Salad, chinese cabbage, cucumber and tomato;EN
+3313;Salad, chinese cabbage, pea, sweet corn and sweet pepper;EN
+3314;Salad, cottage cheese, pea, sweet corn and sweet pepper;EN
+3315;Salad, chinese cabbage, cucumber and tomato, french dressing;EN
+3316;Salad, lettuce, cucumber and tomato, french dressing;EN
+3318;Salad, italian salad with mayonnaise;EN
+3319;Vegetable soup;EN
+3320;Salad, mayonnaise salad, average of industrial products;EN
+3321;Instant soup, average of dry soup mixes;EN
+3322;Vegetable gravy with tomato;EN
+3323;Pesto sauce, herb sauce;EN
+3324;Ratatouille, vegetable stew;EN
+3325;Vegetable hash, mushroom, potato;EN
+3326;Lasagne, vegetable lasagne;EN
+3327;Moussaka, pork beef mince;EN
+3328;Avocado sauce, guacamole;EN
+3329;Greek salad, feta cheese salad, oil-based dressing;EN
+3331;Onion pie, shortcrust pastry;EN
+3332;Feta and spinach pie, sour cream filling, shortcrust pastry;EN
+3333;Greek salad without dressing;EN
+3334;Champignon, fried;EN
+3336;Bean vegetable gravy with tomato;EN
+3337;Salad, potato salad with mayonnaise;EN
+3341;Carrot, boiled, salt;EN
+3342;Cauliflower, boiled without salt;EN
+3343;Broccoli, boiled without salt;EN
+3344;Brussels sprout, boiled without salt;EN
+3345;Mixed vegetables, boiled without salt;EN
+3346;Cauliflower, boiled with salt;EN
+3347;Broccoli, boiled, salt;EN
+3348;Salad, iceberg lettuce, tomato and cucumber, french dressing;EN
+3349;Brussels sprout, boiled, salt;EN
+3350;Mixed vegetables, boiled, salt;EN
+3351;Beetroot, boiled, salt;EN
+3352;Carrot, boiled, salt and oil;EN
+3355;Root patee, carrot, swede, potato;EN
+3356;Swede, boiled with salt;EN
+3360;Salad, average mixture;EN
+3365;Farmer's cheese salad, oil-based dressing;EN
+3368;Creamy false morel soup;EN
+3700;Frozen vegetable mix, pea-sweet corn-sweet pepper, boiled;EN
+3701;Pea stew, milk and fresh peas;EN
+3703;Pea stew, dried peas;EN
+3704;Bean stew, milk, fresh beans;EN
+3705;Bean stew, water, dried beans;EN
+3707;Nut patty, potato, rice;EN
+3708;Salad, chinese cabbage, cucumber and tomato, home-made french dressing;EN
+3709;Salad, lettuce, cucumber and tomato, home-made french dressing;EN
+3710;Soya beans, boiled without salt;EN
+3711;Lentil soup;EN
+3712;Bean and zucchini soup;EN
+3713;Bean stew;EN
+3714;Soya bean patty, fried;EN
+3716;False morel, boiled;EN
+3717;Vegetable-mushroom pie, gratinated with cheese, butter dough;EN
+3799;Zucchini filled with vegetables;EN
+3800;Zucchini filled with minced meat;EN
+3801;Aubergine filled with mushrooms;EN
+4000;Apple kissel, apple soup, fresh apples;EN
+4001;Apple kissel, apple soup, dried apples;EN
+4002;Apple crisp delight, apple, oat flakes;EN
+4005;Prune kissel, prune soup;EN
+4006;Prune rice kissel, prune rice soup;EN
+4007;Prune souffle;EN
+4008;Apricot kissel, apricot soup;EN
+4009;Rose hip kissel, rose hip soup;EN
+4010;Orange kissel, orange soup;EN
+4011;Orange rice dessert;EN
+4012;Mixed fruit kissel, mixed fruit soup;EN
+4013;Mixed fruit kissel, mixed fruit soup, without sugar;EN
+4014;Raisin kissel, raisin soup;EN
+4015;Fruit salad, orange, banana, apple, grape;EN
+4016;Fruit salad, orange, banana, apple, peach;EN
+4017;Fruit salad, unsweetened, orange, banana, apple, grape;EN
+4018;Fruit jelly;EN
+4019;Banana, deep-fried;EN
+4400;Lingonberry kissel, lingonberry soup;EN
+4401;Lingonberry, mashed, sugar;EN
+4402;Cranberry kissel, cranberry soup;EN
+4403;Blueberry puree, sweetened;EN
+4404;Bilberry kissel, bilberry soup;EN
+4405;Blackcurrant kissel, blackcurrant soup;EN
+4406;Redcurrant kissel, redcurrant soup;EN
+4407;Strawberry puree, sweetened;EN
+4408;Raspberry puree, sugar;EN
+4409;Juice jelly;EN
+4410;Berry kissel, berry soup;EN
+4411;Berry kissel, berry soup, without sugar;EN
+4412;Berry mousse, cream, eggs;EN
+4413;Berry sorbet, home-made;EN
+4415;Berries with talkkuna powder;EN
+4416;Berry kissel, berry soup, sweetened with fructose;EN
+4419;Raspberry sorbet, home-made;EN
+4420;Berry jelly, jam sugar;EN
+4421;Lingonberry, mashed, without sugar;EN
+5000;Salad dressing, french dressing, restaurants, oil, egg yolk, sugar, salt;EN
+5001;Mayonnaise, home-made;EN
+5002;White wine and dill sauce;EN
+5003;Salad dressing, french dressing, oil, juice, sugar, salt, home-made;EN
+5004;Salad dressing, mustard, oil, juice, vinegar;EN
+5005;Salad dressing, french dressing, oil, vinegar;EN
+5006;Tartar sauce;EN
+5007;Sandwich relish;EN
+5008;Barbeque sauce;EN
+5009;Bearnaise sauce;EN
+5010;Sauce with vinegar and seasoning, preservation liquid;EN
+5900;Cooking fat, average;EN
+5901;Fat used in baking, butter 50%, margarine 50%;EN
+5904;Fat used in butter dough;EN
+5905;Fat used in cookies, butter and margarine, for baking industry;EN
+5906;Fat used in bread and pizza;EN
+5907;Oil for deep fat frying, industrial;EN
+5917;Herb spread, cream cheese, margarine, garlic;EN
+6000;Milk custard, low-fat, egg;EN
+6001;Milk custard, low-fat, without sugar;EN
+6002;Chocolate soup, low-fat milk;EN
+6003;Chocolate soup, without sugar;EN
+6004;Maize custard;EN
+6006;Whipped cream, sweetened;EN
+6007;Cocoa, hot chocolate, low-fat milk, sweetened;EN
+6008;Cocoa, hot chocolate, low-fat milk, unsweetened;EN
+6009;Berry milk;EN
+6010;Berry milkshake, low-fat milk, ice cream;EN
+6011;Banana milkshake, low-fat milk, ice cream;EN
+6012;Mocca/chocolate milkshake, low-fat milk, ice cream;EN
+6015;Quark, berry quark, dessert quark, cream, home-made;EN
+6016;Quark, fruit quark, dessert quark, cream, home-made;EN
+6017;Pasha, pascha;EN
+6018;Pudding, vanilla pudding, cream, home-made;EN
+6019;Pudding, chocolate pudding, cream, home-made;EN
+6022;Prune cream jelly;EN
+6023;Lemon mousse, cream, egg, lemon, sugar, gelatin;EN
+6024;Pudding, chocolate mousse;EN
+6025;Salad dressing, creamy;EN
+6026;Cheese, oven cheese, 3.5% fat, made with colostrum;EN
+6027;Cheese soup, vegetable bouillon, wheat flour;EN
+6028;Cheese souffle, low-fat milk;EN
+6037;Sour cream sauce;EN
+6040;Blue cheese sauce, thickened with flour and fat;EN
+6041;Cheese salad, sour cream dressing;EN
+6042;Cheese pie, blue cheese, shortcrust pastry;EN
+6043;Whipped cream, sweetened, low-lactose;EN
+6045;Sour cream sauce with mustard;EN
+6048;Tzatziki, greek yoghurt sauce;EN
+6050;Gratinating sauce for vegetables, prepared with milk and cheese;EN
+6051;Chocolate milk, cold, low-fat milk, sweetened;EN
+7000;Pork, boiled, salt;EN
+7001;Bacon, fried;EN
+7003;Ham, fatty, oven-baked;EN
+7005;Pork knuckle, ham hock, simmered;EN
+7006;Pork shoulder, oven-baked;EN
+7007;Pork chop, breaded, stekt;EN
+7008;Pork chop, grilled;EN
+7009;Pork gravy, pork ribs, no added fat;EN
+7010;Pea soup with pork;EN
+7012;Oven-baked pork fat pancake;EN
+7013;Minestrone soup;EN
+7015;Pork beef mince, fried;EN
+7016;Pork beef mince gravy;EN
+7017;Beef steak mince gravy;EN
+7021;Bolognese, pork beef mince, tomato purée, thickened;EN
+7022;Meatball, pork-beef mince, fried;EN
+7023;Meatball, pork-beef mince, boiled;EN
+7024;Meatball, pork-beef mince, oven-baked;EN
+7025;Meatball, beef steak mince, fried;EN
+7026;Meatball, minced elk, fried;EN
+7027;Meatball, minced reindeer, fried;EN
+7029;Pork beef mince patty, no eggs, fried;EN
+7031;Meatloaf, pork-beef, prune filling;EN
+7033;Meatloaf with vegetables, pork-beef, cream;EN
+7034;Reindeer meatloaf;EN
+7035;Pork beef mince soup;EN
+7036;Cabbage stew with potato and pork beef mince;EN
+7037;Cabbage stew with rice and pork beef mince;EN
+7038;Pork beef mince and vegetable stew;EN
+7039;Macaroni stew with pork beef mince;EN
+7040;Risotto, pork beef mince and vegetable risotto;EN
+7041;Minced meat and potato casserole, pork beef mince, milk;EN
+7042;Minced meat and potato casserole, lean steak mince, milk;EN
+7043;Pork beef mince and mashed potato casserole, low-fat milk;EN
+7044;Macaroni and pork beef mince casserole, low-fat milk;EN
+7045;Macaroni and beef steak mince casserole, low-fat milk;EN
+7047;Cabbage casserole, pork beef mince, low-fat milk;EN
+7048;Cabbage casserole, beef steak mince, low-fat milk;EN
+7049;Cabbage, carrot and pork beef mince casserole, beef stock;EN
+7050;Cabbage, carrot and lean steak mince casserole, beef stock;EN
+7051;Stuffed cabbage rolls, pork beef mince;EN
+7053;Onion stuffed with rice and pork beef mince;EN
+7054;Stuffed sweet peppers, filled with rice, onion and minced meat;EN
+7055;Crepes filled with pork beef mince, low-fat milk;EN
+7058;Omelette, pork beef mince omelette;EN
+7059;Ravioli with minced meat filling, boiled;EN
+7060;Meat and rice pasty;EN
+7063;Minced meat stew with vegetables;EN
+7065;Lasagne, pork beef mince;EN
+7067;Pork gravy, pork shoulder, no added fat;EN
+7068;Pork and potato casserole, low-fat milk;EN
+7069;Pork beef mince patty, fried;EN
+7070;Double hamburger;EN
+7071;Chicken burger, wheat roll;EN
+7072;Fish burger;EN
+7073;Canneloni, tuna filling;EN
+7074;Canneloni, pork beef mince filling;EN
+7075;Macaroni and pork beef mince casserole, low-fat milk, whole wheat macaroni;EN
+7076;Ham, lean, oven-baked;EN
+7078;Beef steak mince soup;EN
+7080;Meatball, beef steak mince, cream, oven-baked;EN
+7081;Meatball, beef steak mince, mushrooms, fried;EN
+7082;Bolognese, beef steak mince, tomato purée, thickened;EN
+7083;Pork roast, low-fat;EN
+7084;Pork schnitzel, breaded, fried;EN
+7085;Beef steak, fried;EN
+7086;Lean steak mince, 9% fat, fried without fat;EN
+7087;Pork flank, smoked, fatty;EN
+7088;Beef mince gravy, no added fat;EN
+7089;Meatball, beef mince, oven-baked;EN
+7090;Pork, kassler steak, oven-baked;EN
+7091;Beef mince soup;EN
+7092;Macaroni and beef mince casserole, low-fat milk;EN
+7093;Lasagne, beef mince;EN
+7094;Pork chop, without lard, fried;EN
+7095;Pork fillet, tenderloin, oven-baked;EN
+7096;Pork chop, without lard, grilled;EN
+7097;Deep-fried meat pasty, includes soya flour;EN
+7099;Pork roast, fruity, orange juice, apple;EN
+7100;Pork chop, sour cream, oven-baked;EN
+7105;Spit-roasted pork and vegetables;EN
+7107;Hamburger with beef and rye bread;EN
+7150;Beef, boiled;EN
+7152;Roast beef;EN
+7153;Karelian stew, pork and beef;EN
+7155;Beef steak, grilled;EN
+7156;Beef schnitzel, breaded, fried;EN
+7157;Beef chop, breaded, fried;EN
+7159;Beef gravy;EN
+7160;Beef steak stew, cooking cream;EN
+7161;Stroganoff;EN
+7162;Beef in dill gravy;EN
+7163;Meat soup, beef chuck;EN
+7164;Meat soup, pork;EN
+7165;Meat soup, beef steak;EN
+7166;Cabbage soup with beef;EN
+7167;Cabbage soup with beef steak;EN
+7168;Cabbage soup with beef and potato;EN
+7169;Beef steak stew, meat bouillon, carrots;EN
+7170;Beef and potato casserole, bouillon;EN
+7172;Lean steak mince patty, no eggs, fried;EN
+7173;Meatloaf, beef steak, cream;EN
+7174;Karelian stew, pork, beef, liver, kidney, heart;EN
+7175;Vegetable and pork stew with potato;EN
+7176;Chili con carne;EN
+7177;Meatloaf with mushrooms, pork-beef, cream;EN
+7178;Beef-vegetable wok;EN
+7179;Lindström's steak, beetroot and pork beef mince;EN
+7180;Roulade with smoked ham, low-fat;EN
+7181;Minestrone soup with beef, beans, sweet pepper, leek and carrot;EN
+7182;Minestrone soup with beef mince and vegetables;EN
+7183;Minestrone soup with pork beef mince and vegetables;EN
+7184;Risotto, beef mince and vegetable risotto;EN
+7186;Pork ribs, fried without fat;EN
+7187;Macaroni and lean steak mince casserole, low-fat, without eggs;EN
+7188;Barbeque sausage, fried;EN
+7189;Barbeque sausage, oven baked;EN
+7190;Lean beef mince, fried without fat;EN
+7191;Pork beef mince, fried without fat;EN
+7192;Lean steak mince patty, no eggs, fried without fat;EN
+7195;Beef sirloin steak, grilled;EN
+7249;Beef with red wine sauce;EN
+7251;Veal roast, oven-baked;EN
+7253;Veal knuckle, simmered;EN
+7254;Beef fricassee;EN
+7299;Lamb, filled with leek and parsley;EN
+7300;Lamb, low-fat, boiled;EN
+7302;Mutton and pork, boiled mixture;EN
+7304;Mutton roast;EN
+7305;Lamb steak, fried;EN
+7306;Mutton chop, breaded;EN
+7307;Lamb and cabbage stew;EN
+7308;Reindeer, boiled, salt;EN
+7309;Reindeer roast;EN
+7311;Elk, fried;EN
+7312;Roasted elk;EN
+7313;Elk meat gravy, brown gravy;EN
+7314;Sauteed elk, with pork fat;EN
+7315;Hare, grilled/fried;EN
+7316;Rabbit, grilled/fried;EN
+7317;Sauteed reindeer, bacon;EN
+7500;Chicken, boiled with salt;EN
+7501;Chicken soup with celeriac and leek;EN
+7502;Chicken soup with vegetables and potato;EN
+7503;Chicken vegetable stew;EN
+7505;Chicken fricassee;EN
+7506;Chicken meat ball;EN
+7507;Crepes filled with chicken, low-fat milk;EN
+7510;Chicken, grilled;EN
+7511;Game bird, grilled/fried;EN
+7512;Game, average, fried;EN
+7513;Turkey, oven-baked;EN
+7514;Chicken salad with rice peas, pickles, leek;EN
+7515;Paella with chicken and shellfish;EN
+7516;Chinese meat vegetable gravy, sweet-and-sour;EN
+7517;Chinese chicken vegetable gravy, sweet and sour;EN
+7518;Chicken salad, without dressing;EN
+7519;Chicken stew, cooking cream and vegetables;EN
+7520;Chicken vegetable gravy with creme fraiche;EN
+7521;Chicken meatball;EN
+7522;Chicken with skin, grilled without added fat;EN
+7523;Chicken marinated, with skin, oven-baked;EN
+7525;Chicken-vegetable wok with tomato puree and soy sauce;EN
+7529;Chicken breast with skin, fried;EN
+7530;Chicken breast without skin, fried;EN
+7531;Chicken schnitzel, breaded, fried;EN
+7535;Turkey breast, fried;EN
+7536;Turkey breast, oven-baked;EN
+7537;Chicken leg and thigh with skin, grilled;EN
+7538;Chicken macaroni soup with beans, sweet pepper, leek and carrot;EN
+7540;Chicken nuggets, deep-fried, lactose-free;EN
+7545;Orange chicken;EN
+7549;Chicken fillet, oven baked;EN
+7600;Frankfurter, boiled;EN
+7601;Frankfurter, grilled;EN
+7602;Frankfurter, fried;EN
+7603;Frankfurter-vegetable casserole;EN
+7604;Frankfurter stroganoff;EN
+7605;Borsch with frankfurters;EN
+7606;Borsch with beef;EN
+7607;Sausage, ring bologna, boiled;EN
+7608;Sausage, ring bologna, grilled;EN
+7609;Sausage, ring bologna, fried;EN
+7610;Groat sausage, fried;EN
+7612;Sausage, ring bologna, oven-baked, with cheese and mustard;EN
+7613;Sausage gravy;EN
+7614;Frankfurter gravy;EN
+7615;Sausage soup;EN
+7616;Frankfurter soup, light frankfurters;EN
+7617;Sausage soup, fresh sausage, siskonmakkara soup;EN
+7618;Sausage stew with potato and vegetables;EN
+7619;Risotto, sausage and vegetable risotto;EN
+7620;Sausage and mashed potato casserole, ring bologna, low-fat milk;EN
+7622;Sausage hash, ring bologna, potato, without egg;EN
+7623;Omelette, country french omelette, egg, potato, sausage, onion;EN
+7624;Omelette, sausage omelette;EN
+7628;Egg and ham casserole;EN
+7630;Omelette, ham omelette;EN
+7631;Salad, italian salad without mayonnaise;EN
+7632;Ham and potato casserole, cooking cream;EN
+7633;Ham vegetable gravy, milk, creme fraiche;EN
+7634;Sausage salad, macaroni, vegetables, without dressing;EN
+7635;Ham salad with potato, vegetables and macaroni, without dressing;EN
+7641;Sausage, ring bologna, fried without fat;EN
+7643;Frankfurter, fried without fat;EN
+7647;Groat sausage, fried without fat;EN
+7850;Liver, boiled, salt;EN
+7851;Roasted liver;EN
+7852;Liver steak, breaded, fried;EN
+7853;Minced liver steak, liver, potato, onion;EN
+7854;Reindeer liver steak;EN
+7855;Liver gravy, cooking cream;EN
+7856;Chicken liver gravy, cooking cream;EN
+7857;Minced liver gravy;EN
+7863;Liver stew with potato;EN
+7865;Kidney, boiled, salt;EN
+7866;Kidney, fried with wheat flour;EN
+7867;Kidney gravy, cooking cream, thickened;EN
+7869;Tongue, beef, boiled;EN
+7871;Blood pancake;EN
+7876;Liver casserole, rice, low-fat milk;EN
+8000;Fish, average, boiled;EN
+8001;Lutefish;EN
+8002;Fish, average, grilled;EN
+8003;Fish, breaded, oven-baked;EN
+8004;Pike, filled with prunes, rice and eggs, oven-baked;EN
+8005;Baltic herring fillet with cream, breaded, oven-baked;EN
+8006;Fish, average, breaded, fried;EN
+8007;Baltic herring, breaded, fried;EN
+8008;Vendace, fried;EN
+8009;Perch, breaded, fried;EN
+8010;Pike, breaded, fried;EN
+8011;Powan, breaded, fried;EN
+8012;Salmon fillet, breaded, fried;EN
+8013;Flounder, fried;EN
+8014;Saithe, breaded, fried;EN
+8017;Fish ball, fried;EN
+8018;Fish ball, boiled;EN
+8019;Fish loaf, milk;EN
+8020;Fish soup, fresh fish, milk based;EN
+8021;Fish soup, saithe, low-fat milk;EN
+8022;Fish soup, clear;EN
+8023;Russian fish soup, solyanka;EN
+8024;Fish soup with potato and root vegetables;EN
+8029;Burbot stew;EN
+8030;Baltic herring casserole, potato, low-fat milk;EN
+8031;Fish and potato casserole, low-fat milk;EN
+8032;Fish and rice casserole, cream;EN
+8033;Jansson's casserole, jansson's temptation, cooking cream;EN
+8034;Macaroni and fish casserole, fish average, low-fat milk;EN
+8035;Saithe spinach casserole, low-fat milk;EN
+8038;Fish vegetable casserole, milk, egg;EN
+8039;Fish potato stew;EN
+8041;Baltic herring in tomato sauce;EN
+8042;Pike à la homburg;EN
+8043;Saithe with white sauce, cheese, low-fat milk, breadcrumbs, oven-baked;EN
+8046;Fish vegetable casserole, saithe, vegetables, processed cheese, milk;EN
+8047;Tuna salad with potato, without dressing;EN
+8048;Salad with smoked fish, lettuce and egg, without dressing;EN
+8050;Salad with smoked fish, chives, potato and beetroot, without dressing;EN
+8051;Salad with smoked fish, cottage cheese, peas, without dressing;EN
+8053;Shellfish and mushroom salad, without dressing;EN
+8060;Salmon soup, milk based;EN
+8062;Rainbow trout soup, milk based;EN
+8063;Rainbow trout, breaded, fried;EN
+8065;Tuna salad with rice, without dressing;EN
+8068;Baltic herring, boiled;EN
+8069;Creamy tuna gravy;EN
+8070;Creamy shrimp gravy;EN
+8071;Shrimp salad, sour cream dressing;EN
+8072;Fish pie, sour cream filling, shortcrust pastry;EN
+8073;Lasagne, salmon;EN
+8074;Fish, average, fried;EN
+8075;Fish pasty, tuna pasty;EN
+8077;Fish loaf, cream;EN
+8078;Rainbow trout fillet with cream, breaded, oven-baked;EN
+8088;Rainbow trout fillet, breaded, oven-baked;EN
+8089;Rainbow trout fillet, oven-baked;EN
+8092;Rainbow trout and potato casserole, cooking cream;EN
+8093;Salad with smoked fish, potato, apple and leek, without dressing;EN
+8095;Rainbow trout fillet with sour cream, oven-baked;EN
+8096;Fish, average, deep-fried;EN
+8097;Fish and vegetable stew;EN
+8098;Flounder, stewed, butter;EN
+8100;Baltic herring with cream cheese;EN
+8111;Squid, deep-fried;EN
+8500;Egg, fried;EN
+8501;Egg yolk, fried;EN
+8502;Egg white, fried;EN
+8503;Omelette, plain, french omelette;EN
+8504;Omelette, cheese omelette;EN
+8505;Omelette, spinach omelette;EN
+8506;Scrambled eggs, low-fat milk;EN
+8509;Egg and butter spread, hard-boiled egg and butter mixture;EN
+8510;Hard-boiled egg and cottage cheese mixture;EN
+8512;Spinach and egg casserole, low-fat milk;EN
+8513;Egg, boiled;EN
+8514;Omelette roll, salmon filling;EN
+8515;Omelette roll, ham filling;EN
+11001;Root vegetable, average, light colored;EN
+11002;Leaf vegetable, average, dark green;EN
+11004;Roe, average;EN
+11005;4-grain flakes;EN
+11006;Rye bread, fine rye bread, water, fine rye and dark wheat flour;EN
+11007;Rose hip;EN
+11012;Strawberry jam, 54% sugar, home-made;EN
+11013;Orange marmalade;EN
+11014;Palm oil;EN
+11030;Flour, rye, fine rye flour;EN
+11041;Pea soup, canned, undiluted, with pork;EN
+11045;Orange without skin;EN
+11046;Mandarin, average, without skin;EN
+11047;Grapefruit, without skin;EN
+11048;Lemon, without skin;EN
+11049;Banana, without skin;EN
+11050;Kiwi fruit, without skin;EN
+11051;Peach/nectarine, without skin and stone;EN
+11052;Cherry without stone;EN
+11053;Plum, without stone;EN
+11054;Apricot, average, without stone;EN
+11055;Watermelon, without skin;EN
+11056;Pineapple, without skin;EN
+11057;Avocado, without skin and stone;EN
+11059;Tuna, average;EN
+11060;Apple, domestic, without skin;EN
+11061;Apple, imported, without skin;EN
+11062;Pear, without skin;EN
+11063;Prune, without stone;EN
+11064;Champignon, canned;EN
+11065;Rose hip puree without sugar;EN
+11067;Tuna, in water, canned;EN
+11068;Pudding, milk pudding, industrial;EN
+11069;Wine, non-alcoholic;EN
+11070;Pea soup, canned, diluted, with pork;EN
+11071;Exotic fruit, average, mango/papaya, without skin;EN
+11072;Soured cucumber;EN
+11074;Sprout, alfalfa;EN
+11086;Nut, cashew nut;EN
+11087;Sesame seed paste tahini, without added salt;EN
+11089;Chick pea in unsalted water;EN
+11090;Bean, white bean, in tomato sauce;EN
+11092;Whey powder. for food industry;EN
+11094;Karelian pasty, rice filling, industrial, lactose-free;EN
+11095;Doughnut, bakery;EN
+11110;Vegetable patty, contains soy protein;EN
+11120;Bun, cinnamon bun, industrial, water;EN
+11123;Bun, fat-free milk powder, bakery;EN
+11124;Bun, high-fat, low-fat milk, bakery;EN
+11126;Multigrain bread, water, graham, rye and wheat flour;EN
+11130;Cream cheese, 6-11% fat, flavoured;EN
+11131;Cheese, white mould cheese, vit castello, 40% fat;EN
+11132;Cream cheese-like vegetable fat product, 24-30% fat;EN
+11133;Cheese, semi-hard cheese, turunmaa/edam/adam/magre, 15-18% fat;EN
+11134;Basil, fresh;EN
+11135;Bamboo shoots, canned;EN
+11136;Cream, low-fat, 25% fat;EN
+11142;Ice lolly, average;EN
+11144;Salad dressing, yoghurt, home-made;EN
+11145;Milk, 0% fat, low-lactose, 1 ug added vitamin d;EN
+11146;Cheese, finnish oven cheese, low-lactose, 17-23% fat;EN
+11148;Ice cream bar, cream based, chocolate flavoured;EN
+11149;Ice cream with sorbet coating, average;EN
+11150;Chicken marinated, without skin;EN
+11152;Sour cream, 10-12% fat, low-lactose;EN
+11154;Curd milk, plain, 2% fat, low-lactose;EN
+11155;Cottage cheese, 2-5% fat, low-lactose;EN
+11156;Quark, <0.5% fat, low-lactose;EN
+11157;Cheese, vegetable fat, 28% fat;EN
+11158;Vegetable mix, cauliflower, broccoli, carrot;EN
+11159;Creme fraiche, 15-18% fat;EN
+11164;Vanillin sauce;EN
+11165;Sour milk, fat-free, low-lactose, 1 ug vitamin d;EN
+11172;Ice cream bar, vegetable fat, chocolate coated;EN
+11173;Ice cream cornet, vegetable fat;EN
+11177;Pepper, black pepper;EN
+11178;Pepper, white pepper;EN
+11182;Paprika powder;EN
+11184;Cinnamon;EN
+11185;Cloves;EN
+11186;Ginger, ground;EN
+11187;Cardamom;EN
+11188;Vanillin sugar;EN
+11191;Oregano, dried;EN
+11194;Thyme;EN
+11196;Aromatic salt, 71% salt content;EN
+11197;Hp-sauce, brown sauce;EN
+11198;Glucose;EN
+11203;Honeydew melon, without skin;EN
+11210;Pastille sweetened with xylitol, added vitamin c;EN
+11211;Cheese, feta cheese in brine, made with goat milk, 25% fat;EN
+11212;Sunflower seed;EN
+11287;Vegetable fat spread 28%, mini lätta;EN
+11469;Fruit puree average, industrial babyfood;EN
+11470;Berry puree, average, industrial babyfood;EN
+11471;Carrot-potato puree, average, industrial babyfood;EN
+11472;Beef-vegetable puree, average, industrial babyfood;EN
+11473;Pork-vegetable puree, average, industrial babyfood;EN
+11474;Chicken-vegetable puree, average, industrial babyfood;EN
+11475;Fish and vegetable puree, average, industrial babyfood;EN
+11476;Minced meat and spaghetti, average, industrial babyfood;EN
+11503;Grape juice, unsweetened;EN
+11505;Banana chip;EN
+11507;Rice starch;EN
+11508;Pork, boiled without salt;EN
+11511;Potato, peeled, boiled without salt;EN
+11512;Pork chop, cutlet;EN
+11513;Pork fillet, boneless tenderloin, fat 4.5 %;EN
+11514;Potato puree, homemade babyfood, without salt;EN
+11515;Potato puree, milk, home-made babyfood, without salt;EN
+11516;Potato-carrot puree, home-made babyfood, without salt;EN
+11517;Beef-potato puree, home-made babyfood, without salt;EN
+11518;Pork-potato puree, home-made babyfood, without salt;EN
+11519;Puree with fish and vegetable, home-made babyfood, without salt;EN
+11520;Chicken-vegetable puree, home-made babyfood, without salt;EN
+11521;Rice, white, long-grain, parboiled;EN
+11522;Rice and rye mix;EN
+11523;Salad, beetroot salad with mayonnaise;EN
+11550;Cream cheese, 30% fat, flavoured, low-lactose;EN
+11551;Turkey breast;EN
+11553;Fruit jam, average;EN
+11557;Lemon juice, unsweetened, undiluted;EN
+11558;Orange juice, unsweetened, added calcium;EN
+11562;Beef mince, 17% fat;EN
+11563;Chicken leg and thigh with skin;EN
+11564;Chicken breast with skin;EN
+11565;Chicken breast strips without skin;EN
+11568;Blended spread 60%, 10 ug vitamin d;EN
+11571;Cream cheese, low-fat, 11% fat, plain;EN
+11572;Milk, 0% fat, with added calcium and 0.5 ug vitamin d;EN
+11580;Sanck bar with nuts, sweet;EN
+11581;Soy product, soured, 1% fat, vitamins and calcium;EN
+11587;Rose hip drink, contains oat and lactobacillus plantarum, pro viva;EN
+11589;Horseradish;EN
+11680;Potato, peeled, vacuum packed, catering;EN
+11685;Cooking oil, 50% palm, 25% palm kernel and 25% rapeseed oil;EN
+11687;Rice drink;EN
+11689;Asparagus, raw, cleaned;EN
+11690;Mayonnaise, 15% fat, low-fat;EN
+11691;Roe, average, salted;EN
+11695;Rapeseed oil, cold pressed;EN
+11700;Soy protein concentrate, 58% protein;EN
+11701;Palm kernel oil;EN
+11723;Yoghurt, flavoured, 3% fat;EN
+11726;Curd milk, flavoured, 1% fat, low-lactose;EN
+11727;Yoghurt, flavoured, 2.5% fat;EN
+11730;Multigrain bread, graham roll, water;EN
+11733;White bread, wheat roll, water;EN
+11734;Shiitake mushroom;EN
+11735;Oyster mushroom;EN
+11736;Yoghurt, plain, 1.5% fat;EN
+11739;Vegetable fat spread 35%, becel pro-activ;EN
+28905;Flour, wheat flour, durum;EN
+28908;Barley, pearl, boiled with salt;EN
+28909;Rye macaroni;EN
+28910;Rice, brown;EN
+28911;Rice, brown, boiled, salt;EN
+28912;Rye macaroni, boiled, salt;EN
+28913;Potato, unpeeled, avarage, raw;EN
+28914;Potato, unpeeled, boiled with salt;EN
+28915;Muskmelon/cantaloupe melon, with skin;EN
+28916;Apple, average, with skin;EN
+28917;Pear, with skin;EN
+28918;Plum, with stone;EN
+28919;Prune, with stone;EN
+28920;Cherry with stone;EN
+28921;Apricot, average, with stone;EN
+28922;Peach/nectarine, average, with stone;EN
+28923;Pineapple, with skin;EN
+28924;Orange, average, with skin;EN
+28925;Lemon, with skin;EN
+28926;Grapefruit, average, with skin;EN
+28927;Vegetarian sausage, contains soya;EN
+28928;Grape leaves, canned;EN
+28929;Lamb mince, 14% fat;EN
+28930;Chicken mince;EN
+28931;Watermelon, with skin;EN
+28932;Grape, average, green or red;EN
+28933;Avocado  with skin and stone;EN
+28934;Banana, with skin;EN
+28935;Mandarin, average, with skin;EN
+28936;Fig, dried, with skin;EN
+28937;Date, dried, with stone;EN
+28938;Olive, average, without stone, in oil, green/black;EN
+28939;Kiwi fruit, with skin;EN
+28941;Apple, domestic, average, with skin;EN
+28942;Apple, imported, average, with skin;EN
+28943;Sweet corn, cob, boiled, without salt;EN
+28944;Honeydew melon with skin;EN
+28945;Turkey mince, fat 5-6%;EN
+28946;Pork mince, fat 16 %;EN
+28947;Bacon, fillet, 18% fat;EN
+28948;Karelian pasty filled with carrot and rice, industrial;EN
+28949;Karelian pasty, rice filling, wheat crust;EN
+28950;Duchess potatoes;EN
+28951;Potato croquette, deep-fried;EN
+28952;Potato, baked with skin, no filling;EN
+28953;Potato, new, boiled with salt;EN
+28954;Potato, new, boiled without salt;EN
+28955;Potato, unpeeled, boiled without salt;EN
+28956;Sweetened potato casserole, low-fat milk;EN
+28957;Moussaka, pork-beef mince, potatoes, low-fat milk;EN
+28958;Sweet corn, cob, grilled;EN
+28959;Grape leaves, stuffed with rice, dolma;EN
+28961;Soy bolognese;EN
+28962;Sweet corn, corn on the cob;EN
+28963;Vegetable potato stew;EN
+28966;Chick pea patty, falafel;EN
+28967;Salad, cabbage, carrot, pineapple, mayonnaise;EN
+28968;Salad, waldorf salad, celeriac, apple, walnut and mayonnaise;EN
+28969;Noodle, boiled, without salt;EN
+28970;Rice porridge, water, salt;EN
+28971;Doughnut, chocolate coated;EN
+28973;Doughnut, lemon coated;EN
+28974;Bun, water;EN
+28975;Oven-baked pancake, water;EN
+28976;Rhubarb crisp delight, rhubarb, oat flakes;EN
+28977;Meringue;EN
+28978;Chicken and potato casserole, cooking cream;EN
+28979;Chicken and potato casserole, cooking cream (vegetable fat);EN
+28980;Chicken hash, potato, without egg;EN
+28981;Chicken meatloaf;EN
+28982;Macaroni and pork beef mince casserole, meat bouillon;EN
+28983;Beef, raw, marinated in salt;EN
+28984;Steak tartare;EN
+28985;Roe sauce, crème fraîche;EN
+28986;Crayfish, boiled;EN
+28987;Lobster, boiled;EN
+28988;Mussel gravy. low-fat milk;EN
+28989;Rainbow trout, salt-cured, carpaccio with lemon and oil;EN
+28990;Snails in garlic butter;EN
+28991;Cafe au lait, unsweetened, whole milk;EN
+28992;Milk, whole milk, 3.5% fat, boiled;EN
+28993;Cafe latte, unsweetened, whole milk;EN
+28994;Bun, water, oil;EN
+28996;Bun, low-fat milk, oil;EN
+28998;Bun, water, butter;EN
+29000;Bun, low-fat milk, butter;EN
+29002;Multigrain bread, bread roll, water, oil, flour mix;EN
+29003;Multigrain bread, bread roll, fat-free milk, oil, flour mix;EN
+29005;Multigrain bread, bread roll, water, butter, flour mix;EN
+29006;Multigrain bread, bread roll, low-fat milk, butter, flour mix;EN
+29007;Multigrain bread, bread roll, whole milk, butter, flour mix;EN
+29008;Vegetable bouillon cube;EN
+29009;Chicken bouillon cube, contains wheat;EN
+29010;Fish stock cube;EN
+29011;Perch, baked in foil with butter;EN
+29012;Beetroot and rice casserole, low-fat milk;EN
+29013;Creamy mussel soup;EN
+29014;Coconut milk;EN
+29015;Berry smoothie with ice cream;EN
+29016;Fruit smoothie, fruit shake, yoghurt, ice cream;EN
+29017;Cheese fondue;EN
+29018;Chicken mince patty, fried;EN
+29019;Lamb mince patty, fried;EN
+29020;Pork mince patty, fried;EN
+29021;Turkey mince patty, fried;EN
+29022;Bean, green bean, string bean, boiled;EN
+29023;Pasta-roe-shrimpsalad, avocado, oil-based dressing;EN
+29024;Fish soup with coconut milk;EN
+29025;Mushroom-barley soup;EN
+29026;Vegetable bouillon, dissolved;EN
+29027;Cold cucumber soup;EN
+29028;Aubergine filled with tomato and cheese;EN
+29029;Risotto, avocado and pesto risotto;EN
+29030;Vegetable soup with coconut milk;EN
+29031;Noodle soup, vegetables;EN
+29032;Vegetables, gratinated, vegetable gratin;EN
+29033;Cheesy vegetable soup;EN
+29034;Puréed vegetable soup, pea, carrot, sweetcorn, cooking cream (veg. fat);EN
+29035;Pea soup, pureed, with white wine;EN
+29036;Root vegetable soup, pureed, cooking cream (veg. fat);EN
+29037;Root vegetable soup, pureed;EN
+29038;Macaroni and vegetable soup;EN
+29039;Shrimp soup with carrot and cooking cream (veg. fat);EN
+29040;Creamy oyster soup;EN
+29041;Tuna salad with vegetables, without dressing;EN
+29042;Ham and potato casserole, cooking cream (veg. fat);EN
+29043;Jansson's casserole, jansson's temptation, cooking cream (veg. fat);EN
+29044;White sauce, low-fat milk, thickened with flour and butter;EN
+29045;White sauce, low-fat milk, thickened with flour and oil;EN
+29046;Brown gravy, thickened with butter and flour;EN
+29047;Brown gravy, thickened with oil and flour;EN
+29048;Wok-vegetables, carrot-champignon-onion-sweet pepper-pea, frozen;EN
+29049;Wok-vegetables, green bean-carrot-sweet pepper- sweet corn-parsnip, frozen;EN
+29050;Bacon, fillet, 18% fat, fried;EN
+29053;White bread, baguette, garlic butter/herb butter filling;EN
+29054;Toast, oats toast, oat flour, oat flakes;EN
+29055;Noodle, rice noodle;EN
+29056;Noodle, rice noodle, boiled without salt;EN
+29060;Cheese, feta type salad cheese in brine, fat 12-15%;EN
+29064;Milk, 1.5% fat, lactose-free, 1 ug added vitamin d;EN
+29065;Cooking cream, 15% fat;EN
+29066;Whipping cream, 35% fat;EN
+29070;Energy drink with added vitamins;EN
+29071;Chocolate milk, cold, fat-free milk, sweetened;EN
+29073;Mushroom vegetable stew, cooking cream (vegetable fat);EN
+29074;Vegetable hamburger, wheat bun;EN
+29077;Berry pie with cream cheese filling, shortbread crust with oil;EN
+29078;Kebab meat;EN
+29079;Wok-vegetables, sweet pepper-onion-sweet corn-beans, frozen;EN
+29080;Cake, ice cream cake, caramel topping;EN
+29086;Turkey vegetable wok;EN
+29087;Salad, iceberg lettuce, carrot and zucchini;EN
+29089;Yoghurt, drinkable, flavoured, fat 0.1 g;EN
+29090;Milk, 0 % fat, boiled;EN
+29091;Cappuccino, unsweetened, fat-free milk;EN
+29094;Beef steak stew, meat bouillon, carrots, butter;EN
+29095;Beef steak stew, meat bouillon, carrots, oil;EN
+29098;Wok-vegetables, fried, sweet pepper-onion-sweet corn-beans;EN
+29099;Wok-vegetables, fried, carrot-champignon-onion-sweet pepper-pea;EN
+29100;Wok-vegetables, fried, green bean-carrot-sweet pepper-sweet corn-parsnip;EN
+29103;Meatball, beef steak mince, fried in butter;EN
+29104;Meatball, lean minced beef, fried in oil;EN
+29125;Chicken mince, fried;EN
+29126;Chicken mince, fried without fat;EN
+29128;Curd milk, plain, fat-free;EN
+29130;Sandwich, toast sandwich, pork beef mince patty and egg;EN
+29131;Sandwich, toast sandwich, mushroom stew;EN
+29132;Sandwich, toast sandwich, cheese and egg;EN
+29135;Cider, dry 4.7% volume;EN
+29139;Potato, fried in butter;EN
+29145;Lamb mince, fried without fat;EN
+29146;Lamb mince, fried;EN
+29147;Turkey mince, fried without fat;EN
+29148;Turkey mince, fried;EN
+29149;Italian stew;EN
+29150;Juice drink, lingonberry, diluted, contains sugar;EN
+29155;Cocoa butter;EN
+29156;Chocolate, white chocolate;EN
+29159;Margarine 40%, average of industrial products;EN
+29160;Egg, whole, with shell;EN
+29175;Beef mince, 17% fat, fried without fat;EN
+29180;Pork gravy, vegetables, cooking cream;EN
+29181;Pork strips, fried in oil;EN
+29182;Beef strips, fried in oil;EN
+29183;Beef gravy, vegetables, cooking cream;EN
+29207;Baltic herring, fillet;EN
+29208;Couscous;EN
+29209;Couscous, cooked with oil and salt;EN
+29210;Milk, 1.5% fat, without added vitamin d, organic;EN
+29211;Milk, 0% fat, without added vitamin d, organic;EN
+29212;Sour milk, fat-free, organic, without added vitamin d;EN
+29215;Juice drink, fruit, berry, added vitamin c, contains sugar;EN
+29216;Berrykissel, berry drink, 30 mg vitamin c;EN
+29217;Rofous milkcap;EN
+29219;Thin spinach pancake, spinach crepes, without milk;EN
+29222;Vegetarian pea soup;EN
+29223;Lasagne, beef steak mince;EN
+29226;Sauteed reindeer, low-fat;EN
+29228;Cheese, feta cheese in oil, goat milk;EN
+29229;Carrot, boiled without salt;EN
+29232;Multigrain bread, flatbread, potato and barley, mashed potato powder;EN
+29233;Doughnut, fried in rapeseed oil;EN
+29237;Rye bran;EN
+29238;Spring roll, vegetarian;EN
+29239;Cheese, mozzarella cheese, 20% fat;EN
+29240;Spring roll with minced meat;EN
+29241;Risotto, soy and vegetable risotto;EN
+29242;Potato stew with chick peas;EN
+29247;Fish loaf, no milk;EN
+29248;Baltic herring casserole, potato, low-fat milk, without bacon;EN
+29249;Baltic herring casserole, potato, fish bouillon;EN
+29250;Tuna bolognese;EN
+29253;Meatball, beef steak mince, oven-baked;EN
+29254;Lindström´s steak, beetroot and beef steak mince;EN
+29255;Fish, cooking cream (19% fat), oven-baked;EN
+29256;Chicken fillet, filled with cheese, oven-baked;EN
+29257;Lasagne, chicken mince;EN
+29259;Meatball, minced elk, fried in butter;EN
+29260;White bread, naan bread;EN
+29262;Meatball, minced elk, without cream, fried;EN
+29263;Rainbow trout fillet, cooking cream (veg. fat), breaded, oven-baked;EN
+29264;Lasagne, soya vegetable lasagne;EN
+29266;Zucchini filled with soya and rice;EN
+29267;Vegetable minestrone soup;EN
+29268;Sliced baked potatoes with cream (19% fat);EN
+29269;Sliced baked potatoes with cream (15 % veg. fat);EN
+29270;Macaroni and beef steak mince casserole, meat bouillon;EN
+29271;Macaroni and beef mince casserole, meat bouillon;EN
+29273;Macaroni and beef steak mince casserole, low-fat milk, whole wheat macaroni;EN
+29275;Potato and onion casserole, cooking cream (vegetable fat 15%);EN
+29277;Minced meat and potato casserole, lean steak mince, bouillon;EN
+29279;Hamburger, beef and wheat roll;EN
+29283;Beef mince patty, fried;EN
+29284;Beef steak, fried in butter;EN
+29285;Beef schnitzel, breaded, fried in oil;EN
+29286;Beef schnitzel, breaded, fried in butter;EN
+29289;Meatloaf, beef steak, water;EN
+29293;Beef steak stew, thickened;EN
+29294;Mixed flake porridge, water, salt;EN
+29295;Karelian pasty, rice filling, buttered;EN
+29304;Salad, average mixture without sauce;EN
+29305;Peasoup with medium fat beef;EN
+29306;Baked banana;EN
+29307;Oat porridge, oat flakes, oat bran, water, salt;EN
+29409;Margarine 60%, becel, lactose-free;EN
+29410;Porcini;EN
+29411;Porcini, boiled;EN
+29412;Infant formula, powder, average;EN
+29413;Infant formula, ready-to-feed, average;EN
+29495;Juice, unsweetened, added vitamin c, average;EN
+29496;Macaroni, gluten-free;EN
+29497;Pasta, gluten-free, average of industrial products, boiled without salt;EN
+29498;Risotto, chicken risotto;EN
+29499;Flour mixture, naturally gluten-free, rice, corn, potato;EN
+29500;Pudding, rice pudding with vanilla;EN
+29501;Tonic water;EN
+29510;Parsnip, boiled without salt;EN
+29511;Celeriac, boiled without salt;EN
+29682;Saithe, boiled, without salt;EN
+29683;Flounder, boiled, without salt;EN
+29684;Cod, boiled without salt;EN
+29685;Plum juice, unsweetened;EN
+29686;Turkey, boiled, unsalted;EN
+29687;Salty liqourice;EN
+29749;Jaffa cake, average;EN
+29753;Biscuit;EN
+29754;Biscuit, potato flour, sweetened with fructose;EN
+29756;Chocolate biscuit, industrial, average;EN
+29759;Biscuit for children, average;EN
+29760;Oat biscuit, industrial;EN
+29761;Wafer biscuit;EN
+29763;Sugar-covered rusk, fat-free milk, industrial;EN
+29764;Sugar-covered rusk, water, industrial;EN
+29765;Sugar-covered rusk, low-fat milk, home-made;EN
+29766;Wholemeal rusk, industrial;EN
+29767;Wholemeal rusk, milk, home-made;EN
+29768;Wheat rusk, milk, industrial;EN
+29769;Salted cracker, saltine cracker;EN
+29770;Cream cracker, water biscuit;EN
+29771;Crispbread, rye, 17% fibre;EN
+29772;Finn crisp, rye crispbread;EN
+29775;Breakfast cereal, sugar-coated corn flakes;EN
+29776;Breakfast cereal, weetabix original;EN
+29777;Breakfast cereal, weetabix banana flavour;EN
+29778;Breakfast cereal, wheat loops;EN
+29779;Breakfast cereal, mixed grain;EN
+29780;Breakfast cereal, chocolate cereal, average;EN
+29781;Breakfast cereal, rice-wheat flakes;EN
+29782;Breakfast cereal, bran flakes, whole wheat flakes;EN
+29783;Breakfast cereal, rice krispies;EN
+29784;Muesli, cereal;EN
+29785;Muesli, basic;EN
+29787;Multigrain bread, oat bread, water;EN
+29788;Multigrain bread, barley bread, water, dark wheat, barley and wheat flour;EN
+29789;White bread, cheese baguette;EN
+29790;White bread, garlic baguette;EN
+29791;Multigrain bread, carrot bread, water;EN
+29792;Multigrain bread, carrot roll, water;EN
+29793;White bread, wheat roll with cheese;EN
+29794;Multigrain bread, oat roll, water;EN
+29795;Toast, wheat toast;EN
+29796;Toast, graham toast;EN
+29797;Toast, rye toast;EN
+29798;Multigrain bread, crushed grains, water;EN
+29799;Multigrain bread, bread roll, crushed grains, water;EN
+29800;Multigrain bread, wheat roll with crushed rye;EN
+29801;White bread, potato flatbread, industrial;EN
+29802;Multigrain bread, barley flatbread, industrial;EN
+29803;Multigrain bread, flatbread, potato and barley, water, wheat flour, industrial;EN
+29804;Multigrain bread, water, wheat and rye flour, potato flakes;EN
+29805;Multigrain bread, water, wheat flour, crushed wheat grains;EN
+29806;Toast, multigrain toast;EN
+29807;Multigrain bread, bread roll;EN
+29808;Multigrain bread, rye roll;EN
+29809;Rye bread, potato rye bread;EN
+29810;Multigrain bread, sweet-and-sour bread;EN
+29811;Rye bread, rye mixed grain bread;EN
+29812;Crispbread, wheat, 7% fibre;EN
+29813;Crispbread, wholemeal, 8% fibre;EN
+29814;Rye bread, dried rye bread;EN
+29815;Wheat rusk, industrial;EN
+29819;Soured milk gefilus, skimmed 0.1 fat;EN
+29822;Flour, corn meal, coarsely ground;EN
+29823;Flour, corn meal, finely ground;EN
+29851;Lamb, low-fat, boiled without salt;EN
+29975;Meal replacement, protein drink powder, herbalife formula 1, 35% protein;EN
+30005;Meal replacement, protein drink powder and milk, herbalife formula 1;EN
+30051;Xylitol pastille, full xylitol;EN
+30149;Pork ribs, fried;EN
+30151;Oven-baked pancake, low-fat milk, lactose-free;EN
+30152;Macaroni and pork mince casserole, low-fat milk;EN
+30153;Cabbage casserole, without meat;EN
+30154;Frankfurter soup;EN
+30155;Pork mince gravy;EN
+30156;Sauteed elk;EN
+30157;Barbeque sausage, grilled;EN
+30158;Barley porridge, pearl barley, milk, salt, oven-baked;EN
+30159;Rice porridge, milk, without salt;EN
+30161;Oat porridge, oat flakes, fat-free milk, salt;EN
+30162;Rice porridge, whole milk, salt;EN
+30163;Tuna salad with egg, without dressing;EN
+30164;Shrimp salad with egg, without dressing;EN
+30166;Salad, mushroom salad with cooking cream;EN
+30167;Caesar salad with chicken;EN
+30168;Hamburger, beef and wheat roll with crushed grain;EN
+30169;Chicken hamburger, wheat roll with crushed grain;EN
+30170;Vegetable hamburger, wheat roll with crushed grain;EN
+30171;Hamburger with pork sirloin and rye bread;EN
+30172;Icing;EN
+30174;Bun, cinnamon bun, high-fat, water, oil;EN
+30175;Oat porridge, oat flakes, apple and cinnamon, water, without salt;EN
+30178;Vatruska, potato pasty with rice;EN
+30179;Elk meat gravy, with cooking cream;EN
+30180;Macaroni and soya casserole, low-fat milk;EN
+30181;Macaroni and tuna casserole, low-fat milk;EN
+30182;Ham and blue cheese gravy, cooking cream, thickened;EN
+30184;Salmon fillet, fried;EN
+30185;Pudding, soy pudding;EN
+30186;Wheat tortilla;EN
+30187;Corn snack, puffed, corn puffs without added salt;EN
+30188;Blood pancake, industrial;EN
+30189;Thin spinach pancake, spinach crepes, industrial;EN
+30190;Flour, oat flour;EN
+30192;Risotto, beef mince and bean risotto;EN
+30193;Pasta, multigrain, wheat, rye and barley;EN
+30194;Sport beverage, carbohydrate drink, powerade, gatorade;EN
+30195;Pudding, milk chocolate pudding, industrial, average;EN
+30200;Pita kebab, kebab roll;EN
+30201;Fish, oven-baked;EN
+30202;Sushi nigiri with tuna, without seaweed;EN
+30203;Sushi maki with salt-cured salmon and seaweed;EN
+30204;Vegetable couscous;EN
+30205;Meatball, industrial;EN
+30206;Danish pastry, vanilla custard and jam filling, water, bakery;EN
+30207;Soya drink,  calcium;EN
+30208;Oat drink without milk, with added calcium;EN
+30209;Oat drink without milk, with added calcium and vitamins;EN
+30210;Oat drink without milk;EN
+30212;Rice drink, calcium;EN
+30213;Wok-vegetables, corn-carrot-pea-broccoli-sweet pepper-mushroom-leek, frozen;EN
+30214;Water chestnut;EN
+30215;Wok-vegetables, carrot-pea-water chestnut-bamboo shoot-sweet pepper-mushroom;EN
+30216;Wok-vegetables, fried, sweet corn-carrot-pea-broccoli-sweet pepper-mushroom-leek;EN
+30217;Wok-vegetables, fried, carrot-pea-water chestnut-bamboo shoot-sweet pepper-onion;EN
+30218;Wok-vegetables, swede-carrot-broccoli-water chestnut-corn-pea-mushroom, frozen;EN
+30219;Wok-vegetables, fried, swede-carrot-broccoli-water chestnut-corn-pea-mushroom;EN
+30221;Rice and oat mix;EN
+30222;Runeberg's cake;EN
+30223;Sweet potato, without skin;EN
+30224;Soft drink, cola, light, artificially sweetened;EN
+30225;Chicken-vegetable wok, wok-vegetables;EN
+30226;Pork-vegetable wok, wok-vegetables;EN
+30259;Frozen vegetable mix, potato-onion;EN
+30260;Potato and onion casserole, frozen vegetable mix, cooking cream (veg. fat 15%);EN
+30261;Barbeque sausage, boiled;EN
+30262;Reindeer, fried;EN
+30265;Chicken wing with skin;EN
+30268;Chicken wing without skin;EN
+30271;Chicken wing, marinated, raw;EN
+30272;Chicken wing, marinated, oven-baked;EN
+30273;Slicing sausage, ham sausage, 16% fat;EN
+30274;Slicing sausage, balkan, 21.5% fat;EN
+30275;Slicing sausage, gotler, 13.8% fat;EN
+30278;Vendace, canned in tomato sauce;EN
+30279;Slicing sausage, lauantai, light, 14% fat, contains milk protein;EN
+30281;Frankfurter, contains cheese;EN
+30282;Flounder, breaded, fried;EN
+30286;Flounder, breaded, oven-baked;EN
+30292;Sausage, ring bologna, contains cheese;EN
+30294;Slicing sausage, low salt, fat 3.5%;EN
+30295;Slicing sausage, balkan, light, 10% fat;EN
+30298;Bun, low-fat milk, artificially sweetened;EN
+30299;Turkey schnitzel, breaded, oven-baked;EN
+30303;Fish ball, industrial;EN
+30305;Salami, light, 15% fat;EN
+30306;Salami;EN
+30310;Processed cheese, 5% fat, low-fat;EN
+30311;Rainbow trout loaf, fish in rye crust;EN
+30312;Feta cheese and vegetables, pan-fried;EN
+30313;Creamy salmon gravy;EN
+30314;Creamy chicken vegetable soup;EN
+30315;Chicken broth;EN
+30316;Chicken schnitzel, breaded, kariniemi, oven-baked;EN
+30317;Frankfurter, average of industrial products;EN
+30318;Sausage, ring bologna, average;EN
+30319;Slicing sausage, jahti, 17% fat, average of industrial products;EN
+30321;Barbeque sausage, light, average;EN
+30322;Groat sausage, average of industrial products;EN
+30324;Sausage, ring bologna, light, average;EN
+30325;Frankfurter, light, average of industrial products;EN
+30326;Barbeque sausage, light, grilled;EN
+30327;Barbeque sausage, meaty, grilled;EN
+30328;Sausage, ring bologna, light, grilled;EN
+30329;Frankfurter, light, grilled;EN
+30330;Frankfurter, contains cheese, grilled;EN
+30331;Sausage, ring bologna, contains cheese, grilled;EN
+30332;Barbeque sausage, light, oven baked;EN
+30333;Barbeque sausage, meaty, oven baked;EN
+30334;Sausage, ring bologna, light, oven-baked;EN
+30335;Sausage, ring bologna, oven-baked;EN
+30336;Sausage, ring bologna, contains cheese, oven-baked;EN
+30338;Frankfurter, oven-baked;EN
+30339;Frankfurter, light, oven-baked;EN
+30340;Frankfurter, contains cheese, oven-baked;EN
+30341;Frankfurter, light, boiled;EN
+30342;Barbeque sausage, fried without fat;EN
+30344;Sausage, lauantai, fried without fat;EN
+30345;Sausage, lauantai, fried;EN
+30346;Rice, long-grain, boiled without salt;EN
+30347;Rice, long-grain, boiled, vegetable bouillon;EN
+30348;Rice, brown, boiled without salt;EN
+30349;Rice, wholegrain, boiled, salt;EN
+30350;Rice and rye mix, boiled without salt;EN
+30351;Rice and oat mix, boiled, salt;EN
+30352;Rice and oat mix, boiled, without salt;EN
+30356;Macaroni, boiled without salt;EN
+30357;Pasta, spaghetti, boiled without salt;EN
+30358;Oat macaroni, boiled with added salt;EN
+30360;Rye macaroni, boiled, without salt;EN
+30361;Pasta, multigrain, boiled without salt;EN
+30362;Pasta, multigrain, boiled, salt;EN
+30366;Mashed potatoes, water, margarine;EN
+30367;Mashed potatoes, fat-free milk;EN
+30368;Mashed potatoes, whole milk;EN
+30369;Sausage, fresh sausage, siskonmakkara;EN
+30370;Barbeque sausage, meaty, cheese;EN
+30371;Blood sausage, black sausage;EN
+30372;Liver sausage, liver pate, average;EN
+30373;Liver sausage, liver pate, light, average;EN
+30374;Barbeque sausage, cheese;EN
+30380;Tea, ice tea;EN
+30382;Beetroot, boiled without salt;EN
+30384;Swede, boiled without salt;EN
+30388;Juice drink, fruit, berry, partially artificially sweetened;EN
+30390;Juice drink, fruit, berry, light, partially artificially sweetened;EN
+30391;Pear juice, unsweetened;EN
+30392;Juice drink, fruit, berry, average, contains sugar;EN
+30394;Fruit juice, concentrated, average, contains sugar;EN
+30395;Cranberry-lingonberryjuice, unsweetened;EN
+30396;Juice drink, sugar-free, artificially sweetened;EN
+30402;Cheese, semi-hard cheese, turunmaa, 5% fat;EN
+30406;Cottage cheese, 2-5% fat, lactose-free;EN
+30423;Milk, 0% fat, lactose-free, 1 ug added vitamin d;EN
+30424;Bun, low-fat milk, lactose-free;EN
+30425;Macaroni and pork beef mince casserole, lactose-free milk;EN
+30428;Cheese, blue cheese, aura, 17% fat;EN
+30429;Cheese, white mould cheese, camembert/brie, 16% fat;EN
+30430;Cider, dry, 5.5% volume;EN
+30432;Cider, 0.7% volume;EN
+30434;Fish paste;EN
+30440;Rice chocolate;EN
+30443;Cream cheese, low-fat, 15% fat, flavoured, creme bonjour light;EN
+30444;Tomato, sun-dried, in oil;EN
+30449;Curd milk, plain, 1% fat, low-lactose;EN
+30450;Curd milk, flavoured, 2% fat, low-lactose;EN
+30451;Mineral water, sweetened with fructose;EN
+30452;Yoghurt, drinkable, flavoured, fat 0.1%, low-lactose;EN
+30454;Sour cream, 6% fat, low-lactose;EN
+30455;Sour cream, 3.5% fat, low-lactose;EN
+30456;Yoghurt, flavoured, 2% fat, low-lactose, 0.5 ug vitamin d;EN
+30462;Yoghurt, flavoured, 1.5% fat, low-lactose;EN
+30464;Yoghurt, flavoured, fat-free, lactose-free;EN
+30478;Chanterelle, fried;EN
+30570;Maltodextrin;EN
+30572;Barbeque sausage, average;EN
+30573;Barbeque sausage, meaty, average;EN
+30574;Blackcurrant juice, unsweetened, undiluted, home-made;EN
+30575;Blackcurrant juice, unsweetened, diluted, home-made;EN
+30576;Juice drink, gefilus, probiotics, average of industrial products;EN
+30599;Frozen vegetable mix, potato-onion, fried;EN
+30600;Sweet potato, baked;EN
+30601;Sweet potato, fried;EN
+30602;Sweet potato, without skin, boiled, without salt;EN
+30603;Sweet potato, without skin, boiled, salt;EN
+30604;Sweet potato soup;EN
+30605;Tuna, fried;EN
+30606;Juice, unsweetened, vitamin c, vitamin d, probiotics;EN
+30607;Juice drink, fruit, berry, fibre, contains sugar;EN
+30608;Yoghurt with jam, fat-free;EN
+30610;Butter, low-sodium;EN
+30612;Vegetable fat spread 30%, keiju kevyt;EN
+30614;Vegetable fat spread 25%, pirkka;EN
+30616;Margarine 40%, rainbow/pirkka;EN
+30617;Vegetable fat spread 70%, keiju lactose free, 20 ug vitamin d;EN
+30619;Margarine 60%, keiju normally salted, 20 ug vitamin d;EN
+30621;Margarine 40%, keiju light, lactose-free, 20 ug vitamin d;EN
+30629;Margarine 60%, kultarypsi;EN
+30631;Margarine 60%, average of industrial products;EN
+30633;Fruit juice, concentrated, with added vitamins, contains sugar;EN
+30634;Noodle, boiled, salt;EN
+30635;Noodle, boiled, salt and oil;EN
+30636;Cider, light, 4.7% volume;EN
+30638;Gin and grapefruit drink, light, 4.7% volume;EN
+30639;Punch, 7% volume;EN
+30641;Egg, omega, without shell;EN
+30646;Cooking cream, 5% fat, low-lactose;EN
+30664;Salted nut and dried fruit mix;EN
+30665;Meal replacement, protein bar, average, c. 30% protein;EN
+30666;Turkey vegetable gravy with cooking cream (15% fat);EN
+30667;Turkey vegetable gravy, cooking cream (vegetable fat 15%);EN
+30668;Risotto, turkey risotto;EN
+30669;Vegetable mix with cauliflower, broccoli, carrot, boiled without added salt;EN
+30670;Salad, pasta and vegetables;EN
+30671;Quark, fruit quark, dessert quark, low-fat milk, home-made;EN
+30672;Quark, berry quark, dessert quark, low-fat milk, home-made;EN
+30673;Quark, flavoured, 3.5% fat;EN
+30676;Beef sirloin steak, oven-baked;EN
+30677;Beef sirloin steak, fried;EN
+30728;Tomato sauce;EN
+30731;Salmon gravy with tomato;EN
+30732;Onion soup;EN
+30733;Chicken leg and thigh with skin, oven-baked;EN
+30792;Chicken leg and thigh without skin;EN
+30795;Chicken leg and thigh without skin, oven-baked;EN
+30796;Chicken leg and thigh without skin, grilled;EN
+30801;Parma ham, 15% fat;EN
+30818;Salad, iceberg lettuce, tomato and cucumber;EN
+30914;Florence fennel;EN
+30924;Maize porridge, polenta;EN
+30925;Mayonnaise, 80% fat;EN
+30926;Mayonnaise, fat-free;EN
+30968;Pine nut, pine kernel;EN
+30991;Linseed, whole;EN
+31139;Pasta, wheat germ pasta;EN
+31140;Pasta contains wheat germ, boiled without salt;EN
+31144;Pork strips, marinated;EN
+31145;Beef strips, marinated;EN
+31146;Pork strips, marinated, fried in oil;EN
+31147;Beef strips, marinated, fried in oil;EN
+31148;Chicken strips, fried, without salt;EN
+31160;Baking soda, bicarbonate of soda;EN
+31174;Pasta, dark high protein pasta;EN
+31175;Quinoa;EN
+31179;Quinoa, cooked without salt;EN
+31180;Quinoa, cooked with salt;EN
+31181;Pasta, dark high protein pasta, boiled without salt;EN
+31211;Pumpkin seed;EN
+31212;Nut, pistachio nut;EN
+31213;Bean, mung bean, boiled;EN
+31214;Bean, kidney bean, boiled;EN
+31216;Bean, adzuki bean, dried;EN
+31217;Bean, adzuki bean, boiled without salt;EN
+31218;Chick pea, dried;EN
+31219;Lentils, red, dried;EN
+31225;Lentils, red, cooked;EN
+31226;Spelt flour, whole meal;EN
+31229;Soy milk frozen dessert, ice cream bar, chocolate coated;EN
+31230;Mayonnaise, egg-free;EN
+31231;Soya product, non-dairy cream substitute, 17.5% fat;EN
+31233;Bean, broad bean, fava bean, boiled;EN
+31246;Soya drink, vitamins;EN
+31247;Soya drink, plain;EN
+31248;Soya drink, chocolate, vitamins;EN
+31252;Rice cake;EN
+31253;Rice cake with corn;EN
+31254;Chocolate raisin;EN
+31255;Cocoa, hot chocolate, water, sweetened;EN
+31256;Fresh pasta, contains egg;EN
+31257;Fresh pasta, contains egg, boiled without salt;EN
+31258;Whipped cream, unsweetened;EN
+31364;Hamburger, pork and beef and wheat roll;EN
+31365;Sandwich, pita bread, chicken, lettuce, tomato and feta filling;EN
+31442;Cheesy vegetable soup, pureed, industrial, ready meal;EN
+31443;Chicken soup, industrial, ready meal;EN
+31444;Rainbow trout soup, industrial, ready meal;EN
+31445;Chicken soup with coconut milk;EN
+31446;Kebab and potato casserole, industrial, ready meal;EN
+31447;Chicken gravy with cooking cream;EN
+31448;Chicken noodle wok, wok-vegetables;EN
+31449;Baltic herring casserole, potato, industrial, ready meal;EN
+31450;Tuna and mashed potato casserole, low-fat milk;EN
+31451;Spaghetti and minced meat casserole;EN
+31452;Ham and potato casserole, industrial, ready meal;EN
+31453;Mashed potatoes and carrots, low-fat milk;EN
+31454;Beef mince and mashed potato casserole, low-fat milk;EN
+31455;Risotto, mushroom risotto;EN
+31457;Lingonberry jam;EN
+31459;Apple jam;EN
+31462;Sandwich, chicken and mayonnaise;EN
+31463;Sandwich, shrimp;EN
+31464;Sandwich, ham;EN
+31465;Sandwich, tuna;EN
+31466;Macaroni and meat casserole, industrial, ready meal;EN
+31467;Chicken tikka;EN
+31468;Mango chutney, sweet and sour sauce;EN
+31469;Indian yoghurt sauce, cucumber raita;EN
+31470;Potato cauliflower curry;EN
+31471;Lamb curry;EN
+31482;Macaroni, pasta, contains egg;EN
+31483;Macaroni, pasta, contains egg, boiled, without salt;EN
+31485;Doughnut, jam and icing, bakery;EN
+31487;Milk powder, fat-free milk, low-lactose, 5 ug added vitamin d;EN
+31488;Milk powder, fat-free milk, lactose-free, 5 ug added vitamin d;EN
+31489;Chicken mince, fried without fat and salt;EN
+31490;Beef mince, 17% fat, fried without fat and salt;EN
+31492;Liver casserole, industrial, ready meal;EN
+31494;Berry kissel, artificially sweetened, industrial;EN
+31495;Linseed oil, flaxseed oil;EN
+31496;Milk powder, fat-free milk, 5 ug added vitamin d;EN
+31497;Milk powder, fat-free milk, low-lactose;EN
+31498;Milk powder, fat-free milk, lactose-free;EN
+31504;Blended spread 70%;EN
+31505;Blended spread 75%, lactose-free;EN
+31506;Blended spread 40%, low-lactose;EN
+31508;Fat blend 80%, cooking liquid, average;EN
+31509;Omelette, ham and cheese omelette;EN
+31511;Yoghurt, flavoured, 4% fat, lactose-free;EN
+31518;Ice cream, yoghurt based, 9% fat;EN
+31522;Toast, high-fibre, low sodium;EN
+31525;Soy product, alpro natural, soured, plain, added vitamin and calcium;EN
+31530;Butter lactose-free;EN
+31532;Flour mixture, naturally gluten-free, dark;EN
+31534;Flour mixture, gluten-free, contains wheat starch, with added vitamins;EN
+31536;Fish fingers, salmon, frozen;EN
+31537;Pasta, wholegrain rice flour, naturally gluten-free;EN
+31538;Apricot puree, unsweetened, with added vitamin c;EN
+31539;Berry puree, unsweetened, added vitamin c;EN
+31540;Crispbread, naturally gluten-free, with added vitamins, 7.5% fibre;EN
+31541;Biscuit, snack biscuit, gluten-free;EN
+31542;Toast, gluten-free, contains wheat starch;EN
+31543;Muesli with dried fruit, naturally gluten-free, finax;EN
+31544;Flour mixture, naturally gluten-free;EN
+31545;Tomato ketchup, reduced salt and sugar;EN
+31547;Bean, green bean, string bean, boiled without salt;EN
+31548;Crispbread, gluten-free, with added vitamins, 7% fibre;EN
+31550;Flour mixture, gluten-free, contains wheat starch and milk powder;EN
+31552;Guava;EN
+31553;Milk, 1.5% fat, lactose-free, without added vitamin d, organic;EN
+31555;Pomegranate, without skin;EN
+31557;Chili, green, raw;EN
+31558;Chocolate marble cake;EN
+31559;Banana cake;EN
+31560;Cake, cheese cake, oven-baked;EN
+31561;Cake, cheese cake, unbaked;EN
+31562;Basic plain sponge cake;EN
+31563;Basic plain sponge cake, naturally gluten-free;EN
+31564;Basic plain sponge cake, gluten-free;EN
+31565;Basic plain sponge cake, egg-free;EN
+31566;Swiss roll dough;EN
+31567;Chocolate swiss roll cake;EN
+31568;Swiss roll dough, bakery;EN
+31569;Swiss roll dough, naturally gluten-free;EN
+31570;Chocolate swiss roll cake, naturally gluten-free;EN
+31571;Basic plain sponge cake/swiss roll, artificially sweetened;EN
+31572;Swiss roll dough, gluten-free;EN
+31573;Chocolate swiss roll cake, gluten-free;EN
+31574;Basic plain sponge cake/swiss roll, sweetened with fructose;EN
+31575;Cake, mud cake, chocolate cake, frödinge, frozen;EN
+31576;Butter cream, chocolate swiss roll filling;EN
+31578;Chocolate swiss roll, naturally gluten-free;EN
+31579;Chocolate swiss roll, gluten-free;EN
+31580;Swiss roll;EN
+31581;Swiss roll, naturally gluten-free;EN
+31583;Swiss roll, sweetened with fructose;EN
+31584;Gingerbread cake;EN
+31585;Date cake;EN
+31586;Sponge cake, marzipan cake, butter cream filling;EN
+31587;Sponge cake, strawberry and cream filling;EN
+31588;Basic plain sponge cake, bakery;EN
+31589;Sponge cake, strawberry and cream filling, bakery;EN
+31590;Vanillacrème;EN
+31591;Cake, tiramisu;EN
+31592;Cake coating, mocha;EN
+31594;Cake, tosca cake;EN
+31595;Sponge cake, chocolate cake with cream and jam filling;EN
+31597;Sponge cake, caramel cake, apple puree and vanilla pudding filling;EN
+31598;Crème;EN
+31599;Sponge cake, butter icing;EN
+31601;Sponge cake, cream filling, vegetable fat cream product;EN
+31602;Shortcake;EN
+31603;Cake, sacher cake;EN
+31604;Sponge cake, princess cake, marzipan topping;EN
+31605;Gingerbread cake made with sourmilk;EN
+31606;Gingerbread cake made with cream;EN
+31607;Sponge cake, caramel cake with butter icing, bakery;EN
+31608;Fat used in cakes;EN
+31609;Cake, carrot cake, bakery;EN
+31611;Biscuit for children, tivoli, pirkka;EN
+31613;Biscuit for children, carneval;EN
+31615;Oat biscuit, jyväshyvä luonnonhyvät, rapeseed oil-based;EN
+31619;Digestive biscuit;EN
+31620;Chocolate chip cookie;EN
+31621;Oat biscuit, industrial, average;EN
+31622;Biscuit for children, moomin, lu;EN
+31623;Biscuit, elovena, snack biscuit;EN
+31624;Biscuit for children, naturally gluten-free, schär;EN
+31625;Doughnut, gluten-free, contains wheat starch;EN
+31626;Bun, cinnamon bun, gluten-free, industrial, wheat starch;EN
+31627;Digestive biscuit, gluten-free;EN
+31628;Wafer covered with chocolate, gluten-free, semper;EN
+31629;Lemon wafer, naturally gluten-free, average;EN
+31630;Chocolate sandwich cookie, naturally gluten-free;EN
+31631;Shortbread biscuit, naturally gluten-free;EN
+31632;Cream cracker, naturally gluten-free;EN
+31633;Biscuit, gingerbread, gluten-free;EN
+31634;Chocolate chip cookie, naturally gluten-free;EN
+31635;Rusk, gluten-free;EN
+31636;Cake, muffin, naturally gluten-free;EN
+31637;Jaffa cake, naturally gluten-free;EN
+31638;Karelian pasty, rice filling, gluten-free, industrial, average;EN
+31639;Savoury sandwich cake, tuna;EN
+31640;Savoury sandwich cake, vegetable;EN
+31641;Savoury sandwich cake, salt-cured salmon;EN
+31642;Savoury sandwich cake, meat;EN
+31643;Biscuit, gingerbread, industrial;EN
+31644;Biscuit, gingerbread, home-made;EN
+31645;Biscuit, sweetened with fructose;EN
+31646;Jaffa cake, orange, lu;EN
+31647;Shortbread biscuit with egg;EN
+31648;Shortbread biscuit without egg;EN
+31649;Biscuit, aunt hanna's cookies;EN
+31650;Chocolate sandwich cookie, average;EN
+31651;Biscuit covered with chocolate, industrial, average;EN
+31653;Wafer, covered with chocolate;EN
+31654;Cake, chocolate muffin;EN
+31655;Cake, plain cake, muffin;EN
+31656;Biscuit, rapeseed oil-based, average;EN
+31657;Biscuit for children, average of industrial products;EN
+31659;May day fritter, low-fat milk;EN
+31660;May day fritter, fat-free milk;EN
+31663;Oat biscuit, sugar-free, home-made;EN
+31664;Oat biscuit gluten-free, home-made;EN
+31667;Vanilla sauce, low-fat milk, wheat flour;EN
+31668;Danish pastry, vanilla custard, low-fat milk;EN
+31669;Danish pastry, vanilla custard, fat-free milk;EN
+31670;Danish pastry, vanilla custard, whole milk;EN
+31672;Butter dough, oven-baked;EN
+31674;Profiterole, without filling;EN
+31675;Pasta, spaghetti, macaroni, naturally gluten-free;EN
+31676;Pasta, naturally gluten-free, boiled without salt;EN
+31677;Pasta, spaghetti, naturally gluten-free, contains egg;EN
+31678;Pasta, spaghetti, naturally gluten-free, contains egg, boiled without salt;EN
+31679;Pasta, rich in fiber, naturally gluten-free;EN
+31680;Pasta, rich in fiber, naturally gluten-free, boiled without salt;EN
+31682;Toast, gluten-free;EN
+31683;Flour mixture, gluten-free, contains wheat starch, with added vitamins;EN
+31684;Gluten-free bread, contains wheat starch, with added vitamins;EN
+31685;Multigrain bread, naturally gluten-free;EN
+31686;Multigrain bread, buckwheat bread, naturally gluten-free;EN
+31688;Multigrain bread, dark bread, naturally gluten-free;EN
+31689;Multigrain bread, seed bread, naturally gluten-free;EN
+31690;Multigrain bread, oat bread, naturally gluten-free;EN
+31691;Karelian pasty, rice filling, naturally gluten-free, moilas;EN
+31692;Flour, breadcrumbs, naturally gluten-free;EN
+31693;Shortbread pie crust, sweet;EN
+31694;Apple pie, shortbread crust with sour milk;EN
+31695;Basic sweet dough for pies, fat-free milk;EN
+31696;Basic sweet dough for pies, low-fat milk;EN
+31697;Basic sweet dough for pies, whole milk;EN
+31698;Sweet yeast dough for pies, semi-skimmed milk, without sugar;EN
+31699;Basic sweet dough for pies, low-fat milk, without sugar;EN
+31700;Sweet yeast sough for pies, whole milk, without sugar;EN
+31701;Shortbread pie crust, sweetened with fructose;EN
+31702;Shortbread pie crust, artificially sweetened;EN
+31703;Sweet yeast dough for pies, fat-free milk, sweetened with fructose;EN
+31704;Basic sweet dough for pies, low-fat milk, sweetened with fructose;EN
+31705;Sweet yeast dough for pies, whole milk, sweetened with fructose;EN
+31706;Sweet yeast dough for pies, fat-free milk, sweetened with aspartame;EN
+31707;Basic sweet dough for pies, low-fat milk, sweetened with aspartame;EN
+31708;Sweet yeast dough for pies, whole milk, sweetened with aspartame;EN
+31717;Shortbread pie crust, sugar-free;EN
+31732;Basic sweet dough for pies, dairy-free;EN
+31733;Basic sweet dough for pies, egg-free;EN
+31734;Basic sweet dough for pies, dairy-free, egg-free;EN
+31742;Quark filling for pies, contains raisins;EN
+31744;Basic sweet dough for pies, gluten-free, wheat starch, milk;EN
+31745;Basic sweet dough for pies, naturally gluten-free, contains milk;EN
+31746;Shortbread pie crust, contains wheat starch, gluten-free;EN
+31747;Shortbread pie crust, naturally gluten-free;EN
+31748;Sour cream filling for sweet pies;EN
+31749;Quark filling for pies;EN
+31751;Berry pie with quark filling, basic sweet dough, fat-free milk;EN
+31752;Berry pie with quark filling, basic sweet dough, low fat milk;EN
+31753;Berry pie with quark filling, basic sweet dough, whole milk;EN
+31768;Rhubarb pie with quark filling, shortbread crust;EN
+31769;Lingonberry pie with rye crust, rönttönen;EN
+31772;Feta and spinach pie, shortcrust pastry;EN
+31773;Butter dough with quark;EN
+31774;Butter dough with potato puree;EN
+31775;Cheese pie, butter dough;EN
+31776;Fish pie, butter dough;EN
+31777;Salmon and rice pie, butter dough;EN
+31778;Fish and rice pie, shortcrust pastry;EN
+31779;Cabbage pie, butter dough;EN
+31780;Ham and cheese pie, shortcrust pastry;EN
+31781;Karelian pasty, rice filling, dark, saarioinen;EN
+31782;Karelian pasty, rice filling, saarioinen;EN
+31783;Karelian pasty, rice filling, light, saarioinen;EN
+31784;Karelian pasty, rice filling, pirkka parhaat, frozen;EN
+31785;Karelian pasty, rice filling, pirkka;EN
+31786;Karelian pasty, rice filling, pirkka, frozen;EN
+31787;Karelian pasty, rice filling, small, moilas, frozen;EN
+31788;Karelian pasty, rice filling, moilas;EN
+31789;Cake, almond cake, almondy, frozen;EN
+31790;Cake, daim cake, almondy, frozen;EN
+31791;Cake, cheese cake almondy, frozen;EN
+31792;Sponge cake, meringue cake, frödinge, frozen;EN
+31793;Sponge cake, strawberry cake, frozen, frödinge;EN
+31794;Sponge cake, caramel cake, frozen, frödinge;EN
+31795;Sponge cake, chocolate cake, frozen, frödinge;EN
+31796;Egg and rice pasty, butter dough;EN
+31798;Deep-fried meat pasty, pirkka;EN
+31799;Deep-fried meat pasty, atria;EN
+31800;Karelian pasty, rice filling, atria;EN
+31801;Bun, low-fat milk, sweetened with fructose;EN
+31802;Bun, low-fat milk, egg-free;EN
+31805;Bun, low-fat, low-fat milk;EN
+31808;Deep-fried meat pasty, average of industrial products;EN
+31809;Bun, pirkka/x-tra, frozen;EN
+31811;Rye bread, reissumies, oululainen, fazer;EN
+31812;Rye bread, oululainen reilu, fazer;EN
+31813;Rye bread, wholegrain rye, vilpuri pikkuruis, fazer;EN
+31814;Rye bread, wholegrain rye, real tumma, fazer;EN
+31815;Rye bread, puikula, fazer;EN
+31816;Rye bread, tosi rukiinen, vaasan;EN
+31817;Rye bread, wholegrain rye, jyvärouhea, vaasan;EN
+31818;Rye bread, wholegrain rye, wheat flour, ruissydän, vaasan;EN
+31819;Rye bread, wholegrain rye, 100% rye, vaasan;EN
+31820;Rye bread, ruispalat, vaasan;EN
+31821;Rye bread, oululainen jälkiuunileipä, fazer;EN
+31822;Rye bread, oululainen jälkiuunileipä, less salt, fazer;EN
+31823;Rye bread, oululainen jälkiuuniviipaleet, fazer;EN
+31824;Rye bread, wholegrain rye, oululainen jälkiuunivuoka, fazer;EN
+31826;Rye bread, wholegrain rye, uotilan maalaisruislimppu, fazer;EN
+31827;Rye bread, wholegrain rye, dark wheat flour, potato, uotilan perunalimppu, fazer;EN
+31828;Rye bread, wholegrain rye, dark wheat flour, rovastinlimppu, fazer;EN
+31829;Rye bread, oululainen ruislimppu, fazer;EN
+31830;Rye bread, sweet and sour rye malt bread, saaristolaispalat, vaasan;EN
+31831;Multigrain bread, multigrain baguette, rye fiber, seeds, fazer;EN
+31832;White bread, wheat baguette with cheese, fazer;EN
+31833;Toast, multigrain toast, fazer roast rolls;EN
+31834;Toast, rye toast, fazer roast rolls;EN
+31835;White bread, wheat roll with cheese, fazer;EN
+31837;Multigrain bread, wholegrain, rapeseed oil, reilu täysjyväviipaleet, fazer;EN
+31838;Multigrain bread, wheat flour, wheat bran, reilu vehnäleseviipaleet, fazer;EN
+31839;White bread, wheat toast, oululainen reilu vehnäviipaleet, fazer;EN
+31840;Toast, multigrain toast, fazer alku;EN
+31841;Multigrain bread, oat bread, wheat flour, oat flakes, fazer;EN
+31842;White bread, wheat bread, maalaisleipä, fazer;EN
+31845;Toast, rye toast, fazer;EN
+31846;Toast, oats toast, fazer kaurapaahto;EN
+31847;Toast, graham toast, fazer täysjyväpaahto;EN
+31848;Toast, wheat toast, contains wheat fiber, fazer;EN
+31854;Multigrain bread, oat bread, puikula kaura, fazer;EN
+31856;Toast, wheat toast, vaasan arkipaahto;EN
+31857;Toast, graham toast, vaasan arkipaahto;EN
+31858;Toast, rye toast, vaasan 100% ruispaahto;EN
+31859;Toast, oats and cheese, fazer roast rolls;EN
+31860;Multigrain bread, buttermilk bread, vaasan;EN
+31861;Toast, graham toast, vaasan isopaahto;EN
+31862;Toast, multigrain toast, vaasan isopaahto;EN
+31863;Multigrain bread, sliced, maalaisviipaleet, vaasan;EN
+31864;White bread, flatbread with cheese, lapin pakarin juustorieskaset, vaasan;EN
+31865;White bread, potato flatbread, lapin pakarin perunarieskaset, vaasan;EN
+31867;Multigrain bread, barley flatbread, lapin pakarin ohrarieskaset, vaasan;EN
+31868;Multigrain bread, sliced, moniviljaviipaleet, vaasan;EN
+31869;Multigrain bread, oat bread, kaurapalat, vaasan;EN
+31870;Multigrain bread, wholegrain wheat, täyshyvät 100% moniviljaleipä, vaasan;EN
+31871;Multigrain bread, sliced, täyshyvät 100% jyväiset viipaleet, vaasan;EN
+31872;White bread, wheat roll with cheese, vaasan;EN
+31876;Rye bread, rye bread roll, taikaruis 100%, vaasan;EN
+31877;White bread, carrot roll, muhku porkkanasämpylä, vaasan;EN
+31879;White bread, wheat roll, perhe vehnäsämpylä, vaasan;EN
+31880;Rye bread, taikaruis 100% vaalea ruisleipäviipale, vaasan;EN
+31881;Multigrain bread, aittaleipä, perheleipurit;EN
+31888;Milk, 0% fat, valio plus, 2 ug added vitamin d;EN
+31891;Milk, 3.5% fat, low-lactose, 1 ug added vitamin d;EN
+31894;Milk, coffee milk 2% fat, lactose-free, 1 ug added vitamin d;EN
+31895;Beef mince and mashed potato casserole, atria, ready meal;EN
+31899;Beef mince and mashed potato casserole, saarioinen, ready meal;EN
+31900;Sour milk, fat-free, lactose-free, 1 ug vitamin d;EN
+31903;Pudding, milk chocolate pudding, power cow/kidius;EN
+31904;Pudding, milk pudding, power cow/kidius;EN
+31905;Thin spinach pancake, spinach crepes, atria/pirkka;EN
+31908;Pudding, rice pudding with berries, risifrutti;EN
+31909;Pudding, semolina pudding with berries, risifrutti manna;EN
+31910;Macaroni and meat casserole, saarioinen/pirkka, ready meal;EN
+31911;Pudding, semolina chocolate pudding, risifrutti suklaamanna;EN
+31917;Macaroni and meat casserole, atria, ready meal;EN
+31918;Pudding, milk chocolate and vanilla pudding, paula;EN
+31919;Pudding with vanilla sauce and berries, industrial;EN
+31920;Pudding, chocolate pudding with whipped cream, susette;EN
+31922;Pudding, chocolate pudding, milk, home-made, average;EN
+31924;Multigrain bread, oivallus kuitupalat, pågen;EN
+31926;Soy product, soured, soya, fruit and grain, elovena, calcium, probiotics;EN
+31927;Liver casserole, pirkka/saarioinen, ready meal;EN
+31928;Liver casserole, without raisins, lactose-free, industrial, ready meal;EN
+31929;Pudding, chocolate soy pudding, calcium;EN
+31930;Pudding, chocolate soy pudding, calcium, vitamins;EN
+31932;Liver casserole, atria/rainbow, ready meal;EN
+31936;Pudding, soy pudding, calcium, vitamins;EN
+31937;Pudding, milk pudding, 2.7% fat, jacky;EN
+31938;Pudding, milk chocolate pudding, jacky;EN
+31940;Pudding, cocoa pudding, jacky;EN
+31941;Pudding, chocolate pudding, milk, corn starch, home-made;EN
+31942;Pudding, chocolate pudding, milk, gelatin, home-made;EN
+31943;Meatball, hk/pirkka, industrial;EN
+31945;Pudding, rice pudding with berries, pirkka/rainbow;EN
+31946;Pudding, rice pudding with berries, light, risifrutti;EN
+31947;Oat product, fermented oat and fruit, yosa smoothie;EN
+31949;Pudding, caramel pudding, less sugar, jacky;EN
+31950;Pudding, milk chocolate pudding, less sugar, jacky;EN
+31951;Milkshake, power cow, chocolate flavour;EN
+31952;Milkshake, power cow, vanilla/fruit;EN
+31953;Pudding, cocoa pudding, 0.9% fat, x-tra;EN
+31954;Pudding, milk pudding, 0.9% fat, x-tra;EN
+31955;Minced meat and mashed potato casserole, pirkka, ready meal;EN
+31956;Quark, flavoured, fat-free, artificially sweetened;EN
+31957;Meatball, atria, industrial;EN
+31959;Cooking cream, cheese flavour, 10% fat, low-lactose;EN
+31960;Meatball, less fat, hk, industrial;EN
+31962;Meatball, mummon lihapulla, hk, industrial;EN
+31965;Meatball, saarioinen, industrial;EN
+31966;Cream, vegetable fat, 26% fat, flora;EN
+31968;Ice cream, cream based, lactose-free;EN
+31969;Ice cream, cream based, low-lactose;EN
+31970;Ice cream with biscuit, cream based, puffet;EN
+31971;Ice cream, light, 4,5% fat;EN
+31972;Ice cream, cream based, flavoured, carte d'or stracciatella;EN
+31973;Jam pie, short bread crust, gluten-free, contains wheat starch;EN
+31974;Jam pie, basic sweet dough, gluten-free, contains wheat starch and milk;EN
+31975;Jam pie, shortbread crust, naturally gluten-free;EN
+31977;Basic sweet dough for pies, gluten-free, dairy-free, egg-free;EN
+31978;Basic sweet dough for pies, naturally gluten-free, dairy-free, egg-free;EN
+31979;Basic sweet dough for pies, gluten-free, dairy-free, contains wheat starch;EN
+31981;Basic sweet dough for pies, naturally gluten-free, dairy-free;EN
+31982;Basic sweet dough for pies, gluten-free, egg-free, wheat starch, milk;EN
+31984;Basic sweet dough for pies, naturally gluten-free, egg-free;EN
+31985;Berry pie, shortbread crust, gluten-free, contains wheat starch;EN
+31986;Berry pie, shortbread crust, naturally gluten-free;EN
+31987;Berry pie, basic sweet dough, gluten-free, contains wheat starch and milk;EN
+31988;Berry pie, basic sweet dough, naturally gluten-free, contains milk;EN
+31989;Apple pie, shortbread crust, gluten-free, contains wheat starch;EN
+31990;Ice cream, cream based, flavoured, carte d'or mascarpone;EN
+31991;Sorbet, raspberry, industrial;EN
+31992;Chicken meatball, saarioinen;EN
+31993;Chicken meatball, kariniemen;EN
+31994;Soy milk frozen dessert, ice cream cornet, gluten-free;EN
+31995;Chicken meatball, pirkka;EN
+31996;Rice ice cream;EN
+31997;Ice cream, yoghurt based, 4% fat;EN
+32000;Ice cream bar, cream based, caramel and chocolate topping;EN
+32001;Ice cream, cream based, flavoured, aino caramel;EN
+32002;Quark, flavoured, 2.9% fat;EN
+32004;Soy product, non-dairy cream substitute,5.2% fat;EN
+32005;Oat product, non-dairy substitute for cream, 7% fat;EN
+32006;Rice product, non-dairy cream substitute, vegetable fat, 7% fat;EN
+32007;Rice drink, calcium, vitamin d;EN
+32008;Soya drink, light, calcium, vitamins, alpro;EN
+32009;Meat and potato casserole, saarioinen, ready meal;EN
+32010;Ice cream with biscuit and chocolate, cream based;EN
+32012;Blood pancake, pirkka;EN
+32013;Oat porridge, oat flakes, apple and cinnamon, elovena;EN
+32015;Oat porridge, oat flakes, fruit and berries, elovena;EN
+32016;Lasagne, beef mince (17%), meal mixture;EN
+32018;Lasagne, pork-beef mince, meal mixture;EN
+32019;Lasagne, lean steak mince (7%), meal mixture;EN
+32020;Lasagne, chicken mince, meal mixture;EN
+32022;Lasagne, beef mince (17%), whole wheat pasta, meal mixture;EN
+32023;Pasta carbonara, måltid blandning, kokt;EN
+32024;Pasta with mushroom gravy, pasta dinner mix, cooked;EN
+32025;Pasta with cheese sauce, pasta dinner mix, cooked;EN
+32028;Lasagne, pork mince, meal mixture;EN
+32031;Pasta with tomato sauce, pasta dinner mix, cooked;EN
+32035;Meal mixture, beef and rice, cooked;EN
+32037;Macaroni and chicken mince casserole, whole wheat macaroni and low-fat milk;EN
+32038;Macaroni and pork mince casserole, low-fat milk, whole wheat macaroni;EN
+32039;Meal mixture, pork and rice, cooked;EN
+32040;Meal mixture, chicken and rice, cooked;EN
+32041;Meal mixture, soya and rice, cooked;EN
+32042;Meal mixture, beef and pasta, cooked;EN
+32043;Meal mixture, pork and pasta, cooked;EN
+32045;Meal mixture, chicken and pasta, cooked;EN
+32046;Meal mixture, soya and pasta, cooked;EN
+32047;Italian stew with pork beef mince;EN
+32049;Italian stew with beef mince;EN
+32051;Chicken mince gravy, no added fat;EN
+32052;Apple pie, basic sweet dough, gluten-free, contains wheat starch and milk;EN
+32053;Apple pie, shortbread crust, naturally gluten-free;EN
+32054;Apple pie, basic sweet dough, naturally gluten-free, contains milk;EN
+32055;Berry pie with quark filling, basic sweet dough, gluten-free, wheat starch, milk;EN
+32056;Berry pie with quark filling, basic sweet dough, naturally gluten-free, milk;EN
+32057;Berry pie with quark filling, shortbread crust, gluten-free, wheat starch, milk;EN
+32058;Berry pie with quark filling, shortbread crust, naturally gluten-free;EN
+32059;Breakfast cereal, rice, oat and maize, rice krispies multigrain;EN
+32060;Breakfast cereal, rice-wheat flakes, kellogg's special k classic, vitamins;EN
+32061;Breakfast cereal, rice-wheat flakes, kellogg's special k red berries;EN
+32062;Yoghurt, flavoured, 2% fat, 0.5 ug vitamin d;EN
+32063;Salad, beetroot salad with mayonnaise, saarioinen;EN
+32064;Breakfast cereal, cocoa rice krispies, kellogg's coco pops;EN
+32065;Muesli, crunchy, with apple and cinnamon, average, pirkka/rainbow;EN
+32066;Salad, beetroot salad with mayonnaise, atria;EN
+32067;Yoghurt, flavoured, fat-free, artificially sweetened, 0.5 ug vitamin d;EN
+32068;Muesli, crunchy, with yoghurt and stawberry, pirkka;EN
+32069;Salad, beetroot salad with mayonnaise, light, atria;EN
+32070;Breakfast cereal, chocolate cereal, multigrain, pirkka viidakkomuro;EN
+32071;Muesli, pirkka kilomysli, wheat, raisins, corn, oats and dried fruits;EN
+32072;Salad, cabbage, carrot, pineapple, mayonnaise, aurinkosalaatti, hk;EN
+32073;Muesli, crunchy, with dried berries, average, pirkka/rainbow;EN
+32075;Breakfast cereal, rye cereal, quaker fras;EN
+32076;Salad, italian salad with mayonnaise, saarioinen;EN
+32077;Breakfast cereal, chocolate cereal, weetabix minis;EN
+32078;Breakfast cereal, chocolate cereal, weetos choco, weetabix;EN
+32079;Salad, italian salad with mayonnaise, atria;EN
+32080;Yoghurt, flavoured, vitalinea, fat-free, 0.75 ug vitamin d;EN
+32081;Breakfast cereal, corn and buckwheat, top food sun flakes;EN
+32082;Salad, italian salad with mayonnaise, light, atria;EN
+32083;Muesli, nestle fitness, oat, whole wheat, rice flour, nuts, vitamins;EN
+32084;Yoghurt, flavoured, 2% fat, lactose-free, 0.5 ug vitamin d;EN
+32085;Yoghurt, flavoured, 2% fat, low-lactose, a+, 1 ug vitamin d;EN
+32086;Minced meat skewer, saarioinen;EN
+32087;Breakfast cereal, chocolate cereal, nestle nesquik duo, vitamins;EN
+32088;Yoghurt, bulgarian, plain, 3.5% fat, 1 ug vitamin d;EN
+32092;Minced meat hamburger patty, hk;EN
+32093;Breakfast cereal, chocolate cereal, nesquik, vitamins;EN
+32094;Hamburger, beef and wheat roll, hesburger;EN
+32095;Breakfast cereal, cheerios, maize, oat, barley, wheat, rice, nestle;EN
+32096;Hamburger, cheese burger, hesburger;EN
+32097;Hamburger, chicken burger, hesburger;EN
+32098;Breakfast cereal, rice-wheat flakes, nestle fitness, vitamins;EN
+32100;Minced meat hamburger patty, atria;EN
+32101;Mayonnaise, cucumber mayonnaise, hesburger;EN
+32103;Hamburger, beef and wheat roll, mcdonald's;EN
+32104;Hamburger, cheese burger, mcdonald's;EN
+32106;Hamburger, chicken burger, mcdonald's;EN
+32107;Hamburger, double burger, big mac, mcdonald's;EN
+32108;Chicken nuggets, deep fried, chicken mcnuggets;EN
+32109;Hamburger, atria;EN
+32110;Hotdog, atria/pirkka;EN
+32111;Hamburger, saarioinen;EN
+32112;Hamburger, hk;EN
+32114;Deep-fried meat pasty, saarioinen;EN
+32115;Pizza, salami pizza, atria/saarioinen;EN
+32116;Pizza, minced meat pizza, saarioinen;EN
+32118;Pizza, minced meat pizza, atria;EN
+32119;Pizza, tuna pizza, saarioinen;EN
+32120;Pizza, ham pizza, saarioinen;EN
+32121;Vegetable ball, saarioinen;EN
+32122;Pizza, mozzarella and tomato pizza, saarioinen;EN
+32123;Pizza, ham and pineapple pizza, atria;EN
+32125;Ham and mashed potato casserole, saarioinen, ready meal;EN
+32126;Pasta, wholegrain rice flour, naturally gluten-free, boiled without salt;EN
+32127;Pasta, wholegrain rice flour, naturally gluten-free, boiled, salt;EN
+32128;Deep fried meat pastie, portti;EN
+32129;Spaghetti and minced meat casserole, saarioinen, ready meal;EN
+32130;Vegetable patty, saarioinen;EN
+32132;Breakfast cereal, wheat, rice, yoghurt, nestle fitness & yoghurt, vitamins;EN
+32135;Breakfast cereal, wheat, rice, dried fruits, nestle fitness & fruits, vitamins;EN
+32136;Yoghurt, plain, activia, 3.4% fat;EN
+32138;Chicken and potato casserole, pirkka, ready meal;EN
+32142;Yoghurt with jam, fat 2%, low-lactose, 1 ug vitamin d;EN
+32144;Thin carrot pancake, carrot crepes, industrial;EN
+32145;Yoghurt, flavoured, fat-free, low-lactose, 1 ug vitamin d;EN
+32146;Onion, boiled without salt;EN
+32147;Peas, boiled without salt;EN
+32148;Chicken gravy;EN
+32149;Zucchini, boiled without salt;EN
+32150;Fruit puree, home-made babyfood;EN
+32151;Chicken vegetable gravy;EN
+32152;Frozen vegetable mix, grilled vegetables, salt, oil;EN
+32153;Bearnaise sauce mix, knorr;EN
+32154;Chicken stroganoff;EN
+32155;Frozen vegetable mix, carrot-bean, aurinkokasvikset;EN
+32156;Frozen vegetable mix, pea-sweet corn-carrot;EN
+32157;Frozen vegetable mix, broccoli-carrot-sweet pepper, kartanon kasvikset;EN
+32158;Frozen vegetable mix, root vegetables;EN
+32159;Frozen vegetable mix, broccoli-carrot-cauliflower, kruunusekoitus;EN
+32160;Fruity chicken gravy;EN
+32161;Frozen vegetable mix, carrot-parsnip-bean, maalaiskasvikset;EN
+32162;Frozen vegetable mix, broccoli-carrot-water chestnut;EN
+32163;Bearnaise sauce mix, campbell's/blå band;EN
+32164;Chicken fillet and rice, oven-baked;EN
+32165;Frozen vegetable mix, root vegetables, carrot-swede-onion;EN
+32166;Frozen vegetable mix, potato and vegetables;EN
+32167;Frozen vegetable mix, tomato and vegetables, pomodoro;EN
+32168;Bearnaise sauce made of bearnaise sauce mix, average;EN
+32169;Macaroni and chicken casserole, cooking cream (veg. fat);EN
+32170;Frozen vegetable mix, broccoli-sweet corn-carrot;EN
+32171;Frozen vegetable mix, carrot-bean-pea-cauliflower;EN
+32172;Soy product, alpro, soured, 2% fat, calcium, vitamins;EN
+32173;Frozen vegetable mix, average, boiled without salt;EN
+32174;Chicken stew, vegetables and pineapple;EN
+32175;Hollandaise sauce mix;EN
+32176;Hollandaise sauce made of hollandaise sauce mix;EN
+32177;Salad dressing, rapeseed oil, 15% fat, light, thousand island, felix;EN
+32178;Salad dressing, french dressing, rapeseed oil, 47% fat, saarioinen;EN
+32179;Salad dressing, rapeseed oil, 23% fat, light, kartanon, saarioinen;EN
+32181;Vegetable puree, home-made babyfood, without salt;EN
+32186;Frozen vegetable mix, carrot-broccoli-bean-sweet pepper-sweet corn, amerikan;EN
+32189;Curd milk, flavoured, 2% fat, 1 ug vitamin d;EN
+32191;Frankfurter, chicken, atria;EN
+32193;Soy product, soured, 2% fat, calcium;EN
+32194;Mozzarella cheddar sticks;EN
+32195;Frankfurter, chicken, hk;EN
+32196;Onion ring, breaded, deep-fried;EN
+32197;Frankfurter, turkey, light, atria;EN
+32198;Chicken cold cuts, 1.9% fat, hk;EN
+32199;Chicken soup;EN
+32201;Yoghurt, turkish/greek, 10% fat;EN
+32202;Shrimp, boiled, without salt;EN
+32203;Salmon, boiled, without salt;EN
+32204;Rainbow trout, boiled, without salt;EN
+32205;Salmon/rainbow trout, boiled, without salt;EN
+32206;Salmon vegetable casserole, processed cheese, milk;EN
+32208;Macaroni and salmon casserole, low-fat milk;EN
+32209;Macaroni and saithe casserole, low-fat milk;EN
+32211;Salmon and potato casserole, low-fat milk;EN
+32212;Saithe and potato casserole, low-fat milk;EN
+32214;Salmon spinach casserole, low-fat milk;EN
+32217;Fish fingers, oven-baked, industrial;EN
+32218;Fish fingers, salmon, findus, oven-baked;EN
+32224;Salmon and rice casserole;EN
+32225;Saithe and rice casserole;EN
+32228;Perch loaf, fish in rye crust;EN
+32229;Perch, fried;EN
+32230;Perch, fried in butter;EN
+32231;Pike, fried in butter;EN
+32232;Fish, average, fried in butter;EN
+32233;Bolognese, beef steak mince, thickened;EN
+32234;Bolognese, beef steak mince;EN
+32236;Bolognese, beef mince;EN
+32237;Rainbow trout, fried;EN
+32238;Rainbow trout fillet, cooking cream (veg. fat), oven-baked;EN
+32239;Bolognese, beef mince, thickened;EN
+32240;Rainbow trout fillet with cream, oven-baked;EN
+32241;Bolognese, pork beef mince, thickened;EN
+32242;Bolognese, pork beef mince;EN
+32243;Bolognese, lean steak mince 7%;EN
+32244;Bolognese, lean steak mince 7%, thickened;EN
+32245;Lean steak mince gravy, no added fat;EN
+32248;Saithe, fried;EN
+32249;Powan, fried in butter;EN
+32250;Powan, fried;EN
+32251;Baltic herring fillet with cream, oven-baked;EN
+32256;Salad, beetroot salad with mayonnaise, average of industrial products;EN
+32257;Chicken cold cuts, 2% fat, hk;EN
+32274;Cake, mocha cake;EN
+32278;Jam pie, basic sweet dough, whole milk;EN
+32279;Jam pie, shortbread crust with sour milk;EN
+32280;Berry pie, basic sweet dough, water;EN
+32282;Jam pie, basic sweet dough, fat-free milk, sweetened with fructose;EN
+32283;Jam pie, basic sweet dough, whole milk, sweetened with fructose;EN
+32284;Jam pie, basic sweet dough, low-fat milk, sweetened with fructose;EN
+32301;Margarine 60%, flora, normally salted;EN
+32308;Margarine 60%, flora, lactose-free;EN
+32316;Berry pie, basic sweet dough, fat-free milk, without sugar;EN
+32318;Berry pie, basic sweet dough, low-fat milk, without sugar;EN
+32319;Berry pie, basic sweet dough, whole milk, without sugar;EN
+32320;Berry pie, basic sweet dough, fat-free milk, sweetened with fructose;EN
+32321;Berry pie, basic sweet dough, low-fat milk, sweetened with fructose;EN
+32322;Berry pie, basic sweet dough, whole milk, sweetened with fructose;EN
+32323;Berry pie, basic sweet dough, fat-free milk, artificially sweetened;EN
+32324;Berry pie, basic sweet dough, low-fat milk, artificially sweetened;EN
+32325;Berry pie, basic sweet dough, whole milk, artificially sweetened;EN
+32326;Berry pie, shortbread crust with sour milk;EN
+32327;Berry pie, shortbread crust, sugar-free;EN
+32328;Berry pie, shortbread crust, sweetened with fructose;EN
+32329;Berry pie, shortbread crust, artificially sweetened;EN
+32330;Berry pie, basic sweet dough, egg-free;EN
+32331;Berry pie, basic sweet dough, water, dairy-free, egg-free;EN
+32332;Berry pie with quark filling, shortbread crust;EN
+32333;Apple pie, basic sweet dough, whole milk;EN
+32335;Rhubarb pie, shortbread crust with sour milk;EN
+32336;Rhubarb pie, basic sweet dough, fat-free milk;EN
+32338;Sweet shortbread pie crust with sour milk;EN
+32341;Margarine 60%, flora, high in salt;EN
+32342;Margarine 80%, for baking and cooking;EN
+32343;Vegetable fat spread 38%, becel light;EN
+32344;Vegatable oil product 82%, flora culinesse, fluid;EN
+32348;Vegatable oil product 82%, becel, fluid;EN
+32350;Vegetable fat spread 38%, becel light olive;EN
+32354;Margarine 80%, keiju rypsi, fluid;EN
+32357;Doughnut roasting fat 100%, sunnuntai;EN
+32360;Margarine 60%, benecol, lactose-free;EN
+32366;Blended spread 60%, bunge makuisa;EN
+32367;Muksu soy drink;EN
+32372;Vegetable fat spread 32%, benecol light olive;EN
+32374;Margarine 40%, benecol;EN
+32379;Macaroni stew with beef mince;EN
+32380;Macaroni stew with chicken mince;EN
+32381;Bolognese gravy mix, knorr;EN
+32382;Bolognese, beef mince, powdered gravy mix;EN
+32383;Bolognese, pork beef mince, powdered gravy mix;EN
+32384;Curry sauce, uncle ben's;EN
+32385;Cottage cheese, 1.5% fat;EN
+32386;Tikka masala, uncle ben's;EN
+32397;Tuna salad with pasta and legumes;EN
+32398;Macaroni stew with tuna;EN
+32401;Saithe with almond and cooking cream 15%;EN
+32403;Dipmix with milk extracts;EN
+32404;Dipmix, milk-free;EN
+32405;Sour cream sauce, dipping sauce, 10-12% fat;EN
+32407;Salami, light, 9% fat;EN
+32409;Crumbed ham, 3% fat;EN
+32416;Berry drink, proviva, average, contains probiotics;EN
+32417;Fruit drink, proviva, mango, contains probiotics;EN
+32418;Oat product, fermented oat, fruits and berries, yosa, average, probiotics;EN
+32422;Gefilus drink, effect drink, fruit, vitamin c, vitamin d, probiotics;EN
+32423;Yoghurt drink, fruit, probiotics, rainbow;EN
+32424;Yoghurt drink, berry, probiotics, rainbow;EN
+32431;Margarine 80%, sunnuntai, fluid, rapeseed oil;EN
+32437;Vegetable fat spread 30%, keiju deli olive;EN
+32438;Muesli with dried fruit, gluten-free, pirkka;EN
+32439;Breakfast cereal, whole wheat flakes, pirkka;EN
+32440;Breakfast cereal, whole wheat flakes with berries, added vitamins, pirkka;EN
+32441;Breakfast cereal, chocolate cereal, wheat loops, top food;EN
+32442;Breakfast cereal, honey wheat loops, top food;EN
+32443;Breakfast cereal, wheat, rye, oat, barley, top food;EN
+32444;Muesli with dried fruit, pirkka;EN
+32445;Breakfast cereal, chocolate cereal, pirkka;EN
+32446;Muesli, crunchy, rainbow;EN
+32447;Muesli, crunchy, with fruit, rainbow;EN
+32449;Cereal bar with yoghurt;EN
+32450;Cereal bar, wholegrain muesli bar;EN
+32451;Cereal bar with berries;EN
+32452;Cereal bar with fruits;EN
+32454;Karelian stew, pork and beef, root vegetables;EN
+32455;Grapefruit pink/red, without skin;EN
+32456;Artichoke;EN
+32459;Multigrain bread, puhtileipä, katri antell;EN
+32460;Multigrain bread, vaaleavaalea, katri antell;EN
+32461;White bread, wheat roll, lounassämpylä, katri antell;EN
+32462;Multigrain bread, bread roll, puhtisämpylä, katri antell;EN
+32463;Multigrain bread, bread roll, tuhti-moniviljasämpylä, katri antell;EN
+32464;Nut, brazil nut;EN
+32465;Multigrain bread, carrot roll, tuhti-porkkanasämpylä, katri antell;EN
+32466;Multigrain bread, potato rye bread, oiva perunalimppu, linkosuo;EN
+32467;Multigrain bread, tampereen rievä, linkosuo;EN
+32468;Multigrain bread, tummempi tuhatjyvä, linkosuo;EN
+32469;Multigrain bread, bread roll, aamiaissämpylä, perheleipurit;EN
+32470;White bread, wheat roll, evässämpylä, perheleipurit;EN
+32471;Multigrain bread, lingonberry, limpukka, pågen;EN
+32472;Multigrain bread, bread roll, rye and wheat flour, ruis-vehnätyynyt, vaasan;EN
+32473;Fruit drink, hevi shot, valio, pineapple-carrot-mango;EN
+32474;Fruit drink, hevi shot, valio, apple-carrot-strawberry;EN
+32477;Fruit drink, mehukatti fruit snack, strawberry;EN
+32478;Sweet & sour sauce, uncle ben's;EN
+32479;Fruit drink, mehukatti fruit snack, pear;EN
+32480;Salad dressing, rapeseed oil, 39% fat, kartanon, saarioinen;EN
+32481;Fruit drink, mehukatti fruit snack, fruit mix;EN
+32482;Salad dressing, rapeseed oil, 20% fat, talon, felix;EN
+32483;Salad dressing, rapeseed oil, 25% fat, greek, felix;EN
+32485;Salad dressing, rapeseed oil, honey, mustard, 36% fat, felix;EN
+32486;Sweet and sour chicken gravy, ready made sauce;EN
+32487;Curry chicken gravy, ready made sauce;EN
+32488;Beef mince and mashed potato casserole, mashed potato powder, water;EN
+32489;Beef mince and mashed potato casserole, mashed potato powder, milk;EN
+32490;Bun, cinnamon bun, gifflar cinnamon bun, pågen;EN
+32492;Cake, muffin, lemon, with crème filling, pågen;EN
+32493;Cake, muffin, cocoa, with crème filling, pågen;EN
+32494;Beef mince gravy;EN
+32495;Chicken mince gravy;EN
+32497;Lean steak mince gravy;EN
+32498;Beef steak mince gravy, no added fat;EN
+32500;Pork mince gravy, no added fat;EN
+32501;Pork beef mince gravy, no added fat;EN
+32502;Soft toffee covered with milk chocolate, dumle, fazer;EN
+32503;Sweet, candy, milk chocolate pastilles, m&m's, amerikan pastilli;EN
+32504;Beef steak mince gravy, milk-based;EN
+32505;Pork beef mince gravy, milk-based;EN
+32506;Bolognese, pork beef mince, powdered gravy mix;EN
+32507;Bolognese, beef steak mince, powdered gravy mix;EN
+32508;Beetroot gravy, low-fat milk;EN
+32509;Chocolate bar, caramel and cookie, twix;EN
+32510;Beetroot gravy;EN
+32511;Bun, quark filling, dallas bun, fazer;EN
+32513;Chicken nuggets, breaded, cheese filling, hk/kariniemi;EN
+32515;Bun, cinnamon bun, big texas, fazer;EN
+32517;Doughnut, berliner, bakery, jam and icing;EN
+32518;Swiss roll, napakymppi, fazer oululainen;EN
+32523;Chicken and potato casserole, hk, ready meal;EN
+32525;Raspberry kissel, raspberry soup;EN
+32526;Strawberry kissel, strawberry soup;EN
+32528;Pudding, cream pudding, industrial;EN
+32529;Pudding, chocolate pudding, industrial;EN
+32532;Oat and vanillla biscuit, jyväshyvä, lu;EN
+32534;Finn crisp, oat crispbread, oululainen, fazer;EN
+32535;Karelian pasty, rice filling, imatran, fazer;EN
+32536;Karelian pasty, rice filling, fazer;EN
+32537;Minced meat hamburger patty, grillitassu, saarioinen, fried without fat;EN
+32538;Rhubarb pie, basic sweet dough, whole milk;EN
+32539;Rhubarb pie, basic sweet dough, low-fat milk;EN
+32540;Mulled wine, non-alcololic;EN
+32541;Quark, flavoured, 7% fat, valio;EN
+32542;Chocolate chip cookie, jyväshyvä suklaapisara, lu;EN
+32544;Biscuit for children, carneval prinsessa, rapeseed oil-based;EN
+32547;Biscuit, jyväshyvä cracotte, whole wheat;EN
+32548;Biscuit, jyväshyvä cracotte, sesame seeds;EN
+32553;Margarine 80%, fluid, average;EN
+32555;Biscuit, bastogne, lu;EN
+32556;Spinach soup, apetit, frozen soup;EN
+32557;Spinach soup, pirkka, frozen soup;EN
+32558;Spinach soup, saarioinen, ready meal;EN
+32560;White sauce with spinach, low-fat milk, thickened with flour;EN
+32561;Sponge cake;EN
+32562;Oat product, fermented oat, yosa naturell;EN
+32567;Cheese, oltermanni rypsi, rapseed oil, 24% fat;EN
+32568;Blended spread 75%, 10 ug vitamin d;EN
+32570;4-grain flakes, riihikosken vehnämylly;EN
+32592;Sour milk, butter milk, 0.3% fat, 0.5 ug vitamin d;EN
+32593;Sour milk, 0.5 ug vitamin d;EN
+32594;Sour milk, fat-free, low-lactose, 0.5 ug vitamin d;EN
+32595;Sour milk, fat-free, lactose-free, 0.5 ug vitamin d;EN
+32596;Yoghurt, flavoured, fat-free, partially artificially sweetened, 1 ug vitamin d;EN
+32597;Yoghurt, flavoured, fat-free, lactose-free, artificially sweetened, 1 ug vit. d;EN
+32598;Yoghurt, plain, fat-free;EN
+32599;Yoghurt, flavoured, 2% fat, 1 ug vitamin d;EN
+32600;Yoghurt, drinkable, danonino dino, 1.6% fat, 0.9 ug vitamin d;EN
+32602;Sausage, fresh sausage, chorizo, saarioinen;EN
+32604;Omelette roll, vegetable and mushroom filling;EN
+32605;Liver stew with bacon;EN
+32607;Tofu and potato casserole, contains egg;EN
+32608;Tofu vegetable gravy, with tomato;EN
+32609;Tofu and mixed beans gravy, with tomato;EN
+32610;Lentil patty, lentil ball, contains egg;EN
+32611;Fried shrimp with chili and garlic marinade, fried;EN
+32612;Fried shrimp with noodles and coconut;EN
+32613;Creamy shrimp stew, thickened;EN
+32614;Soy-vegetable casserole, cooking cream;EN
+32615;Onion soup, french, gratinated with bread and cheese;EN
+32616;Pudding, panna cotta, contains gelatin;EN
+32617;Crème brûlée;EN
+32618;Bbq-sauce for meat, home-made;EN
+32619;Meal replacement, shake, naturdiet;EN
+32622;Meal replacement, smoothie, naturdiet;EN
+32623;Meal replacement, drink powder, naturdiet;EN
+32624;Meal replacement, drink powder and water, naturdiet;EN
+32625;Meal replacement, chocolate bar, naturdiet;EN
+32626;Meal replacement, caramel bar, naturdiet;EN
+32627;Meal replacement, dark chocolate bar, naturdiet;EN
+32628;Meal replacement, smoothie, drink powder, easy diet;EN
+32629;Meal replacement, smoothie, drink powder and water, easy diet;EN
+32630;Meal replacement, soup powder, asparagus/fish/chicken/mushroom, easy diet;EN
+32631;Meal replacement, soup from powder, asparagus/fish/chicken/mushroom, easy diet;EN
+32632;Meal replacement, soup powder, tomato/texmex/thai, easy diet;EN
+32633;Meal replacement, soup powder and water, tomato/texmex/thai, easy diet;EN
+32636;Meal replacement, smoothie, drink powder, nutrifast;EN
+32637;Meal replacement, smoothie, drink powder and water, nutrifast;EN
+32638;Meal replacement, milk shake, drink powder, allevo;EN
+32639;Meal replacement, milk shake, drink powder and water, allevo;EN
+32640;Meal replacement, smoothie, drink powder, allevo;EN
+32641;Meal replacement, smoothie, drink powder and water, naturdiet;EN
+32642;Meal replacement, soup powder, potato and leek, allevo;EN
+32643;Meal replacement, soup powder and water, potato and leek, allevo;EN
+32644;Meal replacement, soup powder, broccoli, basil and couscous, allevo;EN
+32645;Meal replacement, soup powder and water, broccoli, basil and couscous, allevo;EN
+32646;Meal replacement, low calorie drink, allevo;EN
+32647;Meal replacement, low calorie bar, allevo;EN
+32648;Meal replacement, soup powder, nutrilett;EN
+32649;Meal replacement, soup powder and water, nutrilett;EN
+32650;Meal replacement, hunger control, drink, nutrilett;EN
+32651;Meal replacement, milk shake, drink powder, nutrilett;EN
+32652;Meal replacement, milk shake, drink powder and water, nutrilett;EN
+32653;Meal replacement, hot and cold mocca, drink powder, nutrilett;EN
+32654;Meal replacement, hot and cold mocca, drink powder and water, nutrilett;EN
+32655;Meal replacement, hunger control, bar, nutrilett;EN
+32656;Meal replacement, low calorie bar, average;EN
+32657;Meal replacement, soup powder, average;EN
+32658;Meal replacement, soup powder and water, average;EN
+32659;Meal replacement, milk shake, drink powder, average;EN
+32660;Meal replacement, milk shake, drink powder and water, average;EN
+32661;Meal replacement, smoothie, drink powder, average;EN
+32662;Meal replacement, smoothie, drink powder and water, average;EN
+32664;Blended spread 75%, oivariini, normally salted, low-lactose;EN
+32665;Blended spread 75%, oivariini, less salt, low-lactose;EN
+32666;Blended spread 75%, oivariini, heavily salted, low-lactose;EN
+32667;Meal replacement, protein drink powder, gnld, 49% protein;EN
+32668;Blended spread 75%, oivariini, normally salted, low-lactose, soft;EN
+32669;Blended spread 60%, oivariini, less fat, low-lactose;EN
+32670;Blended spread 75%, oivariini, lactose free;EN
+32671;Blended spread 43%, ingmariini, low-lactose;EN
+32672;Blended spread 82%, ingmariini sea salt, low-lactose;EN
+32673;Blended spread 75%, ingmariini, normally salted, low-lactose;EN
+32674;Meal replacement, protein drink powder and milk, gnld;EN
+32675;Meal replacement, protein drink powder, nutrishake, gnld, 55% protein;EN
+32676;Blended spread 57%, ingmariini, less fat, low-lactose;EN
+32677;Meal replacement, protein drink powder and milk, nutrishake, gnld;EN
+32678;Soya product, femisoya;EN
+32679;Soya product, femisoya plus;EN
+32680;Soya product, berrysoya;EN
+32682;Salad, potato salad with mayonnaise, industrial, pirkka/saarioinen;EN
+32685;Salad, potato salad with mayonnaise, industrial, atria;EN
+32687;Salad, potato salad with mayonaise, light, atria/hk/pirkka;EN
+32688;Salad, potato salad, olive and rapeseed oil, without mayonnaise;EN
+32691;Fish fingers, fried, industrial;EN
+32693;Croissant, home-made;EN
+32694;Pork and beef steak mince, 7% fat;EN
+32695;Milk chocolate candy with peppermint flavour, marianne, fazer;EN
+32696;Sesame nuggets with soy, deep-fried, hälsans kök;EN
+32697;Muesli, crunchy;EN
+32699;Suffeli puffi snacks,puffed corn and chocolate flavored coating,very low glutein;EN
+32700;Cereal bar with chocolate;EN
+32701;Soft ice cream;EN
+32702;Soy milk frozen dessert, tofuline, vanilla;EN
+32703;Chocolate nut spread;EN
+32704;Lean steak mince, 9% fat;EN
+32705;Ice cream, vegetable fat;EN
+32707;Soft ice cream with chocolate sauce;EN
+32708;Whipped cream spray, industrial;EN
+32709;Margarine 80%, cooking margarine, average;EN
+32710;Cooking cream, vegetable fat, 4% fat, low-lactose;EN
+32711;French fries, deep-fried;EN
+32713;Popcorn, microwave popcorn;EN
+32714;Cream cracker with rye flour, kantolan;EN
+32715;Biscuit, industrial, average;EN
+32716;Cooking cream, vegetable fat, 5% fat, low-lactose;EN
+32717;Breakfast cereal, corn flakes, gluten-free, no added sugar, urtekram;EN
+32718;Breakfast cereal, flakes and fibre, naturally gluten-free, vitamins, semper;EN
+32719;Minestrone soup with beef steak mince and vegetables;EN
+32720;Breakfast cereal, naturally gluten-free, average, added vitamins, semper;EN
+32721;Cooking cream, vegetable fat, 7% fat, low-lactose;EN
+32722;Sausage, fresh sausage, kabanossi, rapeseed pork, average, hk;EN
+32723;Cake, chocolate cake, naturally gluten-free, milk-free;EN
+32724;Sausage, fresh sausage, chorizo, home-made;EN
+32726;Multigrain bread, carrot roll, fat-free milk, dark wheat flour, flour mix;EN
+32728;Multigrain bread, carrot roll, whole milk, dark wheat flour, flour mix;EN
+32729;Asparagus, boiled without salt;EN
+32730;Toast, wholegrain toast, vaasan 100% täysjyväpaahto;EN
+32731;Noodle, whole wheat;EN
+32732;Noodle, whole wheat, boiled, salt;EN
+32733;Kinder chocolate egg;EN
+32734;Soya drink, sugar, calcium, vitamins, alpro;EN
+32735;Yoghurt, plain, a+, fat 2.5%, 1 ug vitamin d, low-lactose;EN
+32737;Sour milk, acidophilus bifidus, 2.5% fat, 1 ug vitamin d, probiotics;EN
+32739;Cider, pear cider, alcohol-free, 0.02% volume, rainbow;EN
+32740;Beer, alcohol-free, 0.0% volume;EN
+32741;Gingerbread dough, home-made;EN
+32743;Gingerbread dough, industrial;EN
+32744;Plum marmalade;EN
+32745;Energy drink with added vitamins, partially artificially sweetened;EN
+32746;Energy drink with added vitamins, artificially sweetened;EN
+32747;Pizza crust, basic pizza dough;EN
+32752;Pizza, anchovy and olive pizza;EN
+32753;Pizza, champignon pizza;EN
+32755;Pizza, beef mince pizza;EN
+32756;Pizza, pork beef mince pizza;EN
+32757;Pizza, chicken and pineapple pizza;EN
+32758;Soya drink, organic, alpro;EN
+32759;Pizza, vegetarian pizza, mushroom, onion, sweet pepper, olive;EN
+32761;Pizza, kebab pizza, onion, pepperoni;EN
+32762;Pizza, ham pizza, pineapple, blue cheese;EN
+32763;Pizza, ham and pineapple pizza;EN
+32764;Pizza, ham and mushroom pizza;EN
+32765;Pizza, mozzarella pizza, tomato, pesto;EN
+32766;Pizza, salami pizza;EN
+32767;Pizza, tuna pizza;EN
+32768;Pizza, shellfish pizza, mussel, shrimp, olive;EN
+32769;Pizza, margherita pizza, tomato sauce and cheese;EN
+32770;Mineral water, novelle plus, added zinc and vitamin e, sweetened with fructose;EN
+32771;Mineral water, novelle plus, with added calcium;EN
+32772;Mineral water, novelle plus, with added vitamin c and magnesium;EN
+32773;Mineral water, sweetened with fructose, novelle friss, average;EN
+32774;Oat drink without milk, nalle chocolate, calcium, vitamin d;EN
+32775;Polypop-jelly, for children;EN
+32777;Pasta bolognese, kokkikartano snellman, ready meal;EN
+32778;Slicing sausage, lauantai, 18% fat, average;EN
+32779;Slicing sausage, lauantai, 19% fat, contains milk protein;EN
+32780;Slicing sausage, lauantai, 19% fat, contains soy protein;EN
+32781;Salmon pasta casserole, kokkikartano snellman, ready meal;EN
+32782;Macaroni and meat casserole, industrial, kokkikartano snellman, ready meal;EN
+32783;Oat drink without milk, rainbow, calcium, vitamins;EN
+32784;Slicing sausage, lauantai, light, 10% fat, average;EN
+32786;Slicing sausage, lauantai, 17% fat, average of industrial products;EN
+32787;Rice drink, rice dream chocolate, calcium;EN
+32790;Rice drink, rice dream hazelnut and almond;EN
+32792;Lasagne bolognese, kokkikartano snellman, ready meal;EN
+32794;Ham and pineapple pasta casserole, kokkikartano snellman, ready meal;EN
+32795;Barbeque sausage, light, 7% fat;EN
+32796;Barbeque sausage, contains soy protein, average;EN
+32798;Chicken pasta casserole, kokkikartano snellman, ready meal;EN
+32799;Chicken-bacon pasta casserole, kokkikartano snellman, ready meal;EN
+32800;Rice ice cream, vanilla-chocolate, r-ice, ingman;EN
+32801;Cabbage casserole, beef, kokkikartano snellman, ready meal;EN
+32802;Rice ice cream, vanilla, r-ice, ingman;EN
+32804;Ice cream, light, artificially sweetened, vanilla-strawberry, ingman;EN
+32805;Ham and potato casserole, kokkikartano snellman, ready meal;EN
+32806;Minced meat and mashed potato casserole, kokkikartano snellman, ready meal;EN
+32807;Minced meat potato casserole, kokkikartano snellman, ready meal;EN
+32808;Fish and potato casserole, jansson's temptation, snellman, ready meal;EN
+32811;Spagetti bolognese, hk, ready meal;EN
+32812;Rice pasty, riisipyörönen;EN
+32813;Ham pie, shortcrust pastry;EN
+32814;Sultsina pasty;EN
+32815;Meat pasty, meat in rye crust;EN
+32816;Deep-fried meat pasty, industrial, average;EN
+32819;Potato pastie, rye crust;EN
+32820;Cake, muffin, gluten-free;EN
+32821;Fruit cake;EN
+32822;Fish and mashed potato, hk, ready meal;EN
+32823;Thin pancake, fat-free milk;EN
+32824;Thin pancake, beestings;EN
+32825;Thin pancake, whole milk;EN
+32826;Thin pancake, water;EN
+32827;Oven-baked pancake, sour milk;EN
+32828;Oven-baked pancake, fat-free milk;EN
+32829;Oven-baked pancake, beestings;EN
+32830;Oven-baked pancake, whole milk;EN
+32831;Thin pancake, sour milk;EN
+32832;Vanilla sauce, low-fat milk, potato flour;EN
+32833;Waffle, low-fat milk;EN
+32834;Waffle, fat-free milk;EN
+32835;Waffle, whole milk;EN
+32836;Waffle, cream;EN
+32837;Caramel sauce, toffee sauce;EN
+32838;Waffle, water;EN
+32839;Baked apple;EN
+32840;Spinach souffle, low-fat milk;EN
+32841;Spinach souffle, fat-free milk;EN
+32842;Spinach souffle, whole milk;EN
+32843;Spinach souffle, cream;EN
+32845;Chocolate sauce;EN
+32847;Chicken fricassee, hk, ready meal;EN
+32848;Chicken and goat cheese pasta, hk, ready meal;EN
+32849;Breakfast cereal, wheat, rye, oat, maize, elovena whole grain oat cereals;EN
+32850;Baltic herring jelly;EN
+32851;Liver casserole, barley, fat-free milk;EN
+32852;Doughnut, industrial;EN
+32853;Liver casserole, rice, fat-free milk;EN
+32854;Liver casserole, rice, whole milk;EN
+32855;Blin with fat-free milk;EN
+32856;Blin with low-fat milk;EN
+32857;Blin with whole milk 3.5%;EN
+32858;Stuffed cabbage rolls, beef steak mince;EN
+32859;Vendace loaf, fish in rye crust;EN
+32862;Blood bread, rye and barley bread with blood;EN
+32863;Rössymaito, potato, pork, blood and milk;EN
+32864;Rössypottu, potato, pork and blood stew;EN
+32865;Risotto, fish risotto;EN
+32866;Risotto, sea food risotto, shrimp, mussel;EN
+32867;Swede loaf, rye crust;EN
+32868;Pot loaf with vendace;EN
+32870;Leek, boiled without salt;EN
+32871;Meatball, pork-beef mince, mushrooms, fried;EN
+32872;Creamy lemon sauce;EN
+32873;Nettle soup, milk;EN
+32874;Creamy nettle soup, vegetable bouillon and cream;EN
+32875;Vegetable soup with new potatoes, milk-based, summer soup;EN
+32876;Ham and potato casserole, hk, ready meal;EN
+32877;Creamy shrimp soup, thickened;EN
+32878;White sauce, fat-free milk, thickened with flour and fat;EN
+32879;White sauce, whole milk, thickened with flour and fat;EN
+32880;Ham gravy with low-fat milk;EN
+32881;Ham gravy with fat-free milk;EN
+32882;Ham gravy with whole milk;EN
+32883;Beetroot gravy, fat-free milk;EN
+32884;Beetroot gravy, whole milk;EN
+32885;Oat drink without milk, nordic, calcium, vitamin d;EN
+32886;Chinese vegetable gravy, sweet and sour;EN
+32887;Rice drink, nordic, calcium, vitamin d;EN
+32888;Caramel sauce;EN
+32889;Fish stew, low-fat milk;EN
+32890;Fish stew, fat-free milk;EN
+32891;Berry pie, double-crust, without egg;EN
+32892;Fruit drink, hyvää päivää, cranberry, partially artificially sweetened;EN
+32893;Fruit drink, hyvää päivää, citrus, partially artificially sweetened, vitamins;EN
+32894;Fruit drink, hyvää päivää, sweetened with fructose, with added vitamins;EN
+32895;Nut, macadamia nut;EN
+32897;Energy drink, energy water, teho, olvi, with added vitamins;EN
+32898;Swede casserole, fat-free milk;EN
+32899;Swede casserole, whole milk;EN
+32900;Swede casserole, low-fat milk;EN
+32901;Thin spinach pancake, spinach crepes, fat-free milk;EN
+32903;Berry kissel, berry drink;EN
+32904;Turkey salad with fruits, sour cream dressing;EN
+32905;Thin nettle pancake, low-fat milk;EN
+32906;Thin nettle pancake, fat-free milk;EN
+32907;Thin nettle pancake, whole milk;EN
+32908;Turkey salad with pasta, oil-based dressing;EN
+32910;Roasted beef salad with potato, oil-based sauce;EN
+32911;Pudding, rice pudding, home-made;EN
+32914;Couscous salad with goat cheese, oil-based dressing;EN
+32915;Mozzarella salad with tomato and basil, oil-based dressing;EN
+32916;Salad nicoise, potato, boiled egg, anchovis;EN
+32917;Thin potato pancake, low-fat milk;EN
+32918;Thin potato pancake, fat-free milk;EN
+32920;Potato patty, low-fat milk;EN
+32921;Potato patty, whole milk;EN
+32922;Salmon salad, boiled eggs, orange and broccoli, oil-based dressing;EN
+32923;Salmon salad, asparagus, avocado, oil-based dressing;EN
+32925;Cheese, goat cheese, chèvre, 30% fat;EN
+32926;Doughnut, fat-free milk, home-made;EN
+32927;Goat cheese salad with boiled beetroot, oil-based dressing;EN
+32928;Minced meat gravy and mashed potatoes, hk, ready meal;EN
+32930;Goat cheese salad with pear and tomato, oil-based dressing;EN
+32931;Cheese, goat cheese, chèvre, 30% fat, fried;EN
+32932;Salmon and potato casserole, hk, ready meal;EN
+32936;Sausage hash, rign bologna, potato, egg;EN
+32937;Egg, fried, without fat and salt;EN
+32938;Egg yolk, fried, without fat and salt;EN
+32939;Egg white, fried, without fat and salt;EN
+32943;Saithe with white sauce, cheese, fat-free milk, breadcrumbs, oven-baked;EN
+32944;Quark pie, basic sweet dough, fat-free milk;EN
+32947;Crispbread, whole rye bread, vaasan pieni pyöreä/maukas, 18% fibre;EN
+32949;Crispbread, whole rye bread, rye bran, vaasan kunto, 21% fibre;EN
+32950;Crispbread, multigrain, sesame seeds, vaasan pieni pyöreä;EN
+32951;Crispbread, whole grain, 5-grain, vaasan täyshyvät, 21% fibre;EN
+32955;Multigrain bread, bread roll, crushed grains, wheat flour, leipäaitta, lidl;EN
+32956;Multigrain bread, graham roll, wheat and graham flour, crushed grains, lidl;EN
+32957;Multigrain bread, wheat flour, crushed grains, pehmeä moniviljaleipä, lidl;EN
+32958;Multigrain bread, oat bread, perinteinen kauraleipä, leipäaitta, lidl;EN
+32959;White bread, wheat flour, olive oil, high sodium, arinaleipä, leipäaitta, lidl;EN
+32960;Multigrain bread, wheat and rye flour, crushed grains, ruisrouheviipaleet, lidl;EN
+32961;Multigrain bread, buttermilk bread, wheat, graham and dark wheat flour, lidl;EN
+32962;Rye bread, wholegrain rye, wheat flour, ruispalat, leipäaitta, lidl;EN
+32963;Chocolate digestive biscuit;EN
+32964;Rye bread, wholegrain rye, wheat flour, perinteinen varrasleipä, leipäaitta,lidl;EN
+32965;Rye bread, wholegrain rye, potato flakes, pyöreät ruispalaset, leipäaitta, lidl;EN
+32966;Multigrain bread, wheat flour, mixed seeds, fitnesspalat, leipäaitta, lidl;EN
+32968;Bagel;EN
+32970;Bagel, butter bagel;EN
+32971;Mushrooms filled with bacon and cream cheese spread;EN
+32972;Mushrooms filled with bacon and processed cheese;EN
+32973;Oven-baked apple pancake, low-fat milk;EN
+32974;Biscuit, industrial, sondey biscuit assortment, lidl;EN
+32975;Multigrain bread, wheat flour, crushed grains, vaaleat sekaleipäpalat, lidl;EN
+32976;Multigrain bread, wheat and dark wheat flour, maalaisviipaleet, leipäaitta, lidl;EN
+32977;Multigrain bread, graham flour, crushed wheat grains, täysjyväviipaleet, lidl;EN
+32978;White bread, pre-baked wheat roll, high-sodium, rivercote, lidl;EN
+32979;Toast, wheat toast, mcennedy sliced brown bread, lidl, high-sodium;EN
+32980;White bread, hot dog bun, kohberg, lidl;EN
+32981;Crispbread, whole rye bread, contains milk, rivercote lidl;EN
+32982;Butter biscuit, sondey butterkeks classics, lidl;EN
+32983;Butter biscuit, wholewheat, sonday butterkeks vollkorn, lidl;EN
+32984;Crispbread, wasa oat, oat and wheat flour, oat flakes;EN
+32985;Biscuit covered with chocolate;EN
+32986;Biscuit covered with dark chocolate;EN
+32987;Wafer biscuit, favorini, lidl, average;EN
+32988;Carrot rice pasty, low-fat milk;EN
+32989;Carrot rice pasty, fat-free milk;EN
+32990;Carrot rice pasty, whole milk;EN
+32991;Biscuit, marie biscuit;EN
+32992;Digestive biscuit, oat and graham flour;EN
+32993;Brownie cookie, industrial;EN
+32994;Danish pastry, vanilla custard, low-fat milk, gluten-free, contains wheat starch;EN
+32995;Pork beef mince and rice casserole, capsicum, peas;EN
+32996;Macaroni and sausage casserole, low-fat milk;EN
+32997;Milk chocolate covered biscuits with filling, amanie, lidl;EN
+32998;Oat biscuit with egg, industrial, lidl;EN
+32999;Chocolate filled biscuit with meringue, catago chocobit, lidl;EN
+33000;Chocolate and cappucino filled biscuit, catago medaillon cappuccino, lidl;EN
+33001;Breakfast cereal, corn cereal, honey balls, lidl;EN
+33002;Breakfast cereal, cereal pillows, nougat pillows, lidl;EN
+33003;Breakfast cereal, chocolate cereal, choco moons, lidl;EN
+33005;Breakfast cereal, chocolate cereal, flakers choco, lidl;EN
+33006;Breakfast cereal, wheat flakes, bran flakes, lidl;EN
+33009;Berry pie, double crust;EN
+33010;Breakfast cereal, wheat flakes, fruit & fibre, lidl;EN
+33011;Breakfast cereal, wheat flakes, nuts, almond, nut flakers, lidl;EN
+33012;Breakfast cereal, corn flakes with white chocolate, caramel flakes, lidl;EN
+33013;Breakfast cereal, sugar-coated corn flakes with apple, lidl;EN
+33014;Pizza, ham and bolognese pizza, special pizza saarioinen;EN
+33015;Risotto, ham, shrimp and olive risotto;EN
+33016;Sauerkraut soup with pork;EN
+33017;Millet gruel, milk;EN
+33020;Sweet chili sauce;EN
+33021;Spice paste, curry paste, mild, tikka masala;EN
+33022;Spice paste, ginger paste;EN
+33023;Ginger root, raw;EN
+33024;Ginger, pickled;EN
+33026;Soya mince, white or dark, boiled without salt;EN
+33027;Meatball, kartanon, lidl, industrial;EN
+33028;Meatball, enebacken, lidl, industrial;EN
+33029;Minced meat and mashed potato casserole, lidl, ready meal;EN
+33030;Macaroni and meat casserole, industrial, lidl, ready meal;EN
+33031;Liver casserole, kartanon, lidl, ready meal;EN
+33032;Blood pancake, atria/kartanon, lidl;EN
+33033;Thin spinach pancake, spinach crepes, lidl;EN
+33034;Hamburger, lidl;EN
+33035;Hamburger with cheese, lidl;EN
+33036;Bean patty;EN
+33038;Sharon, kaki, persimon;EN
+33040;Beef, boiled, without salt;EN
+33042;Yoghurt, plain, a+, fat 4%, 1 ug vitamin d, lactose-free;EN
+33043;Stuffed cabbage rolls, mushrooms;EN
+33044;Mushroom patty without meat;EN
+33045;Liver stroganoff;EN
+33046;Liver pate;EN
+33047;Cooking cream, vegetable fat, 13% fat, low-lactose;EN
+33048;Cooking cream, vegetable fat, 7 % fat;EN
+33049;Cooking cream, vegetable fat, 4% fat;EN
+33050;Pudding, rice pudding with berries, home-made;EN
+33055;Potato, baked, filled with smoked baltic herring and crème fraiche;EN
+33056;Potato, baked, filled with ham and cream cheese;EN
+33057;Potato, baked, filled with smoked ham, cream cheese and mushrooms;EN
+33059;Multigrain bread, sliced, viljaisat perheviipaleet, oululainen;EN
+33060;Papaya, dried;EN
+33061;Chicken fillet, boiled without salt;EN
+33062;Chicken, boiled without salt;EN
+33063;Risotto, chicken and vegetable risotto;EN
+33064;Pilaf rice, spicy, boiled in meat bouillon;EN
+33065;Mango, dried;EN
+33066;Wheat tortilla, burrito, wrap, tuna filling;EN
+33067;Exotic fruit average, mango, papaya, dried;EN
+33068;Beef jelly, home-made;EN
+33069;Popcorn;EN
+33070;Fig, dried;EN
+33072;Beef mince soup, saarioinen, ready meal;EN
+33073;Shrimp soup, industrial, saarioinen, ready meal;EN
+33074;Puréed carrot soup, saarioinen, ready meal;EN
+33075;Reindeer soup with cheese, saarioinen, ready meal;EN
+33077;Pineapple, dried;EN
+33079;Chicken pasta, saarioinen, ready meal;EN
+33080;Lasagne, vegetable lasagne, saarioinen, ready meal;EN
+33083;Lasagne bolognese, saarioinen, ready meal;EN
+33084;Spaghetti bolognese, saarioinen, ready meal;EN
+33085;Tuna pasta, saarioinen, ready meal;EN
+33086;Minced meat potato casserole, saarioinen, ready meal;EN
+33088;Meat hot pot, saarioinen, ready meal;EN
+33089;Creamy casserole with chicken and pasta, saarioinen, ready meal;EN
+33090;Ham and bacon casserole, saarioinen, ready meal;EN
+33091;Avocado oil;EN
+33092;Cabbage patty without meat;EN
+33093;Macaroni and mushroom casserole, low-fat milk;EN
+33094;Ham gravy with tomato;EN
+33095;Nut, pecan;EN
+33096;Ham gravy;EN
+33097;Sausage bratwurst;EN
+33098;Multigrain bread, bread roll, tumma lounassämpylä, vaasan;EN
+33100;White bread, wheat roll, vaalea lounassämpylä, vaasan;EN
+33101;Macaroni, boiled, oil, salt;EN
+33102;Nut, peanut, honey-roasted;EN
+33103;Yoghurt, flavoured, valio olo, 2.7% fat, lactose-free, 1ug vitamin d, probiotics;EN
+33105;Pretzel, hard;EN
+33106;Yoghurt, indian yoghurt drink, mango lassi;EN
+33107;Root vegetable hash, no potato;EN
+33108;Pretzel, soft;EN
+33109;Indian potato stew, bombay potatoes;EN
+33111;Milk, 3% fat, lactose-free, 1 ug added vitamin d;EN
+33112;Red pesto sauce, pesto rosso, without parmesan;EN
+33113;Juice drink, fruit, berry, mehukatti, vitamin c and d, calcium, contains sugar;EN
+33114;Salt stick;EN
+33116;Cheese, feta type salad cheese in brine, fat 2-5%;EN
+33117;Sour milk, fat-free, valio plus, low-lactose, 2 ug vitamin d;EN
+33118;Cheese, feta type salad cheese in brine, fat 6-8%;EN
+33119;Cheese, feta type salad cheese in brine, fat 9-11%;EN
+33120;Cheese, feta cheese in oil, 22% fat, cow's milk;EN
+33121;Hemp seed, whole;EN
+33122;Soya drink, plain, calcium, vitamins, alpro;EN
+33123;Chicken meatloaf, saarioinen;EN
+33124;Soya drink calcium, vitamins, rainbow;EN
+33125;Soya drink,  plain, calcium, organic, pirkka;EN
+33126;Pork beef mince and beetroot casserole, horeca, saarioinen;EN
+33128;Nut, chili nut;EN
+33129;Yoghurt, natural, fat 5.5%, lactose-free;EN
+33130;Nut, cashew nut, salt;EN
+33131;Nut, pistachio nut, salt;EN
+33132;Soya drink,  plain, calcium, gogreen;EN
+33133;Soya drink, original, calcium, gogreen;EN
+33134;Soya drink, chocolate, calcium, organic, pirkka;EN
+33135;Soya drink,  organic, rainbow;EN
+33136;Soya drink,  calcium, vitamin d, nordic;EN
+33137;Soya drink, chocolate, light, calcium, vitamins, alpro;EN
+33138;Soya drink, chocolate, calcium, vitamins, alpro;EN
+33139;Soya drink, calcium, vitamins, soywell soya drink, lidl;EN
+33140;Breakfast cereal, rice-wheat flakes, kellogg's all-bran yoghurty, vitamins;EN
+33141;Yoghurt, flavoured, 2% fat, low lactose, 0.9 ug vitamin d;EN
+33142;Yoghurt, flavoured, fat-free, lactose-free, 1 ug vitamin d;EN
+33143;Vegetable, deep-fried;EN
+33144;Fruit, deep-fried;EN
+33145;Breakfast cereal, wheat flakes, kellogg's all-bran regular, vitamins;EN
+33147;Quark, flavoured, 2.9% fat, danonino, 1.25 ug vitamin d;EN
+33148;Breakfast cereal, wheat bran cereal, kellogg's all-bran plus;EN
+33149;Meat, deep-fried, average;EN
+33150;Yoghurt, flavoured, 4,6% fat, lactose-free;EN
+33151;Seasalt, without iodine;EN
+33152;Breakfast cereal, kellogg´s frost rice krispies, sugar-coated, vitamins;EN
+33154;Fish, fillet, salt-cured;EN
+33155;Breakfast cereal, rice-wheat flakes, kellogg´s special k strawberry & chocolate;EN
+33158;Cereal bar with chocolate, kellogg´s special k bar chocolate, fortified;EN
+33159;Cereal bar with rice, kellogg´s rice krispies cereal & milk bar, fortified;EN
+33160;Oat drink without milk, snack drink, elovena, 2.9% fat;EN
+33161;Oat drink without milk, snack drink with berries, elovena, 0.5% fat;EN
+33162;Yoghurt, plain, 2.5% fat;EN
+33163;Oat drink without milk, snack drink, elovena, fruit, 0.5% fat;EN
+33164;Milk, 3.5% fat, low-lactose, without added vitamin d;EN
+33167;Berry kissel, valio gooseberry-boysenberry, fibre, no added sugar;EN
+33168;Cheese, semi-hard cheese, 10% fat, valio polar;EN
+33169;Oat drink without milk, nalle vanilla, calcium, vitamin d;EN
+33170;Pangasius, fillet;EN
+33171;Hake, hoki, raw;EN
+33173;Mashed potatoes, low-fat milk, lactose-free;EN
+33174;Pork and beef steak mince, 10% fat;EN
+33175;Pork beef mince, 10% fat, fried;EN
+33176;Mashed potatoes, low-fat milk, low-lactose;EN
+33178;Blended spread 60%;EN
+33179;Quark, 0.3% fat, lactose-free;EN
+33181;Fish fingers, high in fibre, findus, oven-baked;EN
+33182;Root vegetables, baked;EN
+33183;Mashed potatoes, water, cooking fat;EN
+33185;Pasta with tomato sauce and mozzarella, atria, ready meal;EN
+33189;Quark, flavoured, 7% fat, sweet, lactose-free;EN
+33190;Quark, flavoured, 8.5% fat, low-lactose, white chocolate-lime, valio;EN
+33194;Meatballs with mashed potato, atria, ready meal;EN
+33197;Yoghurt, flavoured, fat-free, low-lactose, vit. d, artificially sweetened;EN
+33198;Yoghurt, flavoured, fat-free, artificially sweetened;EN
+33200;Curd milk, flavoured, 1% fat, lactose-free;EN
+33201;Curd milk, plain, 1% fat, lactose-free;EN
+33203;Stuffed cabbage rolls, minced meat, atria;EN
+33204;Cabbage, boiled without salt;EN
+33205;Thin pancake, atria;EN
+33207;Tomato salsa, industrial;EN
+33208;Avocado sauce, guacamole, industrial;EN
+33211;Tilapia, imported fish;EN
+33212;Multigrain bread, junttakakko, junttasämpylät, ullan pakari;EN
+33214;Multigrain bread, barley bread, ohraska, ullan pakari;EN
+33215;Multigrain bread, oat bread, kaurajuntta, ullan pakari;EN
+33216;Multigrain bread, aurinkosämpylät, ullan pakari;EN
+33217;Rye bread, ruiskakko, ullan pakari;EN
+33219;Multigrain bread, 3-grain bread, pirjon pakari;EN
+33220;Rye bread, wholegrain rye, potato, ruisiisakki, pirjon pakari;EN
+33221;Yoghurt, flavoured, 1% fat, lactose-free;EN
+33222;Minced meat beefburger, horeca, findus;EN
+33225;Lindström's steak, minced meat patty with beetroot, horeca, findus;EN
+33226;Yoghurt, flavoured, fat-free, fibre and vitamins, low-lactose;EN
+33245;Yoghurt, plain, fat-free, low-lactose, with fibre and 1 ug vitamin d;EN
+33251;Tilapia, oven-baked;EN
+33263;Rye bread snack;EN
+33264;Curd milk, flavoured, jam, 1% fat, lactose-free, partially artificial. sweetened;EN
+33265;Nut, cashew nut coated with chocolate;EN
+33266;Nut, cashew nut coated with yoghurt;EN
+33267;Banana chips coated with yoghurt;EN
+33268;Dried pineapple coated with yoghurt;EN
+33269;Apple chips;EN
+33271;Pasta carbonara, hk via, ready meal;EN
+33272;Cereal bar with chocolate, kellogg's coco pops rocks, fortified;EN
+33273;Pizza, chicken pizza, atria;EN
+33274;Pizza, three-cheese pizza, atria;EN
+33276;Chicken and creamy vegetables casserole, snellman, ready meal;EN
+33278;Salmon soup, industrial, snellman, ready meal;EN
+33279;Tomato soup with goat cheese, snellman, ready meal;EN
+33280;Yoghurt, flavoured, 2% fat, lactose-free, 1 ug vitamin d;EN
+33281;Pork schnitzel with mashed potatoes, kokkikartano snellman, ready meal;EN
+33282;Sweet pepper, boiled without salt;EN
+33284;Yoghurt, plain, fat-free, lactose-free, 1 ug vitamin d;EN
+33295;Yoghurt, plain, a+, fatfree, 1 ug vitamin d, low-lactose;EN
+33298;Yoghurt with muesli, a+, fat 3.5%, low-lactose;EN
+33304;Sport beverage, carbohydrate drink, dexal heavy, diluted;EN
+33305;Sport beverage, carbohydrate drink, dexal light, diluted;EN
+33307;Red curry chicken with jasmine rice, kitchen joy, ready meal;EN
+33308;Hake, oven-baked;EN
+33309;Pangasius, fillet, oven-baked;EN
+33310;Pangasius, fillet, fried;EN
+33311;Hake, fried;EN
+33312;Tilapia, fried;EN
+33313;Panang curry chicken with jasmine rice, kitchen joy, ready meal;EN
+33315;Sweet & sour chicken with jasmine rice, kitchen joy, ready meal;EN
+33316;Pangasius, breaded, fried;EN
+33317;Sport beverage, carbohydrate drink, dexal light, concentrate;EN
+33318;Fish and rice casserole, cooking cream;EN
+33319;White fish, pangasius/hake/tilapia, average;EN
+33320;White fish, pangasius/hake/tilapia, average, boiled without salt;EN
+33321;Fish vegetable soup, imported white fish;EN
+33323;Sport beverage, carbohydrate drink, dexal heavy, concentrate;EN
+33324;Chicken tikka masala with jasmine rice, kitchen joy, ready meal;EN
+33329;Red curry vegetables with jasmine rice, kitchen joy, ready meal;EN
+33332;Fish root vegetable stew, imported white fish;EN
+33333;Sweet chili chicken teriyaki with jasmine rice, kitchen joy, ready meal;EN
+33334;Sport beverage, protein drink, pro fx zero carb;EN
+33337;White fish, pangasius/hake/tilapia, average, oven-baked, without salt;EN
+33338;Sport beverage, carbohydrate drink, leader carbo energy;EN
+33339;Chicken fillet in honey marinade;EN
+33342;Quark, flavoured, 4.5% fat, valio rahkavaahto, lactose-free;EN
+33343;Sport beverage, protein drink, leader protein 40;EN
+33344;Quark, flavoured, 2.9% fat, valio välipalarahka, low-lactose;EN
+33345;Bun, shrove bun, whipped cream, jam and almond paste;EN
+33346;Bun, low-fat milk;EN
+33353;Sausage and french fries with all seasonings;EN
+33355;Sausage and french fries;EN
+33356;Yoghurt, flavoured, activia, 3% fat, low-lactose, probiotics;EN
+33357;Instant coffee, powder;EN
+33360;Sport beverage, carbohydrate-protein drink, pro fx recovery;EN
+33363;Chicken fillet, marinated, fried in oil;EN
+33364;Chicken fillet, marinated, oven-baked;EN
+33365;Chicken fillet strips, marinated, fried;EN
+33367;Sport beverage, carbohydrate-protein drink, leader recovery;EN
+33368;Kebab with fries;EN
+33370;Kebab meat, 75% meat;EN
+33371;Kebab with rice;EN
+33372;Sport beverage, carbohydrate-protein drink, average of products;EN
+33374;Kebab iskender;EN
+33375;Sport beverage, carbohydrate drink, average of products;EN
+33376;Sport beverage, protein drink, average of products;EN
+33377;Hotdog with all seasonings, grill;EN
+33378;Hotdog, without seasonings, grill;EN
+33380;Hamburger with sausage, with all seasonings, grill;EN
+33382;Salmon, warm smoked;EN
+33383;Deep-fried meat pasty with sausage and condiments;EN
+33384;Hamburger with sausage, without seasonings, grill;EN
+33385;Deep-fried meat pasty with sausage;EN
+33386;Miso soup with tofu;EN
+33387;Sushi nigiri with salmon, without seaweed;EN
+33389;Sushi nigiri with crayfish tail, without seaweed;EN
+33390;Omelette, japanese tamago;EN
+33391;Sushi nigiri with omelette, tamago;EN
+33392;Sushi maki with tuna and seaweed;EN
+33394;Sushi maki with cucumber and seaweed;EN
+33395;Mashed potato powder, rainbow;EN
+33396;Mashed potato powder, pirkka/felix;EN
+33397;Mashed potato powder, eldorado;EN
+33398;Mashed potatoes, mashed potato powder, water, eldorado;EN
+33399;Mashed potatoes, mashed potato powder, water, rainbow;EN
+33400;Mashed potatoes, mashed potato powder, water, pirkka/felix;EN
+33402;Semolina lingonberry porridge, whipped, pirkka/saarioinen;EN
+33403;Meal replacement, protein bar, 54 % protein;EN
+33404;Quark, flavoured, 3% fat, danio;EN
+33405;Quark, flavoured, 4.4% fat, danio stracciatella;EN
+33406;Minced meat, bacon and potato casserole, hk, ready meal;EN
+33408;Powan, warm smoked;EN
+33409;Rainbow trout fillet, cold smoked;EN
+33410;Yoghurt, flavoured, 2% fat;EN
+33414;Rainbow trout, fillet, hot smoked;EN
+33415;Fish, warm smoked, average;EN
+33419;Rainbow trout, fillet;EN
+33420;Salmon fillet, cold smoked;EN
+33421;Multigrain bread, low-carb, average of industrial products;EN
+33424;Mackerel, smoked;EN
+33428;Coffee, instant, drink;EN
+33432;Suffeli chocolate bar, waffle, toffee filling and milk chocolate;EN
+33433;Basil, dried;EN
+33434;Pudding, semolina pudding;EN
+33436;Rose hip, dried;EN
+33438;Cafe latte, unsweetened, fat-free milk;EN
+33439;Cafe latte, unsweetened, low-fat milk;EN
+33440;Milk, 1.5% fat, boiled;EN
+33441;Cappuccino, unsweetened, low-fat milk;EN
+33442;Cafe latte, unsweetened, soy drink;EN
+33447;Marshmallow;EN
+33448;Oat porridge, oat flakes, low-fat milk, without salt;EN
+33449;Cheese, average;EN
+33452;Soy product, soured, plain, 2.3% fat;EN
+33454;White sauce with cheese, low-fat milk, thickened with flour and butter;EN
+33455;Brown gravy, no added fat;EN
+33456;Spinach;EN
+33457;Pizza, ham pizza;EN
+33458;Flatbread roll with reindeer;EN
+33459;Peasoup with beef steak mince;EN
+33460;Sandwich, baguette, ham, subway;EN
+33461;Cabbage soup with beef and carrot;EN
+33462;Sandwich, baguette, tuna, subway;EN
+33464;Cabbage stew with rice and soya mince;EN
+33465;Cheese, halloumi cheese, 22% fat;EN
+33466;Milk, average, 1 ug added vitamin d;EN
+33469;Smoothie, fruit/berry, yoghurt and milk;EN
+33471;Bun, naturally gluten-free, home-made, low-fat milk;EN
+33472;Smoothie, fruit/berry;EN
+33473;Bun, gluten-free, home-made, low-fat milk, contains wheat starch;EN
+33474;Bun, gluten-free, home-made, water, contains wheat starch;EN
+33477;Vegetables, fresh, fried, onion, sweet pepper, zucchini, tomato, carrot;EN
+33478;Cod, oven-baked;EN
+33479;Reindeer soup;EN
+33482;Tapas, marinated champignon, olive oil;EN
+33484;Jalapeno pepper, canned, in vinegar;EN
+33485;Tapas, cream cheese-filled jalapeno pepper, olive oil;EN
+33486;Margarine 60%, keiju deli voimakas, 20 ug vitamin d;EN
+33487;Vegetable fat spread 70%, keiju lactose free, catering, 20 ug vitamin d;EN
+33488;Margarine 40%, keiju light, lactose-free, catering, 20 ug vitamin d;EN
+33489;Margarine 60%, keiju normally salted, catering, 20 ug vitamin d;EN
+33491;Smoked reindeer soup;EN
+33492;Reindeer stew with pork and root vegetables;EN
+33493;Bolognese, reindeer mince, crème fraiche;EN
+33494;Sweet pepper, red, canned;EN
+33495;Reindeer and cheese pie, shortcrust pastry;EN
+33496;Vegetable fat spread 70%, becel gold, 20 ug vitamin d;EN
+33498;Chicken schnitzel, breaded, cheese filling, fried;EN
+33499;Soya mince, white or dark;EN
+33501;Tofu, soya product;EN
+33502;Vegan frankfurter, tofu sausage;EN
+33519;Sweetener, stevia, canderel green powder;EN
+33520;Sweetener, stevia, canderel green tablet;EN
+33521;Sweetener, stevia, canderel green stick;EN
+33525;Fat powder, for food industry;EN
+33531;Bun, jam and quark filling, pullava, oululainen, fazer;EN
+33534;Frankfurter, turkey, light, boiled;EN
+33535;Rice porridge, milk, salt, oven-baked;EN
+33536;Reindeer soup, potato and carrot;EN
+33537;Meat soup, elk, potato, carrot;EN
+33540;Chicken nuggets, breaded, hk/kariniemi;EN
+33542;Chocolate, plain, dark chocolate, 80%;EN
+33549;Egg powder, for food industry;EN
+33550;Egg white powder, for food industry;EN
+33551;Egg yolk powder, for food industry;EN
+33553;Sweet and sour sauce;EN
+33554;Cheese, polar täyteläinen, 28% fat;EN
+33555;Cheese, semi-hard cheese, 5% fat, valio polar;EN
+33556;Cheese, semi-hard cheese, 15% fat, valio polar;EN
+33558;Salted cracker, saltine cracker, industrial, pirkka/rainbow;EN
+33559;Strawberry jam, 46% sugar, industrial;EN
+33561;Pork nuggets, deep-fried, rapeseed pork, hk;EN
+33562;Vegetable ball, hälsans kök, contains gluten;EN
+33564;Salmon fillet, oven-baked;EN
+33565;Frozen vegetable mix, carrot-bean-broccoli-cauliflower;EN
+33566;Salad, beetroot salad, fresh, felix;EN
+33568;Nut and fruit mix, salted nuts, dried fruits;EN
+33569;Nut mix, without salt;EN
+33579;Nut mix, salted;EN
+33583;Artichoke, boiled;EN
+33584;Sour milk, acidophilus bifidus, 2% fat, probiotics;EN
+33585;Maize porridge, polenta, milk, salt;EN
+33586;Ice cream, snickers;EN
+33587;Fish, weighted average;EN
+33588;Omelette, vegetable omelette;EN
+33589;Fish, weighted average, boiled;EN
+33590;Fish, weighted average, fried;EN
+33592;Sandwich, panini, chicken, mr panini;EN
+33594;Fruit drink, mehukatti fruit snack, average;EN
+33596;Oat drink without milk, average of industrial products;EN
+33597;Soya drink, plain, average of industrial products;EN
+33598;Biscuit, average of industrial products;EN
+33599;Spinach soup, average of industrial products;EN
+33600;Rice drink, average of industrial products;EN
+33601;Mashed potato powder, average of industrial products;EN
+33602;Mashed potatoes, mashed potato powder, water, average of industrial products;EN
+33603;Salad, italian salad with mayonnaise, average of industrial products;EN
+33604;Salad, potato salad with mayonaise, average of industrial products;EN
+33605;Karelian pasty, rice filling, average of industrial products;EN
+33606;Sandwich, panini, ham and salami, mr panini;EN
+33608;Sandwich, panini, mozzarella, mr panini;EN
+33609;Minced meat hamburger patty, average of industrial products;EN
+33612;Meatball, average of industrial products;EN
+33613;Digestive biscuit, average of industrial products;EN
+33615;Chicken meatball, average of industrial products;EN
+33616;Breakfast cereal, chocolate cereal, average of industrial products;EN
+33617;Lasagne, ready meal, average of industrial products;EN
+33619;Liver casserole, rice, average of industrial products;EN
+33622;Macaroni and meat casserole, ready meal, average of industrial products;EN
+33624;Minced meat and mashed potato casserole, average of industrial products;EN
+33626;Pudding, milk pudding, average of industrial products;EN
+33629;Quark, dessert quark, average of industrial products;EN
+33630;Muesli, crunchy, average of industrial products;EN
+33631;Flour mixture, gluten-free, average of industrial products;EN
+33632;Pasta, gluten-free, average of industrial products;EN
+33637;Biscuit, gluten-free, average of industrial products;EN
+33638;Sauce mix, average of industrial products;EN
+33640;Sauce, water and sauce powder, average of industrial products;EN
+33659;Breakfast cereal, corn flakes, average of industrial products;EN
+33660;Multigrain bread, aamiaisleipä, sliced, perheleipurit;EN
+33661;Rye bread, sliced, aamiaisleipä, perheleipurit;EN
+33663;Multigrain bread, oat bread, jälkiuunikauraleipä, vaasan;EN
+33664;Multigrain bread, sliced, arkiviipaleet, vaasan;EN
+33665;Rye bread, sliced, wholegrain rye, jyvälimppu, vaasan;EN
+33666;Multigrain bread, low-carb, sunflower seed, linseed, halved, minihiilari, vaasan;EN
+33668;Karelian pasty, rice filling, small, isoäidin rukiinen, vaasan;EN
+33669;Karelian pasty, rice filling, isoäidin rukiinen, vaasan;EN
+33670;Multigrain bread, low-carb, sunflower seed, linseed, sliced, minihiilari, vaasan;EN
+33671;Profeel protein drink, valio, 1 ug vitamin d;EN
+33673;Multigrain bread, 100% wholegrain, oululainen vaalea reissumies, fazer;EN
+33674;Multigrain bread, potato flatbread, oululainen pikkurieska, fazer;EN
+33675;Sour milk, 1% fat, low-lactose, 1 ug vitamin d;EN
+33677;Multigrain bread, mixed seeds, alku jyväpala, fazer;EN
+33678;Sour milk, acidophilus bifidus, 2% fat, 1 ug vitamin d, probiotics;EN
+33679;Sour milk, acidophilus bifidus, 1.5% fat, 1 ug vitamin d, probiotics;EN
+33680;Toast, cheese toast, fazer;EN
+33681;Sour milk, 0.4% fat, low-lactose, 1 ug vitamin d, probiotics, aktiivi;EN
+33682;Sour milk, 2% fat, low-lactose, 1 ug vitamin d;EN
+33683;Sour milk, 2% fat;EN
+33685;Sour milk, acidophilus bifidus, 1.5% fat, low-lactose, probiotics;EN
+33689;Yoghurt, drinkable, kidius gefilus, low-lactose, 1.7% fat, vit. d, probiotics;EN
+33690;Yoghurt, flavoured, 2.6% fat, low-lactose, 30% less sugar;EN
+33692;Yoghurt, drinkable, flavoured, fat-free, vitalinea;EN
+33694;Toast, multigrain toast, fazer viisi viljaa;EN
+33695;Yoghurt, flavoured, 2.7% fat, ab, low-lactose, probiotics;EN
+33696;Yoghurt, flavoured, ab, 3.3% fat, contains probiotics;EN
+33697;Yoghurt, plain, ab, 2.5% fat, probiotics;EN
+33698;Yoghurt, plain, ab, 0.2% fat, probiotics;EN
+33699;Multigrain bread, bread roll, rye and wheat flour, ruisvehnäsämpylä, fazer;EN
+33700;Yoghurt, flavoured, ab, 0.2% fat, probiotics;EN
+33703;Yoghurt, drinkable, 0.9% fat, probiotics;EN
+33704;Toast, cheese toast, linkosuo;EN
+33708;Multigrain bread, muheva, leivon leipomo, perheleipurit;EN
+33710;Gefilus drink, effect drink, fat-free, lactose-free, vitamin d, probiotics;EN
+33711;Karelian pasty, rice filling, vuoksen, fazer;EN
+33714;Yoghurt, flavoured, 3.2% fat, lactose-free, a+, 1 ug vitamin d;EN
+33715;Breakfast cereal, wheat flakes, kellogg's all-bran apple & fig, vitamins;EN
+33718;Breakfast cereal, rice-wheat flakes, kellogg's all-bran crunchy bites;EN
+33720;Breakfast cereal, wheat loops, honey monster sugar puffs, raisio, vitamins;EN
+33721;Breakfast cereal, wheat loops, honey monster choco puffs, raisio, vitamins;EN
+33723;Breakfast cereal, multigrain chocolate cereal, kellogg's coco pops rocks;EN
+33724;Breakfast cereal, chocolate wheat cereal, kellogg's coco pop crunchers;EN
+33725;Yoghurt, flavoured, reducol, 2% fat, low-lactose, plant sterols, probiotics;EN
+33726;Vegetable fat spread 70%, average of industrial products;EN
+33727;Yoghurt, plain, pirkka reducol, 2.5% fat, low-lactose;EN
+33728;Curd milk, plain, 1.5% fat, lactose-free;EN
+33729;Sour milk, 0.4% fat, low-lactose, 0.9 ug vitamin d, probiotics, aktiivi vanilla;EN
+33730;Muesli with dried fruit, elovena plus;EN
+33732;Muesli with dried berries, elovena plus;EN
+33733;Muesli, kellogg's extra classic;EN
+33735;Muesli, kellogg's extra fruit;EN
+33736;Muesli, kellogg's extra chocolate;EN
+33739;Milk, 4.4% fat, without added vitamin d, unhomogenized;EN
+33740;Frankfurter, light, fried without fat;EN
+33756;Multigrain bread, oat bread, 100 % oat, vaasan;EN
+33757;Orange juice, unsweetened, 60 mg vitamin c;EN
+33758;Ham, cooked, 2% fat;EN
+33759;Milk drink with juice, fat-free, gefilus;EN
+33760;Yoghurt, flavoured, 2% fat, low-lactose, a+ cereal, 1 ug vitamin d;EN
+33766;Water, boiled;EN
+33783;Multigrain bread, oat bread, kauratyynyt, vaasan;EN
+33790;Milk, 1.5% fat, lactose-free, valio eila, 2 ug added vitamin d;EN
+33791;Milk, 0% fat, lactose-free, valio eila, 2 ug added vitamin d;EN
+33792;Milk, 3% fat, lactose-free, eila, 2 ug added vitamin d;EN
+33804;Reindeer and potato casserole, saarioinen, ready meal;EN
+33813;Chicken soup, industrial, rainbow, ready meal;EN
+33845;Salami, light, 22% fat;EN
+33846;Cheese pasty, vaasan kotiuunin;EN
+33847;Danish pastry, strawberry and vanilla custard filling, vaasan kotiuunin;EN
+33848;Bun, berry and quark filling, rainbow;EN
+33849;Berry kissel, 30 mg added vitamin c, industrial;EN
+33850;Berry kissel, 20 mg added vitamin c, industrial;EN
+33851;Berry kissel, 40 mg added vitamin c, industrial;EN
+33852;Sour milk, fat-free, valio eila, lactose-free, 2 ug vitamin d;EN
+33853;Chicken salad, saarioinen;EN
+33855;Blueberry pie, industrial, fazer;EN
+33856;Cream sauce with meat bouillon;EN
+33862;Salad, coleslaw, industrial;EN
+33863;Chocolate swiss roll, rainbow;EN
+33866;Bun, chocolate and vanilla filling, tiikerikranssi, vaasan isoäidin;EN
+33867;Bun, raspberry and apple filling, pormestarinpitko, vaasan;EN
+33872;Breast milk;EN
+33882;Margarine 80%, flora kulta;EN
+33883;Salad, tzatziki salad, atria;EN
+33884;Juice drink, pineapple-carrot, gefilus, calcium, vitamin c and d, probiotics;EN
+33885;Quark, flavoured, profeel protein quark, lactose-free;EN
+33886;Oatmeal sandwich cookie with creme filling;EN
+33888;Sandwich cookie, ballerina;EN
+33889;Chocolate, milk chocolate with hazelnuts;EN
+33890;Carrot patty, contains soy protein, apetit;EN
+33891;Cheese, halloumi cheese, fried;EN
+33893;Tofu, breaded, fried in oil;EN
+33896;Fruit puree, unsweetened, 100 % fruit;EN
+33897;Berry puree, unsweetened, 100% fruit;EN
+33899;Corn starch, maizena express;EN
+33900;Oat drink without milk, oatly chocolate, calcium, vitamin d;EN
+33901;Oat drink without milk, oatly, calcium, vitamins;EN
+33903;Yoghurt, flavoured, kidius gefilus, 2% fat, low-lactose, 1.5% vitamin d;EN
+33905;Berry kissel, valio gefilus blueberry-raspberry, vitamins, probiotics;EN
+33907;Juice drink, whey drink, gefilus, vitamins, probiotics, low-lactose;EN
+33908;Juice drink, orange-peach, gefilus, fibre, vitamin c and d, probiotics;EN
+33909;Juice drink, gefilus, vitamin c and d, probiotics;EN
+33910;Yoghurt, drinkable, actimel, 1.5% fat, 0.75 ug vitamin d, probiotics;EN
+33911;Yoghurt, drinkable,actimel, fat-free, vit. d, probiotics, artificially sweetened;EN
+33912;Yoghurt, drinkable, actimel powerfruit, 1.5% fat, vitamin c and d, probiotics;EN
+33914;Milkshake, hesburger, vanilla;EN
+33915;Milkshake, vanilla, mcdonald's;EN
+33924;Cream, valio strawberry/chocolate, lactose-free;EN
+33925;Quorn, fillet, pieces, mince;EN
+33927;Turkey cold cuts;EN
+33928;Applesauce, sweetened;EN
+33933;Berry kissel, industrial, proviva, 35 mg vitamin c, probiotics;EN
+34079;Porridge flake mix with fibre, nalle;EN
+34080;Porridge with fibre, water, salt, nalle;EN
+34110;Corn starch, maizena brown/light;EN
+34127;Milk, 1.5% fat, valio plus, 2 ug added vitamin d;EN
+34136;Seaweed, nori, dried;EN
+34137;Seaweed, wakame, dried;EN
+34140;Coconut oil;EN
+34159;Rocket, arugula;EN
+34180;Chicken drumstick with skin, raw;EN
+34183;Beef, assortment e, meat for gravy;EN
+34184;Rapeseed pork, pork strips;EN
+34185;Pork, cereal-fed, strips;EN
+34187;Beef tenderloin;EN
+34188;Pork fillet, sirloin;EN
+34189;Pork, assortment 0, pork for sauce;EN
+34190;Pork, kassler steak, raw;EN
+34201;Beef, lean, average;EN
+34208;Chicken drumstick with skin, grilled;EN
+34209;Chicken drumstick with skin, baked in oven;EN
+34210;Pork fillet, sirloin, oven-baked;EN
+34211;Pork fillet, tenderloin, fried;EN
+34212;Pork fillet, sirloin, fried;EN
+34213;Beef, lean, boiled, without added salt;EN
+34214;Beef tenderloin, oven-baked, roasted beef tenderloin;EN
+34215;Beef tenderloin, fried;EN
+34216;Beef tenderloin, grilled;EN
+34219;Beef, assortment e, meat for gravy, without added salt, boiled;EN
+34220;Rapeseed pork, strips, fried in oil;EN
+34221;Pork, cereal-fed, strips, fried in oil;EN
+34223;Pork, assortment 0, pork for sauce, boiled without salt;EN
+34225;Pork, kassler steak, fried;EN
+34226;Pork, kassler steak, grilled;EN
+34228;Spinach, frozen;EN
+34229;Pea, green, frozen;EN
+34230;Wild rocket, sand rocket;EN
+34231;Garden lettuce;EN
+34232;Radicchio;EN
+34233;Romaine lettuce;EN
+34234;Onion, red onion;EN
+34235;Radish, white;EN
+34236;Pea shoot;EN
+34237;Corn salad, lamb's lettuce;EN
+34238;Coriander, fresh;EN
+34239;Northern milkcap;EN
+34240;Funnel chanterelle;EN
+34241;Woolly milkcap;EN
+34242;Flour, wheat flour, semi-coarse;EN
+34243;Bean, broad bean, fava bean, fresh;EN
+34244;Sugar snap peas, fresh;EN
+34245;Sesame seed, white, without hull;EN
+34246;Flour, rye, wholegrain rye flour r800;EN
+34247;Flour, rye, wholegrain rye flour r1000;EN
+34248;Flour, barley, whole grain barley flour;EN
+34249;Flour, coarse wheat flour;EN
+34252;Powan, whitefish, pollan, lavaret, farmed;EN
+34253;Herring, pickled, canned;EN
+34254;Seaweed, kombu, dried;EN
+34255;Salmon, farmed;EN
+34256;Rainbow trout, farmed;EN
+34261;Yoghurt, flavoured, 2.7% fat;EN
+34262;Ham gravy, cooking cream;EN
+34263;Cake, mud cake, chocolate cake;EN
+34276;Juice drink, 40% less sugar, sweetened with stevia, valio grandi;EN
+34277;Muesli with nuts;EN
+34303;Bebe pastry;EN
+34304;Macaron pastry;EN
+34305;Pastry with potato and cocoa;EN
+34306;Mille-feuille, napoleon pastry;EN
+34361;Mango, without skin;EN
+34362;Avocado sauce;EN
+34381;Pizza, ham pizza, shrimp, pineapple, blue cheese;EN
+34382;Pizza, salami pizza, ham, minced meat and onion;EN
+34383;Pizza, kebab pizza, onion, feta, sour cream and tomato;EN
+34384;Pizza, ham and tuna pizza;EN
+34385;Pizza, salami pizza, ham, shrimp and onion;EN
+34386;Pizza, chicken pizza, pineapple, blue cheese;EN
+34387;Pizza, seafood pizza, tuna, shrimp, mussel;EN
+34388;Pizza, salami pizza, pineapple, shrimp, blue cheese;EN
+34389;Pizza, ham pizza, shrimp, mushroom, tuna fish;EN
+34390;Sandwich, baguette, chicken, subway;EN
+34391;Sandwich, baguette, veggieburger, subway;EN
+34392;Sandwich, baguette, salami, ham, italian bmt, subway;EN
+34393;Sandwich, baguette, roast beef, subway;EN
+34394;Sandwich, multigrain baguette, tomato, sweet pepper, cheese, lettuce, onion;EN
+34395;Hamburger, double cheese burger, mcdonald's;EN
+34396;Hamburger, double burger, hesburger;EN
+34397;Hamburger, mcfeast, mcdonald's;EN
+34398;Hamburger, whopper, burger king;EN
+34399;Hamburger, double whopper, burger king;EN
+34402;Hamburger, baconburger, hesburger;EN
+34403;Hamburger, gluten-free hamburger, hesburger;EN
+34404;Tzatziki, feta sauce, yoghurt sauce;EN
+34405;Hamburger, sweet potato burger, beef;EN
+34407;Meat mince patty, oven-baked;EN
+34408;Lean steak mince patty, fried;EN
+34409;Lean steak mince patty, oven-baked;EN
+34410;Pork beef mince patty, oven-baked;EN
+34411;Lean steak mince patty, fried without fat;EN
+34412;Beef mince patty, fried without fat;EN
+34413;Pork beef mince patty, fried without fat;EN
+34414;Hamburger, sweet potato burger, tofu;EN
+34416;Vegetable gravy with spinach and farmer's cheese, palak paneer;EN
+34419;Vegetable gravy with tomato and farmer's cheese, shahi paneer;EN
+34422;Butter chicken;EN
+34423;Fish gravy, fish curry, saithe, rainbow trout, coconut milk;EN
+34426;Vegetable gravy, vegetable curry, coconut milk, chick pea;EN
+34428;Chicken vegetable gravy, chicken curry, coconut milk;EN
+34429;Pizza, beef mince pizza, gluten-free;EN
+34430;Pizza, chicken and avocado pizza;EN
+34431;Rainbow trout soup, cooking cream;EN
+34432;Rainbow trout soup, cream;EN
+34433;Salmon soup, cream;EN
+34434;Salmon soup, cooking cream;EN
+34435;Cake, mocha cake, gluten-free;EN
+34436;Vegan frankfurter gravy;EN
+34437;Vegan frankfurter stroganoff;EN
+34438;Vegan frankfurter soup;EN
+34439;Meatball, minced elk, oven-baked;EN
+34440;Fish soup, rainbow trout, saithe and cooking cream (veg. fat 15%);EN
+34441;Baltic herring fillet with sour cream, oven-baked;EN
+34445;Sweet potato coconut soup;EN
+34446;Chicken gravy with lemon and turkish yoghurt;EN
+34448;Beef steak stew, goulash;EN
+34450;Vegetarian moussaka, soya mince;EN
+34451;Soya mince and potato casserole, tomato, low-fat milk;EN
+34452;Moussaka, vegetarian moussaka, aubergine, potato;EN
+34453;Millet patty, fried;EN
+34454;Blueberries with talkkuna powder, cream and quark;EN
+34455;Black salsify soup, pureed, cream;EN
+34456;Quorn bolognese;EN
+34457;Salmon soup, fish stock;EN
+34458;Beetroot, baked;EN
+34459;Swede, baked;EN
+34460;Carrot, baked;EN
+34461;Root vegetables, baked, salt and oil;EN
+34464;Feta vegetable patty, fried;EN
+34465;Beetroot pesto sauce;EN
+34466;Sweet pepper, baked;EN
+34467;Roasted sweet pepper soup;EN
+34468;Beetroot and blue cheese casserole, cooking cream;EN
+34469;Beetroot and goat cheese casserole, cooking cream;EN
+34470;Pasta carbonara, bacon;EN
+34471;Turkey cordon bleu, fried;EN
+34472;Pork, kassler steak, boiled, without salt;EN
+34473;Pulled pork;EN
+34474;Hamburger, pulled pork and wheat roll with crushed grain;EN
+34475;Smoothie, green smoothie, spinach, avocado, cucumber, banana, pineapple;EN
+34476;Fish vegetable casserole, saithe, root vegetables, tomato;EN
+34477;Fish shrimp casserole, saithe, vegetables, tomato;EN
+34478;Saithe, oven-baked;EN
+34480;Fish, weighted average, baked;EN
+34481;Fish pasty, smoked salmon pasty;EN
+34484;Salmon fillet, pesto salmon, oven-baked;EN
+34485;Tartar sauce, salmon tartar, sour cream;EN
+34488;Beef steak mince soup, lentils;EN
+34489;Cold tomato soup, gazpacho;EN
+34490;Pumpkin soup, cooking cream;EN
+34491;Banana egg pancake;EN
+34492;Spinach, fried;EN
+34493;Noodle salad with beef steak mince;EN
+34494;Oat porridge, oat flakes, water, coconut milk, egg, banana, salt;EN
+34495;Noodle soup with tofu and coconut milk;EN
+34496;Puréed potato broccoli soup, water, processed cheese;EN
+34497;Parsnip apple soup, pureed, cooking cream (veg. fat);EN
+34498;Noodle salad with shrimps, kale, peanut sauce;EN
+34499;Halloumi cheese salad, pomegranate, oil-based dressing;EN
+34500;Halloumi cheese salad, strawberry, oil-based dressing;EN
+34501;Couscous salad with halloumi cheese, oil-based dressing;EN
+34502;Avocado pasta;EN
+34503;Tofu vegetable wok, wok-vegetables;EN
+34504;Tofu noodle wok;EN
+34505;Crispbread, seed crispbread, gluten-free, home-made;EN
+34506;Crispbread, seed crispbread, home-made;EN
+34507;Crispbread, seed crispbread with egg, gluten-free, home-made;EN
+34508;Raw porridge, yoghurt;EN
+34509;Cake, mud cake, butter, without flour, naturally gluten-free;EN
+34510;Salad, avocado potato salad, olive oil;EN
+34511;Aubergine chick pea salad, yoghurt dressing;EN
+34512;Risotto, asparagus risotto, white wine;EN
+34513;Risotto, porcini risotto, white wine;EN
+34514;Kale, fried;EN
+34515;Kale and feta cheese salad;EN
+34516;Red onion, fried;EN
+34517;Reindeer and chanterelle pie, shortcrust pastry;EN
+34518;Leek, fried;EN
+34519;Tartar sauce, cold smoked reindeer;EN
+34520;Tartar sauce, shrimp tartar, crème fraîche;EN
+34521;Cold tuna sauce, sour cream;EN
+34522;Lasagne, reindeer;EN
+34523;Pineapple salsa;EN
+34524;Avocado quesadilla;EN
+34525;Chocolate swiss roll;EN
+34526;Florence fennel, fried;EN
+34527;Florence fennel soup, puréed;EN
+34528;Cake, raw chocolate cake;EN
+34529;Cake, raw raspberry cake;EN
+34530;Cake, raw blackcurrant cake;EN
+34531;Cake, raw mango cake;EN
+34532;Cake, raw carrot cake;EN
+34533;Muesli, granola, home-made;EN
+34534;Mushroom pie, funnel chanterelle, shortcrust pastry;EN
+34535;Chanterelle, kokt;EN
+34536;Funnel chanterelle, fried;EN
+34537;Funnel chanterelle, boiled;EN
+34539;Risotto, beetroot risotto, chevre, white wine;EN
+34540;Feta cheese spinach gravy, cooking cream;EN
+34541;Lasagne, mushroom feta cheese lasagne;EN
+34542;Lasagne, beef steak mince, whole wheat pasta;EN
+34543;Lasagne, beef steak mince, gluten-free;EN
+34544;Tomato and mozzarella pie, shortcrust pastry, mashed potato powder;EN
+34545;Smoothie, green smoothie, kale, apple, cucumber, banana;EN
+34546;Smoothie, blueberry and coconut milk;EN
+34547;Smoothie, mango smoothie, yoghurt, pineapple juice;EN
+34548;Smoothie, mango, pineapple and coconut milk;EN
+34549;Smoothie, berry smoothie, yoghurt, oat bran and sunflower seed;EN
+34550;Smoothie, green smoothie, apple, celery, cucumber;EN
+34551;Smoothie, carrot, orange and strawberry smoothie;EN
+34552;Quinoa risotto, mushroom risotto, white wine;EN
+34553;Quinoa risotto, quinoa tomato risotto;EN
+34554;Parfait, strawberry ice cream, home-made;EN
+34555;Thin pancake, soya drink, rice flour, gluten-free, dairy-free, egg-free;EN
+34556;Chocolate milk, cold, oat drink;EN
+34557;Bolognese, minced elk;EN
+34558;Pizza, ham and cheese pizza, pizza bianca, without tomato;EN
+34559;Pizza, tomato and mozzarella pizza, cauliflower crust;EN
+34560;Pizza, vegetarian pizza, pizza bianca, without tomato;EN
+34561;Bean quinoa patty, fried;EN
+34562;Kale chips;EN
+34563;Bun, cinnamon bun, high-fat, whole milk, butter;EN
+34564;Oven-baked pancake, åland's pancake, low-fat milk;EN
+34565;Sweet potato and feta salad, oil-based dressing;EN
+34566;Salad, coleslaw, home-made;EN
+34567;Stuffed cabbage rolls, soya mince;EN
+34568;Elk stew with carrot, onion and champignon;EN
+34569;Mushroom stew with cooking cream;EN
+34570;Beetroot gravy, cream cheese;EN
+34571;Salmon cake, fried;EN
+34572;Beetroot chevre pie, shortcrust pastry;EN
+34573;Chocolate chip cookie, home-made;EN
+34574;Oat biscuit, home-made;EN
+34575;Vorschmack, lamb mince, beef mince;EN
+34576;Sweet potato chick pea curry;EN
+34577;Chicken pie, shortcrust pastry;EN
+34578;Chicken stew, chicken burgundy;EN
+34579;Beef round, fried without fat;EN
+34580;Vegetarian goulash;EN
+34581;Bean soup, tomato;EN
+34582;Asparagus soup, white wine, cream;EN
+34583;Funnel chanterelle soup, cream;EN
+34584;Beetroot feta cheese omelette, oven-baked;EN
+34585;Skyr, <0.5% fat;EN
+34586;Skyr, sweetened with sugar, <0.5% fat;EN
+34587;Skyr, artificially sweetened, <0.5% fat;EN
+34588;Skyr, artificially sweetened, 2% fat;EN
+34589;Skyr, sweetened with sugar and stevia, <0.5% fat;EN
+34590;Quark, quark yoghurt, plain, 0.9% fat;EN
+34591;Cream quark, 10% fat;EN
+34592;Quark, 2,3% fat, low-lactose;EN
+34593;Skyr, plain, 4% fat;EN
+34594;Quark, flavoured, 8.8% fat, mint chocolate, valio, lactose-free;EN
+34595;Quark, flavoured, 7% fat, low-lactose;EN
+34596;Quark, flavoured, profeel protein quark with jam, lactose-free;EN
+34597;Quark, flavoured, profeel protein quark, artificially sweetened, lactose-free;EN
+34598;Quark, drinkable;EN
+34600;Quark, flavoured, 4.5% fat;EN
+34601;Quark, flavoured, arla protein quark, lactose-free;EN
+34602;Quark, 0.3% fat, 12% protein, lactose-free;EN
+34603;Yoghurt, flavoured, 4,6% fat, valio sileä, 1 ug vitamin d, low-lactose;EN
+34605;Yoghurt, flavoured, valio a+ kreikkalainen kerrosjogurtti, 2% fat, lactose-free;EN
+34606;Yoghurt, drinkable, 1.7% fat, valio play, lactose-free, 1.5 ug vitamin d;EN
+34607;Yoghurt with quark, flavoured, valio, 1.7% fat, low-lactose;EN
+34608;Yoghurt, drinkable, valio yoghurt with quark, 1.2% fat, 1 ug vitamin d;EN
+34609;Yoghurt, flavoured, valio olo 70, 0.8% fat, 1 ug vitamin d, probiotics;EN
+34611;Yoghurt, plain, greek, 7% fat, lactose-free;EN
+34612;Gefilus drink, effect drink, fat-free, lactose-free, vitamin d, probiotics;EN
+34613;Yoghurt, drinkable, gefilus smoothie, 1.4% fat, lactose-free, 1 ug vitamin d;EN
+34614;Gefilus kefir drink, 2% fat, lactose-free, 1 ug vitamin d, probiotics;EN
+34615;Gefilus kefir drink, plain, fat 2.5%, 1 ug vitamin d, lactose-free, probiotics;EN
+34616;Yoghurt, flavoured, 2.7% fat, gefilus kefir, lactose-free,1.5ug vitamin d, prob.;EN
+34618;Yoghurt, drinkable, 2% fat, valio greek, lactose-free, 1 ug vitamin d;EN
+34619;Yoghurt, flavoured, valio greek, 4.7% fat, lactose-free;EN
+34620;Yoghurt, flavoured, valio greek, 6% fat, lactose-free;EN
+34621;Yoghurt, flavoured, 3.3% fat, valio fruity, lactose-free, probiotics;EN
+34625;Yoghurt, flavoured, 2% fat, -30% sugar, organic, lactose-free;EN
+34626;Yoghurt, flavoured, 2% fat, -50% sugar, organic, lactose-free;EN
+34630;Yoghurt, plain, a+, fat 2.5%, lactose-free, 1 ug vitamin d;EN
+34631;Yoghurt, flavoured, a+ without additives, 3% fat, lactose-free;EN
+34634;Yoghurt, plain, a+ greek, 2 % fat, lactose-free;EN
+34635;Yoghurt, turkish/greek, 10% fat, lactose-free;EN
+34636;Yoghurt, plain, 2,5 % fat, organic, lactose-free;EN
+34637;Yoghurt with quark, flavoured, arla, 1.4% fat, 0,4 ug vitamin d, lactose-free;EN
+34638;Yoghurt, plain, organic, 3% fat;EN
+34639;Yoghurt, flavoured, 2% fat, arla luonto+ honey, 1ug vitamin d, prob,lactose-free;EN
+34640;Yoghurt, flavoured, 2% fat, arla luonto+, 1 ug vitamin d, ab, lactose-free;EN
+34641;Yoghurt, flavoured, 1,9% fat, arla luonto+, 0,8ug vitamin d, prob., lactose-free;EN
+34642;Yoghurt with quark, flavoured, luonto+, 1.2% fat, ab, 0,5 ug vit d, lactose-free;EN
+34643;Yoghurt with quark, plain, arla luonto+, 1.4% fat, 0,6ug vit d, ab, lactose-free;EN
+34644;Yoghurt, flavoured, luonto+, fat-free, 1 ug vitamin d, ab, lactose-free;EN
+34645;Yoghurt, flavoured, fat-free, low-lactose;EN
+34646;Yoghurt, flavoured, arla protein, 1% fat, lactose-free;EN
+34647;Yoghurt, plain, arla protein, 1% fat, lactose-free;EN
+34648;Yoghurt, flavoured, arla protein  with granola, 4% fat, lactose-free;EN
+34649;Quark, flavoured, fat-free, artificially sweetened, lactose-free;EN
+34650;Yoghurt, drinkable, fat-free, artificially sweetened;EN
+34651;Egg, without shell, organic;EN
+34652;Yoghurt, flavoured, activia light, fat-free, partially artific. sweetened, prob.;EN
+34653;Yoghurt, drinkable, danup drink, 0.8% fat;EN
+34654;Quark, flavoured, 4% fat;EN
+34655;Quark, flavoured, fat-free, protein quark, low-lactose;EN
+34656;Yoghurt, plain, 4% fat, lactose-free, probiotics;EN
+34657;Yoghurt, flavoured, 2% fat, lactose-free;EN
+34658;Yoghurt, flavoured, 3.5% fat, probiotics;EN
+34659;Yoghurt, flavoured, 2% fat, ab, low-lactose;EN
+34661;Egg, organic, boiled;EN
+34662;Egg, organic, fried;EN
+34664;Yoghurt sauce;EN
+34665;Vegetable gravy, vegetable curry, coconut milk, lins;EN
+34666;Hummus, chick pea paste;EN
+34667;Peanut butter without added salt;EN
+34668;Seed blend;EN
+34669;Russian fish soup, solyanka, salmon;EN
+34671;Multigrain bread, seed bread, stone age bread;EN
+34672;Sweet potato fries, oven-baked;EN
+34673;Macaroni and pork beef mince casserole, fat-free milk;EN
+34674;Macaroni and beef steak mince casserole, fat-free milk;EN
+34678;Vegetables, baked, salt and oil;EN
+34679;Yoghurt, flavoured, fat-free, low-lactose, 1 ug vitamin d;EN
+34680;Passion fruit;EN
+34681;Peanut butter with added salt and sugar;EN
+34682;Cabbage stew with beef mince and carrot;EN
+34683;Cabbage stew with beef steak mince and carrot;EN
+34684;Oat porridge, oat flakes, fat-free milk, without salt;EN
+34685;Tomato, grilled;EN
+34686;Oat porridge, oat flakes, seeds, water, salt;EN
+34687;Multigrain porridge, seeds, water, salt;EN
+34688;Coconut water, unsweetened;EN
+34689;Sweet potato fries, deep-fried;EN
+34690;Raw porridge, buckwheat, yoghurt;EN
+34691;Egg white, boiled;EN
+34692;Egg, omega, boiled;EN
+34693;Egg, omega, fried, without fat and salt;EN
+34694;Papaya, without skin;EN
+34695;Bacon salad with egg and beans, without dressing;EN
+34696;Sausage salad, chorizo, potato, oil-based dressing;EN
+34697;Chorizo, fried without fat;EN
+34698;Sandwich, baguette, ham, cheese, sweet pepper, lettuce;EN
+34699;Caesar salad with shrimps;EN
+34700;Salad dressing, caesar dressing;EN
+34701;Crouton;EN
+34702;Caesar salad;EN
+34703;Low-fat pork beef mince soup;EN
+34704;Cocoa, hot chocolate, low-fat milk and water, sweetened;EN
+34705;Apple pie, soft, low-fat milk;EN
+34706;Chicken stew with tomato;EN
+34707;Chicken soup with tomato;EN
+34708;Bolognese, minced lamb;EN
+34709;Beef noodle wok, wok-vegetables;EN
+34710;Shortbread biscut, spoon cookie without filling;EN
+34711;Shortbread biscut, spoon cookie;EN
+34712;Danish pastry, jam filling, water, bakery;EN
+34713;Macaroni, dark, whole wheat and dark wheat flour;EN
+34714;Macaroni, whole wheat, boiled, salt;EN
+34715;Macaroni, whole wheat, boiled without salt;EN
+34716;Milk, 3% fat, lactose-free, no added vitamin d;EN
+34717;Sandwich, baguette, cold smoked salmon, egg, lettuce;EN
+34718;Sandwich, baguette, chicken and caesar dressing;EN
+34723;Sandwich, baguette, roast beef, multigrain baguette;EN
+34724;Multigrain bread, root vegetable bread, parsnip and carrot, fazer;EN
+34726;Multigrain bread, root vegetable bread, beetroot and carrot, fazer;EN
+34727;Rye bread, root vegetable bread, wholegrain rye, zucchini and parsnip, fazer;EN
+34728;Rye bread, low-fodmap rye bread, fazer;EN
+34738;Almond drink, unsweetened, alrpo;EN
+34743;Bean, broad bean, fava bean, dry, broad bean groats;EN
+34752;Cream cheese, mascarpone, 38% fat;EN
+34762;Cream cheese, low-fat, 15% fat, plain, lactose-free;EN
+34764;Cream cheese, low-fat, 25% fat, plain, lactose-free;EN
+34765;Cream cheese, low-fat, 20% fat, plain;EN
+34783;Cocoa, hot chocolate, sugar-free, water;EN
+34786;Yoghurt, drinkable, benecol aurinkoinen, 2,1% fat, plant stanols;EN
+34790;Yoghurt, drinkable, benecol, 2,1% fat, plant stanols;EN
+34794;Soy product, drinkable, benecol, 2.9% fat, with plant stanol;EN
+34797;Salty liqourice pastille, unsweetened;EN
+34802;Sweetener, hermesetas gold, saccharin, aspartame and cyclamate blend;EN
+34805;Sweetener, hermesetas liquid, saccharin and cyclamate blend;EN
+34807;Salad, cucumber slices with dill and vinegar;EN
+34810;Pork beef mince gravy, cooking cream;EN
+34822;Rye bread, reissumies, tosi tumma, oululainen, fazer;EN
+34826;Breakfast cereal, cheerios, oat, nestle;EN
+34831;Chocolate confection filled with chocolate;EN
+34833;Rye bread, taikaruis carrot anr rye, vaasan;EN
+34835;Lingonberryjuice, unsweetened;EN
+34839;Soya drink, aplro soya vanilla, calcium, vitamins;EN
+34841;Cheese, semi-hard cheese, 15% fat, low-sodium, valio polar;EN
+34842;Multigrain bread, wheat roll with broad bean flour, primula;EN
+34844;Almond drink, sweetened, alrpo;EN
+34845;Coconut drink, added vitamins;EN
+34846;Hazelnut drink, added vitamins;EN
+34848;European sprat;EN
+34849;Fish pie, cold smoked salmon, shortcrust pastry;EN
+34850;Fish pie, warm smoked salmon and broccoli, shortcrust pastry;EN
+34851;Barbeque sausage, bratwurst, fried without fat;EN
+34852;Barbeque sausage, bratwurst, fried;EN
+34853;Barbeque sausage, meaty, fried;EN
+34854;Barbeque sausage, meaty, fried without fat;EN
+34855;Barbeque sausage, light, fried;EN
+34856;Barbeque sausage, light, fried without fat;EN
+34857;Barbeque sausage with cheese, fried;EN
+34858;Barbeque sausage with cheese, fried without fat;EN
+34859;Barbeque sausage with cheese, oven baked;EN
+34862;Milk, 0% fat, valio profeel voimamaitojuoma, 1 ug added vitamin d, lactose-free;EN
+34865;Herb, fresh, average;EN
+34870;Sausage hash, light frankfurters, potato, without egg;EN
+34871;Beef and tofu noodle wok, wok-vegetables;EN
+34872;Nut mix, without salt, roasted;EN
+34876;Oat drink without milk, oatly ikaffe, calcium, vitamins;EN
+34881;Muesli with dried fruit and nuts;EN
+34886;Oat porridge, oat flakes, fat-free milk and water, without salt;EN
+34887;Oat porridge, oat flakes, low-fat milk and water, without salt;EN
+34888;Oat porridge, oat flakes, low-fat milk and water, salt;EN
+34889;Oat porridge, oat flakes, fat-free milk and water, salt;EN
+34893;Härkis, broad bean product;EN
+34898;Muesli, crunchy, broad bean granola;EN
+34902;Mifu, lactose-free milk protein product;EN
+34903;Pelmeni, dumpling filled with minced meat;EN
+34904;Kampanisu, finnish pastry;EN
+34905;Rice and barley mix;EN
+34906;Rice and barley mix, boiled, salt;EN
+34907;Rice and rye mix;EN
+34908;Rice and rye mix, boiled, salt;EN
+34909;Pulled oats;EN
+34914;Blended spread 60%, benecol voi & rypsi;EN
+34924;Blended spread 70%, flora & voi, normally salted;EN
+34927;Vegetable fat spread 39 %, lätta original;EN
+34929;Juice drink with milk, fat-free, gefilus, vitamins, probiotics, lactose-free;EN
+34932;Blended spread 70%, creme bonjour voi & rypsiöljy, normally salted;EN
+34942;Vegetable fat spread 75 %, keiju rypsi;EN
+34944;Vegetable fat spread 55 %, keiju rypsi;EN
+34948;Margarine 60%, keiju alentaja;EN
+34951;Oat and rye porridge, water, salt;EN
+34952;Barbeque sausage with cheese, grilled;EN
+34953;Cocoa, hot chocolate, whole milk, sweetened;EN
+34954;Macaroni and beef steak mince casserole, fat-free milk, whole wheat macaroni;EN
+34955;Macaroni and pork beef mince casserole, fat-free milk, whole wheat macaroni;EN
+34956;Macaroni and beef mince casserole, fat-free milk, whole wheat macaroni;EN
+34957;Lamb stew, meat bouillon, carrots, oil;EN
+34958;Vegetable and beef stew with potato;EN
+34959;Vegetable and lamb stew with potato;EN
+34960;Moussaka, beef mince;EN
+34961;Moussaka, beef steak mince;EN
+34962;Moussaka, lamb mince;EN
+34963;Cabbage stew with rice and beef steak mince;EN
+34964;Blended spread 75%, ingmariini, normally salted, lactose-free;EN
+34965;Macaroni and chicken mince casserole, whole wheat macaroni and fat-free milk;EN
+34966;Blended spread 72%, oivariini, normally salted, low-lactose, soft;EN
+34970;Blend 40%, oivariini light, low-lactose;EN
+34971;Oat, coarse-ground oat, kaurakuitunen;EN
+34972;Olive, average, without stone, in brine, green;EN
+34974;Soy product, alpro go on, soured, plain, fat 3.6%;EN
+34975;Soy product, alpro go on, soured, flavoured, fat 2,9%;EN
+34976;Doughnut with jam, bakery;EN
+34977;Ham pasta;EN
+34978;Papadum, thin indian crispbread;EN
+34979;Multigrain bread, flatbread, barley, home-made;EN
+34980;Cheese, polar, 20% fat;EN
+34981;Salmon burger;EN
+34982;Hamburger, baconburger;EN
+34983;Whey protein concentrate;EN
+34984;Chocolate milk, cold, valio play, lactose-free;EN
+34985;Coffee drink, cold, coffee with milk, vitamin d, lactose-free;EN
+34986;Coffee beverage, iced coffee, 1.8% fat, lactose-free;EN
+34988;Mineral water with juice;EN
+34989;Vitamin water, vitamin well, sweetened with fructose;EN
+34990;Meal replacement, whey protein powder, 74% protein;EN
+34991;Meal replacement, whey protein powder, 85% protein;EN
+34992;Meal replacement, protein bar, average, c. 20% protein;EN
+34994;Muesli, no added sugar;EN
+34995;Smoothie, fruit/berry, quark and milk;EN
+34996;Meal replacement, soy protein powder, c. 80% protein;EN
+34997;Meal replacement, whey protein powder, c. 90% protein;EN
+34998;Profeel protein drink, sugar-free, valio, 1 ug vitamin d;EN
+34999;Sport beverage, recovery drink, gainomax;EN
+35000;Sport beverage, protein drink, protein shake, fast;EN
+35001;Butter lactose-free, low sodium;EN
+35002;Sport beverage, protein drink, protein smoothie, fast;EN
+35003;Meal replacement, whey protein powder, profeel, 44% protein;EN
+35004;Sport beverage, protein drink, 1,6% fat;EN
+35005;Snack bar, date bar with nuts, bare bar;EN
+35006;Margarine 70%, fluid;EN
+35007;Meal replacement, protein bar, c. 30% protein, fibre, soft bar;EN
+35008;Margarine 60%, rainbow/pirkka,/x-tra, lactose free;EN
+35009;Margarine 60%, pirkka, high sodium;EN
+35011;Meal replacement, energy bar, vitamins, average;EN
+35012;Meal replacement, protein bar, average, c. 40% protein;EN
+35013;Meal replacement, whey protein powder, c. 40% protein;EN
+35018;Goat cheese hamburger, wheat roll with crushed grain;EN
+35034;Margarine or blended spread for bread, average;EN

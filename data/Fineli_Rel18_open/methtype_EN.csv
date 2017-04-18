@@ -1,0 +1,18 @@
+THSCODE;DESCRIPT;LANG
+A;analytical result(s);EN
+AG;analytical, generic;EN
+CG;calculated, generic;EN
+D;aggregation of contributing analytical results;EN
+E;other method type;EN
+G;calculated as aggregate food item;EN
+I;imputed/estimated from related food;EN
+IG;imputed/estimated, generic;EN
+K;calculated from related food;EN
+L;estimated according to regulatory requirements;EN
+O;imputed/estimated from other food and other related component;EN
+P;calculated on component profile;EN
+R;calculated as recipe;EN
+S;summation from constituent components;EN
+T;calculations including conversion factors;EN
+U;estimated according to logical deduction;EN
+X;method type not known;EN

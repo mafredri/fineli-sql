@@ -1,0 +1,31 @@
+THSCODE;DESCRIPT;LANG
+ADDFREE;utan tillsatsämne;SV
+ALCFREE;alkoholfri;SV
+ARTSWEET;artificiellt sötad;SV
+CHOLFREE;Vid kostbehandling av hjärt- och kärlsjukdomar och diabetes minskar man intaget av kolesterolrika livsmedel. Livsmedel för en kolesterolfri kost på Fineli innehåller högst 5 mg kolesterol per 100 gram livsmedel.;SV
+EGGFREE;En äggfri kost innehåller inga hönsägg.;SV
+FATFREE;Livsmedel för en fettfri kost på Fineli innehåller högst 0,5 g fett per 100 gram livsmedel. ;SV
+FRUSWEET;sötad med fruktos;SV
+FUNCTION;functionellt;SV
+GLUTFREE;Vid kostbehandling av celiaki utesluter man livsmedel som innehåller vete, råg eller korn. Havre kan ingå i kosten förutsatt att vårdande läkare följer sjukdomens utveckling. Havre hör inte till glutenfri kost på Fineli.;SV
+HIGHFIBR;En fiberrik kost är bra för alla, speciellt för personer som vill gå ner i vikt och för behandling av diabetes, hjärt- och kärlsjukdomar och förstoppning. Livsmedel för en fiberrik kost på Fineli innehåller minst 6 g fiber per 100 gram livsmedel.;SV
+HIGHSALT;Livsmedel som innehåller över två procent salt har klassats som kraftigt saltade.;SV
+LACOVEGE;En lakto-ovo-vegetarisk kost är sammansatt av produkter från växtriket samt mjölkprodukter och ägg.;SV
+LACSFREE;Vid laktosmalabsorption sker ingen klyvning av mjölksocker dvs. laktos, vilket beror på brist på laktasenzymet. Vid kostbehandling av laktosmalabsorption minskar man intaget av laktoshaltiga livsmedel.;SV
+LACVEGE;Laktovegetarisk kost är sammansatt av produkter från växtriket samt mjölkprodukter.;SV
+LOWCHOL;Vid kostbehandling av hjärt- och kärlsjukdomar och diabetes minskar man intaget av kolesterolrika livsmedel. Livsmedel för en kost med låg kolesterolhalt innehåller mindre kolesterol än motsvarande livsmedel i samma livsmedelsgrupp.;SV
+LOWENER;låg energihalt, lätt;SV
+LOWFAT;Livsmedel för en kost med låg fetthalt innehåller mindre fett än motsvarande livsmedel i samma livsmedelsgrupp.;SV
+LOWLACS;Ett livsmedel som innehåller mindre än ett gram laktos per 100 gram livsmedel.;SV
+LOWPROT;Livsmedel för en kost med låg proteinhalt innehåller lite eller inget protein alls.;SV
+LOWSALT;Ett livsmedel som innehåller mindre salt än motsvarande livsmedel i samma livsmedelsgrupp.;SV
+MILKFREE;Komjölkallergi innebär att man är överkänslig för proteinet i mjölken. Vid kostbehandling av mjölkallergi utesluter man mjölk och livsmedel som innehåller mjölk.;SV
+NAGLUFRE;Naturligt glutenfria livsmedel är tillverkade av sådana råvaror som aldrig någonsin har innehållit gluten, dvs. man har inte varit tvungen att ta bort glutenet ur råvarorna. Kosten innehåller inte råg, vete, havre eller korn.;SV
+NOCOLOUR;utan färgämne;SV
+NOPRESER;utan konserveringsmedel;SV
+SALTFREE;Ett livsmedel som inte innehåller tillsatt salt.;SV
+SOYAFREE;En sojafri kost innehåller inte sojabönor eller sojaprodukter såsom tofu.;SV
+SUCSFREE;sockerfri;SV
+UNSWEET;Produkterna i en osötad kost innehåller inget tillsatt socker eller sötningsmedel.;SV
+VEGAN;Vegankost är sammansatt av produkter endast från växtriket.;SV
+VITAMADD;Livsmedlet innehåller tillsatta vitaminer och mineraler.;SV

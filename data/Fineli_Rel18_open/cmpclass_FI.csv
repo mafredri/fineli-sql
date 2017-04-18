@@ -1,0 +1,54 @@
+THSCODE;DESCRIPT;LANG
+NUTRIENT;Ravintoaine;FI
+MACROCMP;Perusravintoaineet;FI
+ENERGY;Energia;FI
+PROTEIN;Proteiini;FI
+TOTALFAT;Rasva;FI
+TOTALCAR;Kokonaishiilihydraatti;FI
+ALCOHOL;Alkoholi;FI
+WATER;Vesi;FI
+ASH;Tuhka;FI
+DRYMATR;Kuiva-aine;FI
+CARBOCMP;Hiilihydraattifraktiot;FI
+SUGAR;Sokerit;FI
+STARCH;Tärkkelys;FI
+FIBRE;Kuitu;FI
+POLYOL;Polyolit;FI
+POLYSACC;Polysakkaridit;FI
+OLIGSACC;Oligosakkaridit;FI
+FAT;Rasva;FI
+FATACID;Rasvahapot;FI
+STEROL;Sterolit;FI
+PHOLIPID;Fosfolipidit;FI
+TRIGLYSE;Triglyseridit;FI
+MINERAL;Kivennäis- ja hivenaineet;FI
+MACROELM;Kivennäisaineet;FI
+TRACEELM;Hivenaineet;FI
+NITROCMP;Typpiyhdisteet;FI
+NITROGEN;Typpi;FI
+AMACID;Aminohapot;FI
+VITAM;Vitamiinit;FI
+FSVITAM;Rasvaliukoiset vitamiinit;FI
+WSVITAM;Vesiliukoiset vitamiinit;FI
+ORGACID;Orgaaniset hapot;FI
+MISC;Sekalaiset ravintotekijät;FI
+NATINHCN;Luontainen ainesosa;FI
+FLAVON;Flavonoidit;FI
+NITRATE;Nitraatti;FI
+OXAACID;Oksaalihappo;FI
+PHYACID;Fytiinihappo;FI
+PHYESTRO;Fytoestrogeenit;FI
+TANNIN;Tanniinit;FI
+INOSITOL;Inositoli;FI
+PURINE;Puriinit;FI
+BIOAMIN;Biogeeniset amiinit;FI
+BIOTOXIN;Biologiset toksiinit;FI
+ADDITIVE;Lisäaineet;FI
+CONT;Vierasaineet;FI
+ORGCONT;Orgaaniset kontaminantit;FI
+PCB;PCB;FI
+DIOXIN;Dioksiinit;FI
+INOCONT;Epäorgaaniset kontaminantit;FI
+HVYMETAL;Raskasmetallit;FI
+PESTICID;Torjunta-aineet;FI
+OTHER;Muut ainesosat;FI

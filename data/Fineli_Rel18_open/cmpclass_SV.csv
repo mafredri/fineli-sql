@@ -1,0 +1,52 @@
+THSCODE;DESCRIPT;LANG
+NUTRIENT;Näringsämne;SV
+MACROCMP;Makrokomponenter;SV
+ENERGY;Energi;SV
+PROTEIN;Protein;SV
+TOTALFAT;Fett, totalt;SV
+TOTALCAR;Kolhydrater, totalt;SV
+ALCOHOL;Alkohol;SV
+WATER;Vatten;SV
+ASH;Aska;SV
+DRYMATR;Torrämne;SV
+CARBOCMP;Kolhydrater, komponenter;SV
+SUGAR;Sockerarter;SV
+STARCH;Stärkelse;SV
+FIBRE;Fiber;SV
+POLYOL;Polyoler;SV
+POLYSACC;Polysackarider;SV
+OLIGSACC;Oligosackarider;SV
+FAT;Fett;SV
+FATACID;Fettsyror;SV
+STEROL;Steroler;SV
+PHOLIPID;Fosfolipider;SV
+TRIGLYSE;Triglycerider;SV
+MINERAL;Mineralämnen;SV
+MACROELM;Makroelement;SV
+TRACEELM;Spårelement;SV
+NITROCMP;Kväveföreningar;SV
+NITROGEN;Kväve;SV
+AMACID;Aminosyror;SV
+VITAM;Vitaminer;SV
+FSVITAM;Fettlösliga vitaminer;SV
+WSVITAM;Vattenlösliga vitaminer;SV
+ORGACID;Organiska syror;SV
+MISC;Diverse;SV
+NATINHCN;Naturliga ingredienser;SV
+FLAVON;Flavonoider;SV
+NITRATE;Nitrat;SV
+OXAACID;Oxalsyra;SV
+PHYACID;Fytinsyra;SV
+PHYESTRO;Fytoöstrogener;SV
+TANNIN;Tannin;SV
+INOSITOL;Inositol;SV
+PURINE;Puriner;SV
+BIOTOXIN;Biotoxin;SV
+ADDITIVE;Tillsatser;SV
+CONT;Främmande ämnen;SV
+ORGCONT;Organiska kontaminanter;SV
+PCB;PCB-föreningar;SV
+DIOXIN;Dioxiner;SV
+INOCONT;Oorganiska kontaminanter;SV
+HVYMETAL;Tungmetaller;SV
+PESTICID;Pesticider;SV
