@@ -242,3 +242,32 @@ INSERT INTO food_add_unit (food_id, unit_id, mass)
     FROM foodaddunit_csv fau
     JOIN units u ON u.code = fau.FOODUNIT
     ORDER BY fau.FOODID, u.id;
+
+-- specdiet_EN
+-- THSCODE;DESCRIPT;LANG
+-- ADDFREE;no additives;EN
+DROP TABLE IF EXISTS special_diet;
+CREATE TABLE special_diet (
+    id          integer PRIMARY KEY,
+    description varchar,
+    code        varchar
+);
+
+INSERT INTO special_diet (description, code)
+    SELECT DESCRIPT, THSCODE FROM specdiet_csv ORDER BY THSCODE;
+
+-- specdiet (foodspecdiet)
+-- FOODID;SPECDIET
+-- 1;GLUTFREE
+DROP TABLE IF EXISTS food_special_diet;
+CREATE TABLE food_special_diet (
+    id              integer PRIMARY KEY,
+    food_id         integer,
+    special_diet_id integer
+);
+
+INSERT INTO food_special_diet (food_id, special_diet_id)
+    SELECT fsd.FOODID, sp.id
+    FROM foodspecdiet_csv fsd
+    JOIN special_diet sp ON sp.code = fsd.SPECDIET
+    ORDER BY fsd.FOODID, sp.code;

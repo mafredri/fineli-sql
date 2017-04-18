@@ -3,10 +3,12 @@
 emulate -L zsh
 
 BUILD=build
-FINELI_DB=Fineli_Rel16_open
+FINELI_DB=Fineli_Rel18_open
 DATABASE=$BUILD/fineli.db
 
 [[ -f $DATABASE ]] && rm $DATABASE
+
+(cd data/${FINELI_DB}; mv specdiet.csv foodspecdiet.csv) 2>/dev/null
 
 print "Importing csv files into database..."
 
