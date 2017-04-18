@@ -131,9 +131,10 @@ CREATE TABLE component_value (
 );
 
 INSERT INTO component_value (food_id, component_id, value, source_id, method_id)
-    SELECT cv.FOODID,
+    SELECT
+        cv.FOODID,
         c.id,
-        replace(cv.BESTLOC, ",", "."),
+        CASE WHEN cv.BESTLOC != "" THEN replace(cv.BESTLOC, ",", ".") ELSE NULL END,
         s.id,
         m.id
     FROM component_value_csv cv
